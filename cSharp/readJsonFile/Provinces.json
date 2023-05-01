@@ -1,0 +1,5822 @@
+[
+    {
+        "Id": "57B23174-CA60-4813-9E8D-001F0C51494C",
+        "CityId": "A2489047-E873-4748-B85B-2014F7BA68AA",
+        "LicensePlate": 33,
+        "Name": "Toroslar"
+    },
+    {
+        "Id": "9F8CC3E0-899F-4A33-BB68-005C5C336456",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Susurluk"
+    },
+    {
+        "Id": "5D6FD3BB-6486-4F39-8943-0066D96D1100",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Gömeç"
+    },
+    {
+        "Id": "A5934D1C-F357-487C-95D0-011E09A7AE9C",
+        "CityId": "B178B5B4-4674-47AA-879D-3037F5DB05F5",
+        "LicensePlate": 65,
+        "Name": "Özalp"
+    },
+    {
+        "Id": "4A83D84E-2443-4B6D-9076-015A4B0FD8B5",
+        "CityId": "01F89680-DAD6-4B4E-B5E7-459575DFB229",
+        "LicensePlate": 27,
+        "Name": "Nurdağı"
+    },
+    {
+        "Id": "93E1EF45-01CC-4CFC-87AC-0170A9DE48E2",
+        "CityId": "35EED674-FF38-4059-80A5-987363D16698",
+        "LicensePlate": 26,
+        "Name": "Günyüzü"
+    },
+    {
+        "Id": "3F7117FE-171F-4FB9-BFD2-01B95E3DC6FB",
+        "CityId": "35EED674-FF38-4059-80A5-987363D16698",
+        "LicensePlate": 26,
+        "Name": "Sivrihisar"
+    },
+    {
+        "Id": "48EA1CC5-BB6C-4222-80FC-025D724C516F",
+        "CityId": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "LicensePlate": 19,
+        "Name": "Alaca"
+    },
+    {
+        "Id": "A399AE6B-F2A8-4999-B944-0261BBCA5835",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Dazkırı"
+    },
+    {
+        "Id": "D5B39C1F-1658-4A12-9D04-032863203E96",
+        "CityId": "85A7BA3E-E88D-4D46-BB16-AD331DB80513",
+        "LicensePlate": 4,
+        "Name": "Taşlıçay"
+    },
+    {
+        "Id": "F0649F15-EA49-4793-9642-0348B24B7A42",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Büyükçekmece"
+    },
+    {
+        "Id": "48197787-733D-47A5-806F-0352AC26812A",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "İmamoğlu"
+    },
+    {
+        "Id": "76C48DD1-D23F-4DBD-9FF1-037106DCC329",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Silvan"
+    },
+    {
+        "Id": "DC67FCA9-2088-4DFF-B882-038195CDD70C",
+        "CityId": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "LicensePlate": 19,
+        "Name": "Bayat \/ Çorum"
+    },
+    {
+        "Id": "45023C38-11BA-4309-8A5E-0382FCD10F4F",
+        "CityId": "3200C908-861C-4196-806F-5D692A4BCA8F",
+        "LicensePlate": 74,
+        "Name": "Kurucaşile"
+    },
+    {
+        "Id": "E58A9660-361B-4480-90BD-03DC21623A93",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Kocaköy"
+    },
+    {
+        "Id": "BFD45131-D329-4BF7-935A-03FB36564CB6",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Yomra"
+    },
+    {
+        "Id": "11B10553-F974-4242-A8D2-04000FC120E3",
+        "CityId": "3F5A01E5-4AC7-4D3B-A8AA-CC03E4896A1B",
+        "LicensePlate": 71,
+        "Name": "Keskin"
+    },
+    {
+        "Id": "C4BC3EB6-0828-40E0-A817-0414DDA0CD7C",
+        "CityId": "FF31E45F-3BE0-4C1B-AFB1-E4F160A090B7",
+        "LicensePlate": 47,
+        "Name": "Dargeçit"
+    },
+    {
+        "Id": "82C80356-25E5-4BCE-BED8-043FBB29366A",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Etimesgut"
+    },
+    {
+        "Id": "F40965F8-B6B3-4E8E-B5B8-04CF764F89AE",
+        "CityId": "2F8C2F72-92B5-4BCB-822B-14A652E7B404",
+        "LicensePlate": 23,
+        "Name": "Maden"
+    },
+    {
+        "Id": "5F97B49B-15AD-4805-9C2C-057DA1127CE9",
+        "CityId": "BDF8ACFE-B92C-4875-946D-F3D35A4FA25F",
+        "LicensePlate": 64,
+        "Name": "Eşme"
+    },
+    {
+        "Id": "A649C303-F7E1-402A-81E8-057E1A63FB3D",
+        "CityId": "27998AF5-0B1F-4B68-B188-7A63975BABE4",
+        "LicensePlate": 50,
+        "Name": "Acıgöl"
+    },
+    {
+        "Id": "45FB1C1D-F3D8-46B1-8346-05ED7761A7E1",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Keles"
+    },
+    {
+        "Id": "568DB6E9-0BC6-430C-A3A0-0636B9B7EA74",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Ereğli \/ Konya"
+    },
+    {
+        "Id": "9D33FF5A-AA6D-4B7C-AFAE-068E44B49ED8",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Doğanyurt"
+    },
+    {
+        "Id": "59F26A49-B74A-4AB4-BF6E-06E1126B6403",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Keçiören"
+    },
+    {
+        "Id": "C8172045-6293-472A-A7CA-06E398CC135E",
+        "CityId": "2F8C2F72-92B5-4BCB-822B-14A652E7B404",
+        "LicensePlate": 23,
+        "Name": "Palu"
+    },
+    {
+        "Id": "020B0135-613D-4BE6-B91A-070301A8989D",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Sur"
+    },
+    {
+        "Id": "F1403613-47C1-42DA-A9EA-0727F156568D",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Kumru"
+    },
+    {
+        "Id": "31067728-AC98-4390-A2CE-07BFFEF0906A",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Serinhisar"
+    },
+    {
+        "Id": "5967DFD6-1AD0-406C-BF16-07CB70A88CBD",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Şuhut"
+    },
+    {
+        "Id": "875C95E9-D844-4551-BC6B-07D8505E59BC",
+        "CityId": "83AE9E20-CCCE-419D-B6B2-F7B97BD5CDCD",
+        "LicensePlate": 51,
+        "Name": "Çamardı"
+    },
+    {
+        "Id": "A64B06EB-6AE3-4BA4-9734-084C4F605C5A",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Giresun Merkez"
+    },
+    {
+        "Id": "C75F02F1-137A-4852-9248-0853E45CCBF8",
+        "CityId": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "LicensePlate": 66,
+        "Name": "Sorgun"
+    },
+    {
+        "Id": "02E8B26C-BFD9-4653-B298-08873DC3C558",
+        "CityId": "569A01D1-EBFD-4CCF-84DC-77543A70AC49",
+        "LicensePlate": 62,
+        "Name": "Nazımiye"
+    },
+    {
+        "Id": "34D38DE4-37EF-4D92-AAF5-08D431C90349",
+        "CityId": "2F8C2F72-92B5-4BCB-822B-14A652E7B404",
+        "LicensePlate": 23,
+        "Name": "Baskil"
+    },
+    {
+        "Id": "8F94C547-FBA7-4AE2-BFA6-090910B1295B",
+        "CityId": "01F89680-DAD6-4B4E-B5E7-459575DFB229",
+        "LicensePlate": 27,
+        "Name": "Şahinbey"
+    },
+    {
+        "Id": "48550836-160A-432F-BD4C-092063DE572F",
+        "CityId": "35CA39E9-A43F-46AB-B2ED-46A08ABAE321",
+        "LicensePlate": 77,
+        "Name": "Yalova Merkez"
+    },
+    {
+        "Id": "03BC66EB-CD6C-474D-9C51-092FD46AD1B7",
+        "CityId": "FF31E45F-3BE0-4C1B-AFB1-E4F160A090B7",
+        "LicensePlate": 47,
+        "Name": "Savur"
+    },
+    {
+        "Id": "4E6BA9F1-92AC-4DCE-AC3E-09D44E3F6665",
+        "CityId": "763BE7DE-9D7C-4231-8868-C719433E5E7F",
+        "LicensePlate": 8,
+        "Name": "Ardanuç"
+    },
+    {
+        "Id": "6CC78D6B-E473-41EB-B1F3-0A3293F6F88F",
+        "CityId": "44C2DCCC-C65D-448E-939E-359EFB9867E9",
+        "LicensePlate": 32,
+        "Name": "Isparta Merkez"
+    },
+    {
+        "Id": "903D7C8B-52B3-434F-81F1-0A4C2E9898BC",
+        "CityId": "77C6C44E-5B3B-4244-8F71-A3FFFE96FB8C",
+        "LicensePlate": 80,
+        "Name": "Bahçe"
+    },
+    {
+        "Id": "5A2EE228-AAC1-4135-8396-0A524C9CC17E",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Karesi"
+    },
+    {
+        "Id": "C87CAED3-5221-4914-9021-0AB29BBA543F",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Bismil"
+    },
+    {
+        "Id": "7F6B941B-CE44-4BE0-9035-0B4766E2A15E",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "İscehisar"
+    },
+    {
+        "Id": "F6662C94-E816-468B-927E-0B6764334A0A",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Akhisar"
+    },
+    {
+        "Id": "B0AC5E8C-EED9-46E3-8AB0-0B72B4D48CEC",
+        "CityId": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "LicensePlate": 66,
+        "Name": "Yenifakılı"
+    },
+    {
+        "Id": "F73E8B86-0A7B-40D4-AFF3-0BB1DA4752B8",
+        "CityId": "44C2DCCC-C65D-448E-939E-359EFB9867E9",
+        "LicensePlate": 32,
+        "Name": "Uluborlu"
+    },
+    {
+        "Id": "EC3E50B8-4795-44F9-96A4-0BE5E38CD042",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Of"
+    },
+    {
+        "Id": "4FDDE6C8-9550-4CC3-9803-0BED646A76F6",
+        "CityId": "4FB8657E-62BC-40CC-88C9-D0C182F6E08E",
+        "LicensePlate": 43,
+        "Name": "Emet"
+    },
+    {
+        "Id": "A5428688-F99E-4F4D-9D0D-0BFAE04685C1",
+        "CityId": "72361AF4-F8E1-4368-B813-D883F62971D0",
+        "LicensePlate": 67,
+        "Name": "Devrek"
+    },
+    {
+        "Id": "837944FE-FFDA-4967-861C-0C14DEACB186",
+        "CityId": "FF31E45F-3BE0-4C1B-AFB1-E4F160A090B7",
+        "LicensePlate": 47,
+        "Name": "Midyat"
+    },
+    {
+        "Id": "C9E3A3B8-5D52-4C7E-B6CC-0C2980AC4B86",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Salihli"
+    },
+    {
+        "Id": "E95AEEDE-20F4-4924-B474-0C33D4AFD828",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Dernekpazarı"
+    },
+    {
+        "Id": "5BB79FD7-5CB7-4871-8D2A-0C4542C26049",
+        "CityId": "AF8CD910-CA31-4846-AD0F-0527D134CDF5",
+        "LicensePlate": 69,
+        "Name": "Demirözü"
+    },
+    {
+        "Id": "AFA4EC06-7B00-4E71-A58B-0D23BE55F637",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Çatalzeytin"
+    },
+    {
+        "Id": "18DC7FFC-D5F2-40CA-8E19-0D7B2CA7AF7D",
+        "CityId": "01F89680-DAD6-4B4E-B5E7-459575DFB229",
+        "LicensePlate": 27,
+        "Name": "Şehitkamil"
+    },
+    {
+        "Id": "B18B387C-AD0B-433D-86F5-0D8113AD4BC5",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Esenyurt"
+    },
+    {
+        "Id": "63C079AF-AB39-4754-B992-0D91C577BFFE",
+        "CityId": "E53EBA61-1039-415F-949C-E87EE3C857C2",
+        "LicensePlate": 48,
+        "Name": "Seydikemer"
+    },
+    {
+        "Id": "90CC0E20-E9AB-4425-8CB5-0DF7B48F9C3B",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Akseki"
+    },
+    {
+        "Id": "D91C1569-3C1F-4548-B421-0E1CE9CFE27A",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Çeltik"
+    },
+    {
+        "Id": "34745E3F-46EF-4E85-B10C-0EDB93FB72FC",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Sincan"
+    },
+    {
+        "Id": "DCE84371-970E-4B36-9816-0F276E8F0A5B",
+        "CityId": "98774BEE-6DD5-4211-9BBA-2F64945BBAF5",
+        "LicensePlate": 46,
+        "Name": "Andırın"
+    },
+    {
+        "Id": "1B088E46-9A2D-4B25-9F62-0F32BA623C05",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Bergama"
+    },
+    {
+        "Id": "624CBFC6-029D-41E8-B577-0F37C983358A",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Yıldırım"
+    },
+    {
+        "Id": "18640E1F-4075-4AA8-BDB3-0F5C247E2576",
+        "CityId": "FD3A53DC-51B7-484A-B72B-F2431C926141",
+        "LicensePlate": 24,
+        "Name": "Erzincan Merkez"
+    },
+    {
+        "Id": "BFDE0F46-BCE1-4B1B-868D-0F79978757AC",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Torbalı"
+    },
+    {
+        "Id": "93292551-F455-49BD-8E24-0FD02A83A967",
+        "CityId": "E53EBA61-1039-415F-949C-E87EE3C857C2",
+        "LicensePlate": 48,
+        "Name": "Milas"
+    },
+    {
+        "Id": "E8491F63-90B2-49B0-8CAE-0FD99445B67E",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Beylikdüzü"
+    },
+    {
+        "Id": "FB147275-DEE0-4EC3-84C0-10037E6B1010",
+        "CityId": "5D52FA8F-33DD-42BE-92B1-0E8D5B16D9DF",
+        "LicensePlate": 63,
+        "Name": "Haliliye"
+    },
+    {
+        "Id": "67FF8856-6968-41C5-A5C2-1040A2CE4A9D",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Cihanbeyli"
+    },
+    {
+        "Id": "64F62826-B757-4E0A-B967-10B402BF0C3D",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Alaçam"
+    },
+    {
+        "Id": "0C08C743-0E02-4EF3-80BE-1115711E1844",
+        "CityId": "69CB5221-0AE0-4B36-8ED6-7EE05712F9EE",
+        "LicensePlate": 78,
+        "Name": "Yenice \/ Karabük"
+    },
+    {
+        "Id": "6AFBA7D8-8B91-46B5-8E3C-112CAAD9F50D",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Araklı"
+    },
+    {
+        "Id": "999EF718-5F2D-43B0-BD9A-113856A541D4",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Kaş"
+    },
+    {
+        "Id": "AEF8AC1E-3A81-40A8-91C9-11803453FBB2",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Osmangazi"
+    },
+    {
+        "Id": "5D4860CD-8AD9-497D-811D-11D98FD519C2",
+        "CityId": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "LicensePlate": 66,
+        "Name": "Yerköy"
+    },
+    {
+        "Id": "A05B281D-F8C6-4199-98D7-11FCF505C8D1",
+        "CityId": "5328F50E-AA88-418D-9C80-6ECC992993F0",
+        "LicensePlate": 53,
+        "Name": "Derepazarı"
+    },
+    {
+        "Id": "12D4C60B-EA7B-4D9C-86DE-123BE8AF81E0",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Bayat \/ Afyonkarahisar"
+    },
+    {
+        "Id": "7F760DB4-E380-41E0-AC21-126173BB89F3",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Kale \/ Denizli"
+    },
+    {
+        "Id": "842BD205-9557-4E42-8ED1-1288A99D4E12",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Aliağa"
+    },
+    {
+        "Id": "DAA7E2A9-6784-4DA9-88D6-128A5B81543C",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Aksu \/ Antalya"
+    },
+    {
+        "Id": "0FADF424-BB47-4EF7-8607-12B3FB4B7553",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Şebinkarahisar"
+    },
+    {
+        "Id": "3F723380-DA88-449D-A758-12F038759646",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Ferizli"
+    },
+    {
+        "Id": "5F9D7AFC-3AA0-4F1A-BAC1-1366548ECF2B",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Demre"
+    },
+    {
+        "Id": "424BDB48-BB0C-4AE5-92B0-13715FE446F6",
+        "CityId": "202CA76D-2BBA-4BA7-A898-EE02FEAFCC42",
+        "LicensePlate": 59,
+        "Name": "Saray \/ Tekirdağ"
+    },
+    {
+        "Id": "F5B40BDF-9DD9-4DC5-B872-13C056FB8CB5",
+        "CityId": "98774BEE-6DD5-4211-9BBA-2F64945BBAF5",
+        "LicensePlate": 46,
+        "Name": "Türkoğlu"
+    },
+    {
+        "Id": "27BA0655-76F2-4AD6-9DBC-13FACFD27E32",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Sivas Merkez"
+    },
+    {
+        "Id": "A0F48122-5220-4460-9166-1483A1DD1F3D",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Kocaali"
+    },
+    {
+        "Id": "426EDB22-1DEA-48E5-9D3A-14B79A1629B5",
+        "CityId": "8F2B606C-B978-4DD5-955D-8CCEEA831483",
+        "LicensePlate": 60,
+        "Name": "Erbaa"
+    },
+    {
+        "Id": "78DDC154-6E81-433F-97BF-14F505FA267D",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "Karataş"
+    },
+    {
+        "Id": "FC4E9184-1EEB-4773-8299-154B6E6DA633",
+        "CityId": "A7757225-5423-4A53-8DF5-B734E56B062B",
+        "LicensePlate": 56,
+        "Name": "Tillo"
+    },
+    {
+        "Id": "4C6E9EBA-2F9F-4151-8542-1579D588412D",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Gürsu"
+    },
+    {
+        "Id": "7B625937-E3EB-4E52-B86F-1589273653BE",
+        "CityId": "B178B5B4-4674-47AA-879D-3037F5DB05F5",
+        "LicensePlate": 65,
+        "Name": "Muradiye"
+    },
+    {
+        "Id": "2C11F178-84F8-47DE-A762-159D62D4F8E1",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Kınık"
+    },
+    {
+        "Id": "4F6C6E67-8FB8-4B05-8BC5-15C8935A6CF6",
+        "CityId": "37060E25-736A-44D5-8A6C-3E7BB05751EA",
+        "LicensePlate": 11,
+        "Name": "Söğüt"
+    },
+    {
+        "Id": "83E6038F-1C75-436D-A73B-15DFA03E916A",
+        "CityId": "27998AF5-0B1F-4B68-B188-7A63975BABE4",
+        "LicensePlate": 50,
+        "Name": "Gülşehir"
+    },
+    {
+        "Id": "65ECA950-45BF-4A8B-98F2-1603815539E1",
+        "CityId": "5D05DC4F-F2A4-4C6A-9C93-4B1EF5BEBA10",
+        "LicensePlate": 41,
+        "Name": "İzmit"
+    },
+    {
+        "Id": "E969090C-24D6-451C-9A06-16451B7013E5",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Büyükorhan"
+    },
+    {
+        "Id": "42196D2B-F171-4E12-A0CD-16D3D5A01CC7",
+        "CityId": "353A4342-9214-4AB5-912A-67A6BE3E9818",
+        "LicensePlate": 81,
+        "Name": "Gümüşova"
+    },
+    {
+        "Id": "3A7C78BD-3DFB-4AE6-A8B2-16EC5767E986",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Sancaktepe"
+    },
+    {
+        "Id": "340F9318-0F74-4E30-8738-17147748B5EF",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Akkuş"
+    },
+    {
+        "Id": "F876B752-349E-451A-BAA0-173BAEFE0F45",
+        "CityId": "44C2DCCC-C65D-448E-939E-359EFB9867E9",
+        "LicensePlate": 32,
+        "Name": "Atabey"
+    },
+    {
+        "Id": "ED54C41D-E29D-414A-B7E7-17B4DEC876EC",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Çatalca"
+    },
+    {
+        "Id": "C3F131EC-64EC-4490-A7EC-17D06791AF2E",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Taşkent"
+    },
+    {
+        "Id": "5B8D2B00-2B22-4545-A52D-17F218B9C8FD",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Mamak"
+    },
+    {
+        "Id": "8EB70E39-B5BF-44D1-8F0D-1824AA3A493B",
+        "CityId": "E27D0030-574F-4CFB-B2D1-71B1C433D80B",
+        "LicensePlate": 76,
+        "Name": "Tuzluca"
+    },
+    {
+        "Id": "04AE8744-E9E7-4FFD-8D88-187308715794",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Şehzadeler"
+    },
+    {
+        "Id": "3F8EE4DD-454B-45B4-8CA1-18974B02FB4A",
+        "CityId": "8F2B606C-B978-4DD5-955D-8CCEEA831483",
+        "LicensePlate": 60,
+        "Name": "Sulusaray"
+    },
+    {
+        "Id": "1EEEBE06-CA14-4236-9209-1898E649E8DF",
+        "CityId": "FF31E45F-3BE0-4C1B-AFB1-E4F160A090B7",
+        "LicensePlate": 47,
+        "Name": "Mazıdağı"
+    },
+    {
+        "Id": "6A9CC392-DF21-4E86-80B8-195048171B4E",
+        "CityId": "8AB7FBF9-D2F1-44CC-AAE3-8B3A18B865C7",
+        "LicensePlate": 15,
+        "Name": "Yeşilova"
+    },
+    {
+        "Id": "14E193B3-DAB0-4061-864C-195A56B08208",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Altındağ"
+    },
+    {
+        "Id": "2FAB9BD6-EA3C-41FD-B35E-198F9548CBF3",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Pamukova"
+    },
+    {
+        "Id": "DA73D20E-BAF2-4C8D-8CCC-19AFF69BBDDF",
+        "CityId": "7D977721-6EF8-40FF-AF7A-6EA286CC069D",
+        "LicensePlate": 75,
+        "Name": "Çıldır"
+    },
+    {
+        "Id": "2998E86A-4283-4A2D-B94C-19D8EE2C12AA",
+        "CityId": "5CEB1519-BAA9-4782-8F0A-B53746C66519",
+        "LicensePlate": 40,
+        "Name": "Akçakent"
+    },
+    {
+        "Id": "3B99B1FB-2A40-46AF-B064-1A24186A920B",
+        "CityId": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "LicensePlate": 66,
+        "Name": "Çandır"
+    },
+    {
+        "Id": "808BB28D-F6CE-4D1C-842E-1A35C7BF59D0",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Araç"
+    },
+    {
+        "Id": "C18FAF7A-AD54-4B92-9D70-1A872D9FE1B3",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Sarayönü"
+    },
+    {
+        "Id": "CBC75DD0-8DE7-47C3-A6DD-1AB3F47CC512",
+        "CityId": "98774BEE-6DD5-4211-9BBA-2F64945BBAF5",
+        "LicensePlate": 46,
+        "Name": "Çağlayancerit"
+    },
+    {
+        "Id": "B031356F-284D-4F29-97A3-1ABEB00EE5EB",
+        "CityId": "C8D556F2-C0B3-4852-87D3-4DAC05947E9E",
+        "LicensePlate": 2,
+        "Name": "Besni"
+    },
+    {
+        "Id": "9949A6EA-F8C5-49CA-99D0-1BD7E70C2A88",
+        "CityId": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "LicensePlate": 66,
+        "Name": "Boğazlıyan"
+    },
+    {
+        "Id": "22E71186-A894-4A3C-97D5-1BDE5CE915C7",
+        "CityId": "5D52FA8F-33DD-42BE-92B1-0E8D5B16D9DF",
+        "LicensePlate": 63,
+        "Name": "Hilvan"
+    },
+    {
+        "Id": "59EBDD0F-9134-4D5E-ABD2-1C416773ECF7",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Bekilli"
+    },
+    {
+        "Id": "EBBBC417-F110-4D75-A6EB-1C6D01AB40DA",
+        "CityId": "ED5A1F7D-1AF9-44D1-82EF-CB255D931DF1",
+        "LicensePlate": 36,
+        "Name": "Digor"
+    },
+    {
+        "Id": "15EDD50F-7F92-4730-BA2A-1C82DD4B973A",
+        "CityId": "4FB8657E-62BC-40CC-88C9-D0C182F6E08E",
+        "LicensePlate": 43,
+        "Name": "Pazarlar"
+    },
+    {
+        "Id": "95ED329E-B98A-48FA-8B41-1CC2156DA510",
+        "CityId": "27998AF5-0B1F-4B68-B188-7A63975BABE4",
+        "LicensePlate": 50,
+        "Name": "Hacıbektaş"
+    },
+    {
+        "Id": "66CFBD0D-0E9B-49E2-BA29-1CF55F353839",
+        "CityId": "77C6C44E-5B3B-4244-8F71-A3FFFE96FB8C",
+        "LicensePlate": 80,
+        "Name": "Sumbas"
+    },
+    {
+        "Id": "334E2B80-189B-486B-81B2-1D44800D6688",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Terme"
+    },
+    {
+        "Id": "8608C544-8BFF-4E9B-84F4-1D8AC2871160",
+        "CityId": "2F8C2F72-92B5-4BCB-822B-14A652E7B404",
+        "LicensePlate": 23,
+        "Name": "Sivrice"
+    },
+    {
+        "Id": "DA98F6A9-6276-42B6-A953-1D98EE471CCA",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Hadim"
+    },
+    {
+        "Id": "0CD31F42-2DBC-4A8C-8C8D-1E007FFC9554",
+        "CityId": "4FB8657E-62BC-40CC-88C9-D0C182F6E08E",
+        "LicensePlate": 43,
+        "Name": "Domaniç"
+    },
+    {
+        "Id": "F5823511-74E2-4FC9-B4BF-1E20BBB77B39",
+        "CityId": "9DB3F05C-6499-4084-87E9-BE3954EC1594",
+        "LicensePlate": 39,
+        "Name": "Vize"
+    },
+    {
+        "Id": "3DFC76E6-6581-4E8D-80FB-1E584B103667",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "Antakya"
+    },
+    {
+        "Id": "3F967C8C-4FCC-4BCB-A876-1E5A1937331E",
+        "CityId": "557A99EA-8104-4813-BD16-2A3FBB15EFC1",
+        "LicensePlate": 70,
+        "Name": "Karaman Merkez"
+    },
+    {
+        "Id": "8E94139D-ED66-49D3-8965-1E80726297C5",
+        "CityId": "6AC74E9F-0673-440D-8175-BF54FC72A4F4",
+        "LicensePlate": 18,
+        "Name": "Korgun"
+    },
+    {
+        "Id": "AAC76AA4-A0C1-4089-847F-1E8C1C0FB651",
+        "CityId": "751E950A-9031-441D-A0A8-66BAF6E85982",
+        "LicensePlate": 73,
+        "Name": "Güçlükonak"
+    },
+    {
+        "Id": "D6999A1A-0D52-45E2-8F1F-1E99F9D1FA08",
+        "CityId": "D04CCE1F-144D-4A19-9366-033EEAC12AB8",
+        "LicensePlate": 14,
+        "Name": "Gerede"
+    },
+    {
+        "Id": "FAF1805A-19F9-47E2-A7FD-1ED70E0DD5C5",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Hazro"
+    },
+    {
+        "Id": "06B1F887-6BE4-4D75-9B1D-1F310EB4F230",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Yeşilhisar"
+    },
+    {
+        "Id": "0BC5AA0B-26C6-4674-9A1E-1F424899FBBD",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Şereflikoçhisar"
+    },
+    {
+        "Id": "6D3798FA-42B4-4709-A5FD-1F63A5EC26DE",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Talas"
+    },
+    {
+        "Id": "C345B3CE-DD61-4368-9663-1F6EC1C163E0",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Merkezefendi"
+    },
+    {
+        "Id": "0E65366D-4C14-4184-A2DF-1F95B0E0D6C1",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Gölbaşı \/ Ankara"
+    },
+    {
+        "Id": "015E81E1-445C-449D-81C1-1FFA48F8F3CD",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Kazan"
+    },
+    {
+        "Id": "0B268C0A-C532-4329-A566-20017FA10499",
+        "CityId": "11936EB6-13D1-4F79-97BD-2404254F84C0",
+        "LicensePlate": 72,
+        "Name": "Sason"
+    },
+    {
+        "Id": "19EDE996-9748-4C88-A1B3-2038629BD838",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Koyulhisar"
+    },
+    {
+        "Id": "C6E3CD8D-A9CD-434C-839D-20BE92FDEA4C",
+        "CityId": "5D05DC4F-F2A4-4C6A-9C93-4B1EF5BEBA10",
+        "LicensePlate": 41,
+        "Name": "Başiskele"
+    },
+    {
+        "Id": "8323F185-8E95-4F73-9387-20DD41A5F8D1",
+        "CityId": "EB01DEF7-7DBF-47A1-8E52-44332698F130",
+        "LicensePlate": 29,
+        "Name": "Gümüşhane Merkez"
+    },
+    {
+        "Id": "523E628B-F4D4-42C5-9B92-20FE4098C597",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Çat"
+    },
+    {
+        "Id": "8EECB3CE-C3D1-4287-981D-21264B1F2938",
+        "CityId": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "LicensePlate": 19,
+        "Name": "İskilip"
+    },
+    {
+        "Id": "D3662D44-BAD1-4D08-ADA7-21B241045585",
+        "CityId": "7D977721-6EF8-40FF-AF7A-6EA286CC069D",
+        "LicensePlate": 75,
+        "Name": "Damal"
+    },
+    {
+        "Id": "3753C23E-8F9C-421A-9AF4-21E702529BCB",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "Kırıkhan"
+    },
+    {
+        "Id": "AB4AC924-4135-4A69-9C21-21FFE0C7EFB4",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Sultandağı"
+    },
+    {
+        "Id": "797049AC-03BE-4063-A42F-224FFB1F61E8",
+        "CityId": "35EED674-FF38-4059-80A5-987363D16698",
+        "LicensePlate": 26,
+        "Name": "Mahmudiye"
+    },
+    {
+        "Id": "864E6466-8852-4887-91D9-22AFB70C39C5",
+        "CityId": "B178B5B4-4674-47AA-879D-3037F5DB05F5",
+        "LicensePlate": 65,
+        "Name": "Başkale"
+    },
+    {
+        "Id": "449F6743-CAFC-4ABD-9126-22E71D336D4C",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Çobanlar"
+    },
+    {
+        "Id": "58D7FA95-E129-463D-A676-2338BA6E05CE",
+        "CityId": "353A4342-9214-4AB5-912A-67A6BE3E9818",
+        "LicensePlate": 81,
+        "Name": "Çilimli"
+    },
+    {
+        "Id": "E80BE791-A994-4DCF-88BE-235CFB67BBFA",
+        "CityId": "3200C908-861C-4196-806F-5D692A4BCA8F",
+        "LicensePlate": 74,
+        "Name": "Amasra"
+    },
+    {
+        "Id": "20A9878D-DE6E-4CF4-82DA-2365B9039C1C",
+        "CityId": "01F89680-DAD6-4B4E-B5E7-459575DFB229",
+        "LicensePlate": 27,
+        "Name": "Karkamış"
+    },
+    {
+        "Id": "C26CB0C9-947C-45FA-812A-237261AFA5E7",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Develi"
+    },
+    {
+        "Id": "F8041800-764D-4F19-A103-23B1D7E655A8",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Orhaneli"
+    },
+    {
+        "Id": "BC2741DE-0515-47A6-80F9-23EAD1FA49C7",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Yakakent"
+    },
+    {
+        "Id": "AE4F3AB7-2A0F-46CB-896D-24492289C921",
+        "CityId": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "LicensePlate": 19,
+        "Name": "Laçin"
+    },
+    {
+        "Id": "B6DF0145-3FEB-4B05-ABC0-24DC511B73E6",
+        "CityId": "35CA39E9-A43F-46AB-B2ED-46A08ABAE321",
+        "LicensePlate": 77,
+        "Name": "Altınova"
+    },
+    {
+        "Id": "E1570B39-4E51-4978-ACB3-251DBF53BE33",
+        "CityId": "EB01DEF7-7DBF-47A1-8E52-44332698F130",
+        "LicensePlate": 29,
+        "Name": "Kelkit"
+    },
+    {
+        "Id": "DDC71151-DFF1-4B04-BA1D-2547BFDC88CD",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "Karaisalı"
+    },
+    {
+        "Id": "30C8927B-156D-4458-84E8-25BA930EC1DE",
+        "CityId": "77C6C44E-5B3B-4244-8F71-A3FFFE96FB8C",
+        "LicensePlate": 80,
+        "Name": "Düziçi"
+    },
+    {
+        "Id": "D3D45236-4DA7-4DE0-8387-25C02CC1B037",
+        "CityId": "44C2DCCC-C65D-448E-939E-359EFB9867E9",
+        "LicensePlate": 32,
+        "Name": "Şarkikaraağaç"
+    },
+    {
+        "Id": "B2CC9877-E8B4-4A17-8C1C-25C8AD80FC71",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Bozkurt \/ Denizli"
+    },
+    {
+        "Id": "FB022383-5BE2-4D57-8909-2656DF37313D",
+        "CityId": "E53EBA61-1039-415F-949C-E87EE3C857C2",
+        "LicensePlate": 48,
+        "Name": "Datça"
+    },
+    {
+        "Id": "F07DBA82-AAA9-40D4-BA07-267783EA2F41",
+        "CityId": "98774BEE-6DD5-4211-9BBA-2F64945BBAF5",
+        "LicensePlate": 46,
+        "Name": "Onikişubat"
+    },
+    {
+        "Id": "572E995A-272A-4E0A-ABE4-26CB11F8B021",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Gemerek"
+    },
+    {
+        "Id": "C4E858C9-3714-43B9-8FBC-2733C9A36A11",
+        "CityId": "A2489047-E873-4748-B85B-2014F7BA68AA",
+        "LicensePlate": 33,
+        "Name": "Mut"
+    },
+    {
+        "Id": "AC759199-3024-47A8-9357-27541AC666DF",
+        "CityId": "470E6AA0-EA84-4884-8D48-08711B5FFBFE",
+        "LicensePlate": 49,
+        "Name": "Malazgirt"
+    },
+    {
+        "Id": "F33F4324-F65F-4A6A-9164-27B35212E1F2",
+        "CityId": "71D06293-F087-42F3-8244-56D6D6C7128B",
+        "LicensePlate": 30,
+        "Name": "Yüksekova"
+    },
+    {
+        "Id": "F0B4CDF1-C7EA-4396-97E6-27BA6B9BF351",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Alanya"
+    },
+    {
+        "Id": "71DE5F74-B615-4D54-AB14-28FE4404FAB2",
+        "CityId": "9DB3F05C-6499-4084-87E9-BE3954EC1594",
+        "LicensePlate": 39,
+        "Name": "Pınarhisar"
+    },
+    {
+        "Id": "C4D22A15-9387-494E-98C8-290A85BC2A3A",
+        "CityId": "751E950A-9031-441D-A0A8-66BAF6E85982",
+        "LicensePlate": 73,
+        "Name": "İdil"
+    },
+    {
+        "Id": "F1C6C3C2-F6F0-48F9-B904-29C17EC64611",
+        "CityId": "C8D556F2-C0B3-4852-87D3-4DAC05947E9E",
+        "LicensePlate": 2,
+        "Name": "Kahta"
+    },
+    {
+        "Id": "E19E9829-9662-4CF7-8B39-2A91C550F753",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Gölköy"
+    },
+    {
+        "Id": "5BBE11FB-99D5-4E69-8090-2A9731AD44F0",
+        "CityId": "470E6AA0-EA84-4884-8D48-08711B5FFBFE",
+        "LicensePlate": 49,
+        "Name": "Hasköy"
+    },
+    {
+        "Id": "5C8E5E62-E582-43B4-BED8-2AAB5A68AC14",
+        "CityId": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "LicensePlate": 19,
+        "Name": "Boğazkale"
+    },
+    {
+        "Id": "C129AAD6-B592-464B-A31C-2B022913BF59",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Söğütlü"
+    },
+    {
+        "Id": "818D368B-3C7E-4196-861F-2BBE1172781E",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Azdavay"
+    },
+    {
+        "Id": "3955BB76-245F-4B0D-9013-2BF9DAB52B53",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Keşap"
+    },
+    {
+        "Id": "811C3D64-680B-4192-A644-2C554F310041",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Köprübaşı \/ Trabzon"
+    },
+    {
+        "Id": "E98A5821-54EC-4495-ABC2-2C8DA671D48D",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "Sarıçam"
+    },
+    {
+        "Id": "71785730-795E-4496-90B0-2D0C0156188B",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Ergani"
+    },
+    {
+        "Id": "7316FB40-B40F-456D-8BE9-2DD9ED3D8FB7",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Mesudiye"
+    },
+    {
+        "Id": "34035D61-84E1-44E1-A187-2DE7E0043C2B",
+        "CityId": "3F5A01E5-4AC7-4D3B-A8AA-CC03E4896A1B",
+        "LicensePlate": 71,
+        "Name": "Yahşihan"
+    },
+    {
+        "Id": "6A7F8638-80C5-47F0-A100-2DF83355035F",
+        "CityId": "5D05DC4F-F2A4-4C6A-9C93-4B1EF5BEBA10",
+        "LicensePlate": 41,
+        "Name": "Kartepe"
+    },
+    {
+        "Id": "034544F5-A694-41F3-B8E7-2E567682AAF6",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Vezirköprü"
+    },
+    {
+        "Id": "23A76D08-A04D-438D-9673-2E814EC38900",
+        "CityId": "45B5DD36-C310-4585-ADE8-74A307D55FAF",
+        "LicensePlate": 79,
+        "Name": "Musabeyli"
+    },
+    {
+        "Id": "98840467-008D-4229-B90B-2E8DC25944DB",
+        "CityId": "6AC74E9F-0673-440D-8175-BF54FC72A4F4",
+        "LicensePlate": 18,
+        "Name": "Ilgaz"
+    },
+    {
+        "Id": "E4A228A7-567E-4A5E-928C-2EAB4E9BAFBF",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Doğanşar"
+    },
+    {
+        "Id": "0FB397CE-0B8A-49C6-9401-2F05DFAEC9ED",
+        "CityId": "569A01D1-EBFD-4CCF-84DC-77543A70AC49",
+        "LicensePlate": 62,
+        "Name": "Pertek"
+    },
+    {
+        "Id": "8D8AF1E3-51C0-4B70-AC40-2F503E308C41",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Kocasinan"
+    },
+    {
+        "Id": "869A66DD-B86E-488D-96C6-2F5179897B61",
+        "CityId": "BDF8ACFE-B92C-4875-946D-F3D35A4FA25F",
+        "LicensePlate": 64,
+        "Name": "Uşak Merkez"
+    },
+    {
+        "Id": "6A8FCD86-5DD0-4E36-94A0-2F9F956E67E5",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Narlıdere"
+    },
+    {
+        "Id": "EB0E0AF7-FB24-4294-9D85-2FC9E59A5CDF",
+        "CityId": "8AB7FBF9-D2F1-44CC-AAE3-8B3A18B865C7",
+        "LicensePlate": 15,
+        "Name": "Altınyayla \/ Burdur"
+    },
+    {
+        "Id": "063563E0-C7C6-4EC7-8A21-302B72FCBADA",
+        "CityId": "35F118E5-2A32-4BCC-9B9A-1191088B96E9",
+        "LicensePlate": 57,
+        "Name": "Ayancık"
+    },
+    {
+        "Id": "B24C5932-1487-4798-9A77-30484A141706",
+        "CityId": "202CA76D-2BBA-4BA7-A898-EE02FEAFCC42",
+        "LicensePlate": 59,
+        "Name": "Kapaklı"
+    },
+    {
+        "Id": "B4444AA1-AF93-4D85-AC10-308672253AB2",
+        "CityId": "7D977721-6EF8-40FF-AF7A-6EA286CC069D",
+        "LicensePlate": 75,
+        "Name": "Göle"
+    },
+    {
+        "Id": "1644EF6A-4865-4B54-B745-30F84D28784F",
+        "CityId": "83AE9E20-CCCE-419D-B6B2-F7B97BD5CDCD",
+        "LicensePlate": 51,
+        "Name": "Niğde Merkez"
+    },
+    {
+        "Id": "962A072B-9598-4AB6-9FCD-314F5F4873A0",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Ulaş"
+    },
+    {
+        "Id": "E4C050F8-543A-4C26-A6CC-319A194DBE3B",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Salıpazarı"
+    },
+    {
+        "Id": "D409FA85-60B3-4381-9C98-31A3243023B9",
+        "CityId": "5D05DC4F-F2A4-4C6A-9C93-4B1EF5BEBA10",
+        "LicensePlate": 41,
+        "Name": "Gölcük"
+    },
+    {
+        "Id": "8AFAF2D4-CE7A-4422-82F6-31C1CDEA40A5",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Devrekani"
+    },
+    {
+        "Id": "F92BF2F5-5BFD-40BE-A28C-3225FF56BF66",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Güdül"
+    },
+    {
+        "Id": "1FE73D8F-4558-4A7D-B876-3232ABAD89CE",
+        "CityId": "751E950A-9031-441D-A0A8-66BAF6E85982",
+        "LicensePlate": 73,
+        "Name": "Şırnak Merkez"
+    },
+    {
+        "Id": "DB5FC25C-ED3A-44A6-8CEC-326C62FDF052",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Sultanbeyli"
+    },
+    {
+        "Id": "DFFBA56B-0CFA-4713-B039-32CA19282533",
+        "CityId": "D04CCE1F-144D-4A19-9366-033EEAC12AB8",
+        "LicensePlate": 14,
+        "Name": "Yeniçağa"
+    },
+    {
+        "Id": "C9DB9E1B-9F68-4BCD-A44F-32EA45BE58C0",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Kepsut"
+    },
+    {
+        "Id": "36616EFC-D8F3-4B4D-9CFF-32F152D421C9",
+        "CityId": "FD3A53DC-51B7-484A-B72B-F2431C926141",
+        "LicensePlate": 24,
+        "Name": "Çayırlı"
+    },
+    {
+        "Id": "FF4284D8-B54A-4D70-8F8F-3357EB1458F3",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Afyonkarahisar Merkez"
+    },
+    {
+        "Id": "49B86389-22B6-4154-BBA4-33DCD9A58905",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Saruhanlı"
+    },
+    {
+        "Id": "22098344-9E2F-4AB5-9175-344668625622",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Kartal"
+    },
+    {
+        "Id": "7070A74F-B30E-4138-B8F3-34D1548CFDA1",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Buharkent"
+    },
+    {
+        "Id": "374E954F-F247-4D26-B152-351016CE7F28",
+        "CityId": "A2489047-E873-4748-B85B-2014F7BA68AA",
+        "LicensePlate": 33,
+        "Name": "Erdemli"
+    },
+    {
+        "Id": "4BF84292-9179-4687-BA94-35CB80E92B5F",
+        "CityId": "5328F50E-AA88-418D-9C80-6ECC992993F0",
+        "LicensePlate": 53,
+        "Name": "Rize Merkez"
+    },
+    {
+        "Id": "9F17F8A2-8C53-4130-AAE4-35D3DEB15C4B",
+        "CityId": "6D888C8F-F4CD-4FDA-9B56-208CCE8F6D3D",
+        "LicensePlate": 12,
+        "Name": "Solhan"
+    },
+    {
+        "Id": "D62D682E-FCCE-42AD-899D-35EFF618DBAC",
+        "CityId": "EB01DEF7-7DBF-47A1-8E52-44332698F130",
+        "LicensePlate": 29,
+        "Name": "Şiran"
+    },
+    {
+        "Id": "6E93BB08-1A1E-476A-AD83-3618B783020F",
+        "CityId": "2F8C2F72-92B5-4BCB-822B-14A652E7B404",
+        "LicensePlate": 23,
+        "Name": "Ağın"
+    },
+    {
+        "Id": "390F009C-4DF3-4A1E-8D30-3647C0BF5823",
+        "CityId": "0CA4D901-C9E6-48A2-B7EE-43969756BF8E",
+        "LicensePlate": 17,
+        "Name": "Çan"
+    },
+    {
+        "Id": "BB44486A-3ECF-4A9F-B42B-3790BE7DCEEF",
+        "CityId": "B178B5B4-4674-47AA-879D-3037F5DB05F5",
+        "LicensePlate": 65,
+        "Name": "Çatak"
+    },
+    {
+        "Id": "F3E0EA02-104D-46B8-A6E3-37F242E33374",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Marmara"
+    },
+    {
+        "Id": "3BBB5A7E-AF74-4243-A054-383E7930DE79",
+        "CityId": "ED5A1F7D-1AF9-44D1-82EF-CB255D931DF1",
+        "LicensePlate": 36,
+        "Name": "Kars Merkez"
+    },
+    {
+        "Id": "B7B27F53-D53E-4C6C-9090-38793A137F9F",
+        "CityId": "569A01D1-EBFD-4CCF-84DC-77543A70AC49",
+        "LicensePlate": 62,
+        "Name": "Ovacık \/ Tunceli"
+    },
+    {
+        "Id": "8475067C-5638-4E43-B49A-38A5D9B022A5",
+        "CityId": "5D52FA8F-33DD-42BE-92B1-0E8D5B16D9DF",
+        "LicensePlate": 63,
+        "Name": "Akçakale"
+    },
+    {
+        "Id": "E42BBE0B-64A3-4F22-9E76-38E54EDBC7A9",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Menemen"
+    },
+    {
+        "Id": "F32DE85F-6448-43CA-8EDD-3938CF07F08F",
+        "CityId": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "LicensePlate": 19,
+        "Name": "Sungurlu"
+    },
+    {
+        "Id": "DC7EF275-1412-41CA-8C81-397E2F61645F",
+        "CityId": "ED5A1F7D-1AF9-44D1-82EF-CB255D931DF1",
+        "LicensePlate": 36,
+        "Name": "Selim"
+    },
+    {
+        "Id": "7C0FAD19-6AAE-4B77-9A1E-3A4585223EA6",
+        "CityId": "85A7BA3E-E88D-4D46-BB16-AD331DB80513",
+        "LicensePlate": 4,
+        "Name": "Patnos"
+    },
+    {
+        "Id": "01E9E396-F089-47C2-8B14-3A512C9D9A3E",
+        "CityId": "E53EBA61-1039-415F-949C-E87EE3C857C2",
+        "LicensePlate": 48,
+        "Name": "Yatağan"
+    },
+    {
+        "Id": "3FFEB354-5BA5-4A25-8431-3A83FF95D01D",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Çamlıdere"
+    },
+    {
+        "Id": "61A4FB59-B904-4D3B-9860-3A873F097AA7",
+        "CityId": "01F89680-DAD6-4B4E-B5E7-459575DFB229",
+        "LicensePlate": 27,
+        "Name": "Oğuzeli"
+    },
+    {
+        "Id": "70EA2826-2146-473B-AD94-3AD075DE82A9",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Başakşehir"
+    },
+    {
+        "Id": "29670F03-23FB-43E3-8F9F-3B30A4E5B4A6",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Bulancak"
+    },
+    {
+        "Id": "F8C3029A-62B6-49BA-A682-3B94DA4E5091",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Aziziye"
+    },
+    {
+        "Id": "55657D22-EBAB-4139-AF77-3BD326DFD5E9",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "Saimbeyli"
+    },
+    {
+        "Id": "266AFB61-38CA-4503-AE19-3BDE11DC8310",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Tuzla"
+    },
+    {
+        "Id": "AF5E040B-0493-4AF5-8F3B-3C3F4E063FF3",
+        "CityId": "98774BEE-6DD5-4211-9BBA-2F64945BBAF5",
+        "LicensePlate": 46,
+        "Name": "Göksun"
+    },
+    {
+        "Id": "E22BDD53-79AB-4633-9E45-3C80E44E6B90",
+        "CityId": "353A4342-9214-4AB5-912A-67A6BE3E9818",
+        "LicensePlate": 81,
+        "Name": "Gölyaka"
+    },
+    {
+        "Id": "E0E1741B-40CA-4628-B57D-3CE13E00C265",
+        "CityId": "FD3A53DC-51B7-484A-B72B-F2431C926141",
+        "LicensePlate": 24,
+        "Name": "İliç"
+    },
+    {
+        "Id": "8A4EF8EC-CB54-4071-ADB6-3CE47DD5D42F",
+        "CityId": "E53EBA61-1039-415F-949C-E87EE3C857C2",
+        "LicensePlate": 48,
+        "Name": "Ortaca"
+    },
+    {
+        "Id": "DA874591-3D36-4D88-B464-3D90F73E34FD",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Akkışla"
+    },
+    {
+        "Id": "51BC7F76-531F-4AAE-8242-3DBCE8C53DD8",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Manavgat"
+    },
+    {
+        "Id": "E8C9782B-232E-4054-94DE-3DD3602387D4",
+        "CityId": "557A99EA-8104-4813-BD16-2A3FBB15EFC1",
+        "LicensePlate": 70,
+        "Name": "Ermenek"
+    },
+    {
+        "Id": "1C8957D5-E65D-4ED5-8EB0-3E0816310D18",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Gördes"
+    },
+    {
+        "Id": "0414C418-1364-4645-B542-3E1A995A2741",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Tuzlukçu"
+    },
+    {
+        "Id": "754C29F8-1A35-4487-99F2-3E63E9CAEE17",
+        "CityId": "27998AF5-0B1F-4B68-B188-7A63975BABE4",
+        "LicensePlate": 50,
+        "Name": "Derinkuyu"
+    },
+    {
+        "Id": "5408B2E8-B89A-47EF-BFF5-3EBD3C825A77",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Karaçoban"
+    },
+    {
+        "Id": "92A149CB-87F3-4199-843B-3EEB6FDB5DFD",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Felahiye"
+    },
+    {
+        "Id": "04B477F2-EAE3-4073-A4B0-3F4635CCDFAB",
+        "CityId": "569A01D1-EBFD-4CCF-84DC-77543A70AC49",
+        "LicensePlate": 62,
+        "Name": "Pülümür"
+    },
+    {
+        "Id": "A1F53B9D-B40B-4F96-8403-3F9FFBA1D1C2",
+        "CityId": "71D06293-F087-42F3-8244-56D6D6C7128B",
+        "LicensePlate": 30,
+        "Name": "Şemdinli"
+    },
+    {
+        "Id": "6217A934-6D3E-4E2D-BAB5-4005616E791E",
+        "CityId": "69CB5221-0AE0-4B36-8ED6-7EE05712F9EE",
+        "LicensePlate": 78,
+        "Name": "Karabük Merkez"
+    },
+    {
+        "Id": "7F004C34-8DDD-4411-91DF-4070F0C5FCD6",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Gürgentepe"
+    },
+    {
+        "Id": "39960DBF-D2E9-42C3-914E-40BBD31372DB",
+        "CityId": "82F47539-38DF-4463-871E-8E90182F8671",
+        "LicensePlate": 44,
+        "Name": "Akçadağ"
+    },
+    {
+        "Id": "622353E8-81D8-4E06-82EF-41203D9BFAB6",
+        "CityId": "D04CCE1F-144D-4A19-9366-033EEAC12AB8",
+        "LicensePlate": 14,
+        "Name": "Mudurnu"
+    },
+    {
+        "Id": "84F83805-80A4-4BE4-B1EE-41702737466A",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Köşk"
+    },
+    {
+        "Id": "2113AC8A-0624-43D0-8B6C-418ECAAAB8A4",
+        "CityId": "35F118E5-2A32-4BCC-9B9A-1191088B96E9",
+        "LicensePlate": 57,
+        "Name": "Türkeli"
+    },
+    {
+        "Id": "C314E60A-C142-46A5-A894-42B913D5B5B9",
+        "CityId": "E53EBA61-1039-415F-949C-E87EE3C857C2",
+        "LicensePlate": 48,
+        "Name": "Dalaman"
+    },
+    {
+        "Id": "36643FB4-360D-437A-A058-43218A8FE566",
+        "CityId": "5328F50E-AA88-418D-9C80-6ECC992993F0",
+        "LicensePlate": 53,
+        "Name": "Ardeşen"
+    },
+    {
+        "Id": "F2E92D8F-A263-4539-ADF6-435BF3B8E398",
+        "CityId": "FF31E45F-3BE0-4C1B-AFB1-E4F160A090B7",
+        "LicensePlate": 47,
+        "Name": "Yeşilli"
+    },
+    {
+        "Id": "A75B800C-8009-45C0-966A-436B726F7246",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Sapanca"
+    },
+    {
+        "Id": "8F075265-2E64-45E8-96E9-43B6975C92CB",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Pasinler"
+    },
+    {
+        "Id": "D7F938A2-3133-42C3-BEA5-43BA560C631B",
+        "CityId": "35F118E5-2A32-4BCC-9B9A-1191088B96E9",
+        "LicensePlate": 57,
+        "Name": "Erfelek"
+    },
+    {
+        "Id": "506F15E4-5C7C-438A-9CD6-43C34B263941",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "Feke"
+    },
+    {
+        "Id": "8DD936BB-BAC3-463D-AB04-44473F7CE79C",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Halkapınar"
+    },
+    {
+        "Id": "82F905C5-C22C-41DF-B386-44B5E2BDD318",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Kabadüz"
+    },
+    {
+        "Id": "5F24D887-43F1-444F-B2E9-44BC93CD1745",
+        "CityId": "E27D0030-574F-4CFB-B2D1-71B1C433D80B",
+        "LicensePlate": 76,
+        "Name": "Karakoyunlu"
+    },
+    {
+        "Id": "E0BD879A-AC33-42A7-9A2C-44F56974228F",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Karpuzlu"
+    },
+    {
+        "Id": "A44365B7-6067-4ECD-BF14-44F845538BB8",
+        "CityId": "D04CCE1F-144D-4A19-9366-033EEAC12AB8",
+        "LicensePlate": 14,
+        "Name": "Kıbrıscık"
+    },
+    {
+        "Id": "12BA87B3-A339-4748-A78E-4506DA865ED2",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "Hassa"
+    },
+    {
+        "Id": "8DF3DC3A-D999-4627-995F-451D09F61480",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Pamukkale"
+    },
+    {
+        "Id": "3BF5944C-F140-40BC-A561-45227A03837D",
+        "CityId": "763BE7DE-9D7C-4231-8868-C719433E5E7F",
+        "LicensePlate": 8,
+        "Name": "Artvin Merkez"
+    },
+    {
+        "Id": "B96788A6-00FF-4BA6-B27B-45321A872480",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Melikgazi"
+    },
+    {
+        "Id": "F2004ABE-EE7F-4BF9-B359-4574E271E8A4",
+        "CityId": "35CA39E9-A43F-46AB-B2ED-46A08ABAE321",
+        "LicensePlate": 77,
+        "Name": "Armutlu"
+    },
+    {
+        "Id": "DDC5B188-6458-4759-AA88-45F30185969F",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Düzköy"
+    },
+    {
+        "Id": "9D9F6AFC-5CC2-4086-BC1B-46313E454DBC",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Karacasu"
+    },
+    {
+        "Id": "46B70236-57F5-47E3-826B-466FCF95DC67",
+        "CityId": "C8D556F2-C0B3-4852-87D3-4DAC05947E9E",
+        "LicensePlate": 2,
+        "Name": "Çelikhan"
+    },
+    {
+        "Id": "19206179-005B-47B0-97DB-46A5CD5B55F2",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "Aladağ"
+    },
+    {
+        "Id": "AB026D7F-699A-4338-8C2B-47045F703D84",
+        "CityId": "5CEB1519-BAA9-4782-8F0A-B53746C66519",
+        "LicensePlate": 40,
+        "Name": "Mucur"
+    },
+    {
+        "Id": "F011A42A-AC86-42B3-92EC-471A69BEBA85",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "Dörtyol"
+    },
+    {
+        "Id": "83ACEF22-0E36-4246-90C3-4773920959A8",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "Defne"
+    },
+    {
+        "Id": "680B47BE-CB85-43CE-8B12-4786297D9BD3",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Kemalpaşa \/ İzmir"
+    },
+    {
+        "Id": "C533F9AF-1A62-4CD3-BC5F-4810149180BE",
+        "CityId": "FD3A53DC-51B7-484A-B72B-F2431C926141",
+        "LicensePlate": 24,
+        "Name": "Tercan"
+    },
+    {
+        "Id": "8CFC97A4-99C9-44BD-ABAC-481BF17B7E97",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Özvatan"
+    },
+    {
+        "Id": "647F1822-2716-435E-A0CF-48294792B8F8",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Aybastı"
+    },
+    {
+        "Id": "AE589121-1838-4A47-97E1-4883AFF9F0CA",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Arsin"
+    },
+    {
+        "Id": "701F1694-901F-49E3-9421-48A2E5A3208A",
+        "CityId": "35EED674-FF38-4059-80A5-987363D16698",
+        "LicensePlate": 26,
+        "Name": "Mihalgazi"
+    },
+    {
+        "Id": "E2A0EF42-1D32-4DB0-9206-48F56FCD67D9",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Sarayköy"
+    },
+    {
+        "Id": "0AC86EFB-C2FB-4605-A2EC-48FD659B144A",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "İnegöl"
+    },
+    {
+        "Id": "E5B16432-9C37-470F-81C2-499D18007A68",
+        "CityId": "85A7BA3E-E88D-4D46-BB16-AD331DB80513",
+        "LicensePlate": 4,
+        "Name": "Hamur"
+    },
+    {
+        "Id": "829D0E84-2EA2-4287-BF08-49E4B0615F4B",
+        "CityId": "35EED674-FF38-4059-80A5-987363D16698",
+        "LicensePlate": 26,
+        "Name": "Beylikova"
+    },
+    {
+        "Id": "0695BEF0-E9AE-42DA-B4D8-4A20EE99977B",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "Payas"
+    },
+    {
+        "Id": "882B292C-8093-4ACE-984E-4A835D0B2D97",
+        "CityId": "35CA39E9-A43F-46AB-B2ED-46A08ABAE321",
+        "LicensePlate": 77,
+        "Name": "Çınarcık"
+    },
+    {
+        "Id": "7269A691-5F3C-468B-9D5B-4AA74565177D",
+        "CityId": "E4554D68-391F-41BF-A6DA-70FA3B800B29",
+        "LicensePlate": 22,
+        "Name": "Süloğlu"
+    },
+    {
+        "Id": "8BF7DC47-7E76-41C7-8072-4AB86691126C",
+        "CityId": "8F2B606C-B978-4DD5-955D-8CCEEA831483",
+        "LicensePlate": 60,
+        "Name": "Reşadiye"
+    },
+    {
+        "Id": "D8172965-49C5-430E-8260-4B5E1F1D4FD2",
+        "CityId": "353A4342-9214-4AB5-912A-67A6BE3E9818",
+        "LicensePlate": 81,
+        "Name": "Düzce Merkez"
+    },
+    {
+        "Id": "ED6CD963-5197-42C6-83D6-4BB0F4920064",
+        "CityId": "98774BEE-6DD5-4211-9BBA-2F64945BBAF5",
+        "LicensePlate": 46,
+        "Name": "Ekinözü"
+    },
+    {
+        "Id": "9DB089FA-70F3-458D-9666-4BCEAE37BF76",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Hanönü"
+    },
+    {
+        "Id": "554F47D1-0287-4CC7-9A64-4C6BA5FEE6A7",
+        "CityId": "202CA76D-2BBA-4BA7-A898-EE02FEAFCC42",
+        "LicensePlate": 59,
+        "Name": "Muratlı"
+    },
+    {
+        "Id": "10329772-16A2-49A3-8134-4CCEF773F250",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Derebucak"
+    },
+    {
+        "Id": "BFFEE321-9BB7-488D-82AE-4D16E06ADC47",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Köprübaşı \/ Manisa"
+    },
+    {
+        "Id": "76D88213-FE6D-419E-AACE-4D2A83691762",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Kumluca"
+    },
+    {
+        "Id": "7C290C34-9A7A-4150-9492-4D90ACC8D30E",
+        "CityId": "C8D556F2-C0B3-4852-87D3-4DAC05947E9E",
+        "LicensePlate": 2,
+        "Name": "Gölbaşı \/ Adıyaman"
+    },
+    {
+        "Id": "E2CDCF83-84B1-492B-A03D-4E056F886B15",
+        "CityId": "C8D556F2-C0B3-4852-87D3-4DAC05947E9E",
+        "LicensePlate": 2,
+        "Name": "Samsat"
+    },
+    {
+        "Id": "D6093F07-556D-4DDF-9363-4E61250866CB",
+        "CityId": "557A99EA-8104-4813-BD16-2A3FBB15EFC1",
+        "LicensePlate": 70,
+        "Name": "Ayrancı"
+    },
+    {
+        "Id": "E71002DB-DCDD-438D-B2FF-4ED221C781AF",
+        "CityId": "FF31E45F-3BE0-4C1B-AFB1-E4F160A090B7",
+        "LicensePlate": 47,
+        "Name": "Derik"
+    },
+    {
+        "Id": "9A11184E-3E96-40A5-9FF8-4EE6EC15C534",
+        "CityId": "6D888C8F-F4CD-4FDA-9B56-208CCE8F6D3D",
+        "LicensePlate": 12,
+        "Name": "Bingöl Merkez"
+    },
+    {
+        "Id": "5E798919-F529-4464-A9D5-4EE992BA36D8",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "Pozantı"
+    },
+    {
+        "Id": "0E58D0D1-1CB8-4319-B73F-4F333AEA1B30",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Yenimahalle"
+    },
+    {
+        "Id": "2422F421-BCC0-404B-B197-4FA17E308576",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Yıldızeli"
+    },
+    {
+        "Id": "6AB7E171-4748-4796-B848-4FD2BA67B58F",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Haymana"
+    },
+    {
+        "Id": "AAD4B918-8815-4686-987B-4FDA8A160848",
+        "CityId": "5CEB1519-BAA9-4782-8F0A-B53746C66519",
+        "LicensePlate": 40,
+        "Name": "Kaman"
+    },
+    {
+        "Id": "395B9772-A11F-4E88-B743-4FDDF2A3863B",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Tirebolu"
+    },
+    {
+        "Id": "36133028-FFB1-448D-B687-5050FED52CCC",
+        "CityId": "72361AF4-F8E1-4368-B813-D883F62971D0",
+        "LicensePlate": 67,
+        "Name": "Kozlu"
+    },
+    {
+        "Id": "A4DFFC1B-BDEF-4EE3-97B3-50C12A99C71F",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Karayazı"
+    },
+    {
+        "Id": "C1F4A990-398E-4002-A004-5163619EA829",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Sandıklı"
+    },
+    {
+        "Id": "2C8E6453-8201-4659-9299-5206E63804F1",
+        "CityId": "82F47539-38DF-4463-871E-8E90182F8671",
+        "LicensePlate": 44,
+        "Name": "Yazıhan"
+    },
+    {
+        "Id": "57E4DF08-49A7-4216-A3CE-52119DF6789E",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Karapınar"
+    },
+    {
+        "Id": "F1338AA0-937F-489A-A2E8-52255ACEAB64",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Akyurt"
+    },
+    {
+        "Id": "F68B5933-29D4-4214-8A55-522EF1B69A19",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Ümraniye"
+    },
+    {
+        "Id": "C90D9A54-2D52-44A4-A403-525F2A77D26B",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Uzundere"
+    },
+    {
+        "Id": "9D540F21-447C-4CC1-830B-52765BE4D7E1",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Pınarbaşı \/ Kayseri"
+    },
+    {
+        "Id": "49F2A1AA-2997-422B-B691-5292ADAE5F08",
+        "CityId": "37060E25-736A-44D5-8A6C-3E7BB05751EA",
+        "LicensePlate": 11,
+        "Name": "Osmaneli"
+    },
+    {
+        "Id": "1DA5B6F7-B836-42FE-88F1-52AF190A6B3B",
+        "CityId": "E27D0030-574F-4CFB-B2D1-71B1C433D80B",
+        "LicensePlate": 76,
+        "Name": "Aralık"
+    },
+    {
+        "Id": "CAAEE15C-91C7-4995-9746-53185C91CB71",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Çamaş"
+    },
+    {
+        "Id": "80450695-EAE2-46EC-83F9-53B0E996289B",
+        "CityId": "5D05DC4F-F2A4-4C6A-9C93-4B1EF5BEBA10",
+        "LicensePlate": 41,
+        "Name": "Derince"
+    },
+    {
+        "Id": "EC035832-57D4-4568-9E9B-53BCD9BD9C64",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Doğankent"
+    },
+    {
+        "Id": "FD48A997-9A01-432F-8DBA-547143AA6EF7",
+        "CityId": "751E950A-9031-441D-A0A8-66BAF6E85982",
+        "LicensePlate": 73,
+        "Name": "Cizre"
+    },
+    {
+        "Id": "821D1B6D-51C3-46D9-8CB2-54AE3B660A2F",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "Ceyhan"
+    },
+    {
+        "Id": "408C230F-310B-4630-B772-54B3A5CD8D12",
+        "CityId": "569A01D1-EBFD-4CCF-84DC-77543A70AC49",
+        "LicensePlate": 62,
+        "Name": "Tunceli Merkez"
+    },
+    {
+        "Id": "7BB4D18E-BF49-4B94-ADDC-554AA2F94EA5",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Bakırköy"
+    },
+    {
+        "Id": "FA6163E1-D7AF-40F6-A0FB-558B89C20062",
+        "CityId": "2670CC1B-65E6-4228-A5A8-3D0F67F374E5",
+        "LicensePlate": 13,
+        "Name": "Güroymak"
+    },
+    {
+        "Id": "A43AEB1D-95D2-41B5-B780-558D4B90151E",
+        "CityId": "BDF8ACFE-B92C-4875-946D-F3D35A4FA25F",
+        "LicensePlate": 64,
+        "Name": "Karahallı"
+    },
+    {
+        "Id": "4E67A6B2-376B-4CBC-B702-55C69ECEFDED",
+        "CityId": "2670CC1B-65E6-4228-A5A8-3D0F67F374E5",
+        "LicensePlate": 13,
+        "Name": "Adilcevaz"
+    },
+    {
+        "Id": "1E423081-52E8-4A1F-AEF3-55F296527EB2",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Küre"
+    },
+    {
+        "Id": "A8B660CF-0DBA-4B42-A469-55FBAF2A5CB0",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Espiye"
+    },
+    {
+        "Id": "E0DB4349-9D84-4E76-8B11-56116E8C22E5",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Dicle"
+    },
+    {
+        "Id": "CE8E6E9B-885F-4500-B4C1-562B85C559AA",
+        "CityId": "5D52FA8F-33DD-42BE-92B1-0E8D5B16D9DF",
+        "LicensePlate": 63,
+        "Name": "Eyyübiye"
+    },
+    {
+        "Id": "44A2B4E6-8385-432D-8C1C-5646E2B5169F",
+        "CityId": "763BE7DE-9D7C-4231-8868-C719433E5E7F",
+        "LicensePlate": 8,
+        "Name": "Yusufeli"
+    },
+    {
+        "Id": "BB46EF3F-2789-4666-9603-56A21C7EB0C7",
+        "CityId": "0CA4D901-C9E6-48A2-B7EE-43969756BF8E",
+        "LicensePlate": 17,
+        "Name": "Lapseki"
+    },
+    {
+        "Id": "E633DBE4-C076-48CF-BD25-56B6739D88D5",
+        "CityId": "202CA76D-2BBA-4BA7-A898-EE02FEAFCC42",
+        "LicensePlate": 59,
+        "Name": "Hayrabolu"
+    },
+    {
+        "Id": "952A24ED-3CF7-4DBF-B67E-56D8601220E5",
+        "CityId": "45B5DD36-C310-4585-ADE8-74A307D55FAF",
+        "LicensePlate": 79,
+        "Name": "Polateli"
+    },
+    {
+        "Id": "557DBF59-6FBD-4482-AE27-56FFB00F258E",
+        "CityId": "B178B5B4-4674-47AA-879D-3037F5DB05F5",
+        "LicensePlate": 65,
+        "Name": "Saray \/ Van"
+    },
+    {
+        "Id": "9D85500C-79ED-493A-B764-570309B2C79D",
+        "CityId": "5328F50E-AA88-418D-9C80-6ECC992993F0",
+        "LicensePlate": 53,
+        "Name": "İyidere"
+    },
+    {
+        "Id": "F7A697DF-343B-4F59-B2F8-571C8350B032",
+        "CityId": "6AC74E9F-0673-440D-8175-BF54FC72A4F4",
+        "LicensePlate": 18,
+        "Name": "Kurşunlu"
+    },
+    {
+        "Id": "55A26CF9-8089-4791-BF79-5729E2E622D7",
+        "CityId": "A2489047-E873-4748-B85B-2014F7BA68AA",
+        "LicensePlate": 33,
+        "Name": "Akdeniz"
+    },
+    {
+        "Id": "0353A852-A085-4AC7-A394-57CAE057126F",
+        "CityId": "0CA4D901-C9E6-48A2-B7EE-43969756BF8E",
+        "LicensePlate": 17,
+        "Name": "Eceabat"
+    },
+    {
+        "Id": "96013B7B-561E-4931-BDE4-57F0BD1426A0",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Acıpayam"
+    },
+    {
+        "Id": "A67BA3D1-5935-4430-B4EC-580F97F775A4",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Kızılören"
+    },
+    {
+        "Id": "859E2BD5-AE77-4398-BB8E-5827AC6E9928",
+        "CityId": "D04CCE1F-144D-4A19-9366-033EEAC12AB8",
+        "LicensePlate": 14,
+        "Name": "Göynük"
+    },
+    {
+        "Id": "13161378-0AA8-4AC4-984F-58FD6DB5A276",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Selçuk"
+    },
+    {
+        "Id": "E9B9D32C-0CE7-4154-88C5-598B09B42828",
+        "CityId": "4EFD81C9-5E06-473F-A4D4-12920A9093BA",
+        "LicensePlate": 5,
+        "Name": "Taşova"
+    },
+    {
+        "Id": "22896137-BA2F-4525-9F55-5A0BA019AB16",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Sultanhisar"
+    },
+    {
+        "Id": "D5789F8E-37AE-40E3-92CC-5A14F40E8866",
+        "CityId": "82F47539-38DF-4463-871E-8E90182F8671",
+        "LicensePlate": 44,
+        "Name": "Arguvan"
+    },
+    {
+        "Id": "A0D8F4CE-9C66-4A56-8D0F-5B6C1064BBF0",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Edremit \/ Balıkesir"
+    },
+    {
+        "Id": "1EC75E51-E046-4ABA-BFD8-5BDA6766C26A",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Arnavutköy"
+    },
+    {
+        "Id": "9A341C17-DAC2-4207-B028-5BE0EA08A26B",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "Arsuz"
+    },
+    {
+        "Id": "74A713D8-F3BE-4075-9DB4-5BFE147C077D",
+        "CityId": "A7757225-5423-4A53-8DF5-B734E56B062B",
+        "LicensePlate": 56,
+        "Name": "Eruh"
+    },
+    {
+        "Id": "FBCC5700-855F-477B-B23B-5C2134320405",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Zara"
+    },
+    {
+        "Id": "F03F090C-9996-44A0-9947-5C4D64884AB3",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "Belen"
+    },
+    {
+        "Id": "DFD06001-EA19-41BD-84D4-5D2ECADD9376",
+        "CityId": "569A01D1-EBFD-4CCF-84DC-77543A70AC49",
+        "LicensePlate": 62,
+        "Name": "Çemişgezek"
+    },
+    {
+        "Id": "80C61ED5-4CEE-4308-B4FD-5D628AE1C62A",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Şişli"
+    },
+    {
+        "Id": "F6435F2B-C1A9-49DA-AA43-5DF681863EDD",
+        "CityId": "2F8C2F72-92B5-4BCB-822B-14A652E7B404",
+        "LicensePlate": 23,
+        "Name": "Keban"
+    },
+    {
+        "Id": "C1724E50-973C-443B-9C22-5EE9CB00CD9A",
+        "CityId": "E1DDF912-E3C7-4F04-83FE-37489231E191",
+        "LicensePlate": 68,
+        "Name": "Güzelyurt"
+    },
+    {
+        "Id": "C9E58118-205F-460A-8D70-5EF500245039",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Kiraz"
+    },
+    {
+        "Id": "57C58146-BB3E-4491-B23B-5F32105D99F2",
+        "CityId": "B178B5B4-4674-47AA-879D-3037F5DB05F5",
+        "LicensePlate": 65,
+        "Name": "Tuşba"
+    },
+    {
+        "Id": "703D58EE-5B11-411A-819C-5FD7EE92194B",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Sarız"
+    },
+    {
+        "Id": "90D2643D-352E-466F-A430-5FE1EA9857E1",
+        "CityId": "0CA4D901-C9E6-48A2-B7EE-43969756BF8E",
+        "LicensePlate": 17,
+        "Name": "Bozcaada"
+    },
+    {
+        "Id": "84EFCCB4-2865-43B1-B594-6009C03EB7DE",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Seferihisar"
+    },
+    {
+        "Id": "B97DC662-6073-4F7E-B4F3-60671B817EDA",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Burhaniye"
+    },
+    {
+        "Id": "88444142-6EC4-464E-8DD6-60881D3945AA",
+        "CityId": "8AB7FBF9-D2F1-44CC-AAE3-8B3A18B865C7",
+        "LicensePlate": 15,
+        "Name": "Ağlasun"
+    },
+    {
+        "Id": "C40077FB-0365-493F-8A75-60928965EE61",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "Yayladağı"
+    },
+    {
+        "Id": "068A333F-04C3-49FE-94CD-61276720B2E9",
+        "CityId": "0CA4D901-C9E6-48A2-B7EE-43969756BF8E",
+        "LicensePlate": 17,
+        "Name": "Biga"
+    },
+    {
+        "Id": "92201042-FF08-4D21-97FD-615E47F69A51",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Demirci"
+    },
+    {
+        "Id": "D3AF05D0-B25A-42F1-BB30-61CFF6968798",
+        "CityId": "4FB8657E-62BC-40CC-88C9-D0C182F6E08E",
+        "LicensePlate": 43,
+        "Name": "Aslanapa"
+    },
+    {
+        "Id": "D87EA70B-76D2-42E6-93DB-6242E6ABDE05",
+        "CityId": "B178B5B4-4674-47AA-879D-3037F5DB05F5",
+        "LicensePlate": 65,
+        "Name": "Çaldıran"
+    },
+    {
+        "Id": "08AF4D0A-EFE7-463B-ACBE-6309B4505D67",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Tekkeköy"
+    },
+    {
+        "Id": "C5A75745-F1CC-47E1-94F3-63433735E784",
+        "CityId": "3200C908-861C-4196-806F-5D692A4BCA8F",
+        "LicensePlate": 74,
+        "Name": "Bartın Merkez"
+    },
+    {
+        "Id": "C6DE0354-F92E-4984-97E7-638D6A1F442C",
+        "CityId": "A2489047-E873-4748-B85B-2014F7BA68AA",
+        "LicensePlate": 33,
+        "Name": "Gülnar"
+    },
+    {
+        "Id": "BC653D66-9894-4433-BF96-6398CDC08A64",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "İmranlı"
+    },
+    {
+        "Id": "74D27400-3B29-4CDE-B03B-63BFAE018B68",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Karacabey"
+    },
+    {
+        "Id": "6211EA78-2C4D-4759-9959-641716AAB893",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Beykoz"
+    },
+    {
+        "Id": "4F67E64D-FB0D-4B6E-A8A6-64497D9CAA8A",
+        "CityId": "E53EBA61-1039-415F-949C-E87EE3C857C2",
+        "LicensePlate": 48,
+        "Name": "Köyceğiz"
+    },
+    {
+        "Id": "BBC4C32B-65EF-4EB4-A3C6-64A03611FCE8",
+        "CityId": "8AB7FBF9-D2F1-44CC-AAE3-8B3A18B865C7",
+        "LicensePlate": 15,
+        "Name": "Çeltikçi"
+    },
+    {
+        "Id": "9514CE86-2352-4A4C-A625-653FB14D32E6",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Çameli"
+    },
+    {
+        "Id": "F171575A-7EE6-4BC1-BECA-65B0920666A3",
+        "CityId": "D04CCE1F-144D-4A19-9366-033EEAC12AB8",
+        "LicensePlate": 14,
+        "Name": "Dörtdivan"
+    },
+    {
+        "Id": "DD8114CF-2C51-4DAA-BACE-667EAD80914C",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "İncirliova"
+    },
+    {
+        "Id": "4EB45EF4-B68F-4F39-AE23-6692410801F4",
+        "CityId": "E27D0030-574F-4CFB-B2D1-71B1C433D80B",
+        "LicensePlate": 76,
+        "Name": "Iğdır Merkez"
+    },
+    {
+        "Id": "C2F0B9E0-2719-4D83-AADA-66CE6E1BE79E",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Gaziosmanpaşa"
+    },
+    {
+        "Id": "21BD6B9F-2A59-4DF9-96A0-66E99207BFA2",
+        "CityId": "45B5DD36-C310-4585-ADE8-74A307D55FAF",
+        "LicensePlate": 79,
+        "Name": "Kilis Merkez"
+    },
+    {
+        "Id": "92E111D0-67DB-4108-81A2-66FC7E86077C",
+        "CityId": "44C2DCCC-C65D-448E-939E-359EFB9867E9",
+        "LicensePlate": 32,
+        "Name": "Senirkent"
+    },
+    {
+        "Id": "E76A2749-BA29-4869-B1CB-675982931ED3",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Kadıköy"
+    },
+    {
+        "Id": "E42A0549-CBD6-48B3-AD69-67727CB44540",
+        "CityId": "A2489047-E873-4748-B85B-2014F7BA68AA",
+        "LicensePlate": 33,
+        "Name": "Bozyazı"
+    },
+    {
+        "Id": "2DD22F53-356E-493F-B3C9-677ACD8F0F0E",
+        "CityId": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "LicensePlate": 66,
+        "Name": "Kadışehri"
+    },
+    {
+        "Id": "40455231-C70C-45BE-ACA2-67865EC1DB25",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Döşemealtı"
+    },
+    {
+        "Id": "D34777F3-3E8A-4BCE-A5DF-67D9AB481C9C",
+        "CityId": "8F2B606C-B978-4DD5-955D-8CCEEA831483",
+        "LicensePlate": 60,
+        "Name": "Artova"
+    },
+    {
+        "Id": "10E136A5-B37E-4D90-B087-6814EC616B4F",
+        "CityId": "44C2DCCC-C65D-448E-939E-359EFB9867E9",
+        "LicensePlate": 32,
+        "Name": "Gelendost"
+    },
+    {
+        "Id": "BDA9C84C-6FE0-4464-88D3-683487E00537",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Emirdağ"
+    },
+    {
+        "Id": "A997A5BF-26F8-4DAC-91E9-689F0102EBC3",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Horasan"
+    },
+    {
+        "Id": "01556285-6441-4EDC-9B79-694CBC69B686",
+        "CityId": "FD3A53DC-51B7-484A-B72B-F2431C926141",
+        "LicensePlate": 24,
+        "Name": "Kemaliye"
+    },
+    {
+        "Id": "8D9BE880-A4D6-4956-A9BE-6A8C9EDD00F0",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Seydiler"
+    },
+    {
+        "Id": "606FD4A1-F6C8-43E3-A3D0-6AB2B7BC6ECD",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Meram"
+    },
+    {
+        "Id": "D51DC29B-914D-479C-8783-6AFBBDEC1CDC",
+        "CityId": "3F5A01E5-4AC7-4D3B-A8AA-CC03E4896A1B",
+        "LicensePlate": 71,
+        "Name": "Balışeyh"
+    },
+    {
+        "Id": "19AADFF4-4F3D-4EE0-9EAA-6B37698D004C",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "Erzin"
+    },
+    {
+        "Id": "2BBC31FA-EA78-4D4A-ABF6-6BBABA3C887E",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "19-May"
+    },
+    {
+        "Id": "E285FA90-F621-44E5-BA9E-6BCC0D9FA2AF",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Beyoğlu"
+    },
+    {
+        "Id": "01354494-C99E-42D4-B9A3-6C552528FD70",
+        "CityId": "202CA76D-2BBA-4BA7-A898-EE02FEAFCC42",
+        "LicensePlate": 59,
+        "Name": "Marmaraereğlisi"
+    },
+    {
+        "Id": "316AF85F-BC6D-4DAA-9BC6-6C5D7AB350D6",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Ağlı"
+    },
+    {
+        "Id": "A63AC19B-0DE6-4D5F-B823-6C5F84BF406E",
+        "CityId": "BDF8ACFE-B92C-4875-946D-F3D35A4FA25F",
+        "LicensePlate": 64,
+        "Name": "Sivaslı"
+    },
+    {
+        "Id": "926C1075-D37E-4BF9-9268-6D481A8586C4",
+        "CityId": "202CA76D-2BBA-4BA7-A898-EE02FEAFCC42",
+        "LicensePlate": 59,
+        "Name": "Ergene"
+    },
+    {
+        "Id": "8FDD6638-A466-4F60-9DA9-6D6C74303C43",
+        "CityId": "69CB5221-0AE0-4B36-8ED6-7EE05712F9EE",
+        "LicensePlate": 78,
+        "Name": "Eflani"
+    },
+    {
+        "Id": "E0BE7F99-209C-4F8E-B8AF-6DCA9390ADDD",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Evciler"
+    },
+    {
+        "Id": "CC1E2766-7E38-4424-8971-6DD9649A0008",
+        "CityId": "5328F50E-AA88-418D-9C80-6ECC992993F0",
+        "LicensePlate": 53,
+        "Name": "Kalkandere"
+    },
+    {
+        "Id": "87D7C51F-B187-44BD-B95C-6DE96F197710",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Honaz"
+    },
+    {
+        "Id": "A3120CF1-C726-4F8A-8C84-6DED8CA74E9D",
+        "CityId": "01F89680-DAD6-4B4E-B5E7-459575DFB229",
+        "LicensePlate": 27,
+        "Name": "İslahiye"
+    },
+    {
+        "Id": "91ABD5EF-CCF4-4B5E-9867-6DF9DEC032FE",
+        "CityId": "82F47539-38DF-4463-871E-8E90182F8671",
+        "LicensePlate": 44,
+        "Name": "Battalgazi"
+    },
+    {
+        "Id": "0669ACB1-D7C2-42FF-AA03-6E07457B7B2A",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Kestel"
+    },
+    {
+        "Id": "E1DB43C6-C7DE-4310-9914-6E591EA2B38F",
+        "CityId": "5D52FA8F-33DD-42BE-92B1-0E8D5B16D9DF",
+        "LicensePlate": 63,
+        "Name": "Siverek"
+    },
+    {
+        "Id": "59EF7CF3-76B8-4E3D-9CA5-6EE8AD5F8DD1",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Oltu"
+    },
+    {
+        "Id": "8E985576-7D60-426F-968B-6EF46E90E47B",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "Yüreğir"
+    },
+    {
+        "Id": "F820107E-6C14-4853-84F1-6F614F70479C",
+        "CityId": "6D888C8F-F4CD-4FDA-9B56-208CCE8F6D3D",
+        "LicensePlate": 12,
+        "Name": "Yayladere"
+    },
+    {
+        "Id": "A114B54C-69A9-48A0-B415-6F65E7C716CF",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Taşköprü"
+    },
+    {
+        "Id": "9F94D86F-B5F3-44A8-BF65-6F66FCCF94E9",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Altınyayla \/ Sivas"
+    },
+    {
+        "Id": "BDAA326C-B70C-486C-9656-6F9699DFDA88",
+        "CityId": "FF31E45F-3BE0-4C1B-AFB1-E4F160A090B7",
+        "LicensePlate": 47,
+        "Name": "Nusaybin"
+    },
+    {
+        "Id": "CBE6DB1E-A4CE-46A8-AE78-6F9FEFF6E49B",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Pazaryolu"
+    },
+    {
+        "Id": "BA0EE113-DB8A-4771-9B13-6FE13DCC7570",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Muratpaşa"
+    },
+    {
+        "Id": "DB2F07D8-D003-4E6E-B715-70094F1FFAC5",
+        "CityId": "77C6C44E-5B3B-4244-8F71-A3FFFE96FB8C",
+        "LicensePlate": 80,
+        "Name": "Hasanbeyli"
+    },
+    {
+        "Id": "B9DE655C-0258-413C-82D1-70353EE8E622",
+        "CityId": "470E6AA0-EA84-4884-8D48-08711B5FFBFE",
+        "LicensePlate": 49,
+        "Name": "Muş Merkez"
+    },
+    {
+        "Id": "654603E0-06BD-4443-B2F2-706507F035ED",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Derbent"
+    },
+    {
+        "Id": "A6090500-1616-4C50-A848-70EAE0AF6ED3",
+        "CityId": "AF8CD910-CA31-4846-AD0F-0527D134CDF5",
+        "LicensePlate": 69,
+        "Name": "Bayburt Merkez"
+    },
+    {
+        "Id": "004D4D4C-569A-4612-B004-7158F8CE812D",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Nazilli"
+    },
+    {
+        "Id": "21766317-B8E6-4D23-8343-71B8A61CF120",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Akşehir"
+    },
+    {
+        "Id": "E622B022-0D3F-4D09-9E2C-71E262E6561A",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Divriği"
+    },
+    {
+        "Id": "1F7AF72E-3D95-400D-BFF3-71ED17E8B930",
+        "CityId": "72361AF4-F8E1-4368-B813-D883F62971D0",
+        "LicensePlate": 67,
+        "Name": "Çaycuma"
+    },
+    {
+        "Id": "DEEEF019-5CC5-4AA3-BD5E-72048BAB0EF3",
+        "CityId": "44C2DCCC-C65D-448E-939E-359EFB9867E9",
+        "LicensePlate": 32,
+        "Name": "Yalvaç"
+    },
+    {
+        "Id": "8DD72C25-FA05-4C58-91AD-721D8E9C35A1",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Finike"
+    },
+    {
+        "Id": "54BD467E-0C05-48B7-BF07-721F492152B0",
+        "CityId": "98774BEE-6DD5-4211-9BBA-2F64945BBAF5",
+        "LicensePlate": 46,
+        "Name": "Nurhak"
+    },
+    {
+        "Id": "E21E3A04-10B6-462B-B575-722EA69D5B47",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Menderes"
+    },
+    {
+        "Id": "C01126DE-C009-4270-B87B-7236CB0FC69D",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Yağlıdere"
+    },
+    {
+        "Id": "93518117-5FCC-4B56-8607-7277C438A98F",
+        "CityId": "EB01DEF7-7DBF-47A1-8E52-44332698F130",
+        "LicensePlate": 29,
+        "Name": "Torul"
+    },
+    {
+        "Id": "B7487263-1D59-4DFA-B2F6-727FA091DCCC",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Yenişehir \/ Bursa"
+    },
+    {
+        "Id": "18DCCE44-B4EC-4995-A39B-729A26C6EAE8",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Bünyan"
+    },
+    {
+        "Id": "3F3CB96D-D7AA-4C7A-86D0-7355BE8A15BE",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Akçaabat"
+    },
+    {
+        "Id": "75DD7774-2204-4FCF-A421-73B70245E7C3",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Soma"
+    },
+    {
+        "Id": "8EAD5350-0029-4453-AF27-73B9192A8129",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Hendek"
+    },
+    {
+        "Id": "5253E886-2043-47B2-A879-73D6A7D773D1",
+        "CityId": "7D977721-6EF8-40FF-AF7A-6EA286CC069D",
+        "LicensePlate": 75,
+        "Name": "Hanak"
+    },
+    {
+        "Id": "D5D1B5C8-F4A8-413C-BFA9-73D8AD4F171F",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Kemer \/ Antalya"
+    },
+    {
+        "Id": "E9C908E6-650F-4DD8-85D2-73DD1C7CFB52",
+        "CityId": "27998AF5-0B1F-4B68-B188-7A63975BABE4",
+        "LicensePlate": 50,
+        "Name": "Kozaklı"
+    },
+    {
+        "Id": "6EBE59DC-B0AB-43FC-A037-742CD08129D3",
+        "CityId": "2670CC1B-65E6-4228-A5A8-3D0F67F374E5",
+        "LicensePlate": 13,
+        "Name": "Mutki"
+    },
+    {
+        "Id": "5F246FDA-B083-437E-8F9C-745B53A831A1",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Bigadiç"
+    },
+    {
+        "Id": "A4ED4614-2BED-4E0F-9287-74692EFAD7AF",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Ataşehir"
+    },
+    {
+        "Id": "7EC3BF7B-5DBF-450E-849C-74B2809F5673",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Urla"
+    },
+    {
+        "Id": "2CD4CFE4-62C0-4113-ADC8-75ADC67FA7C0",
+        "CityId": "5328F50E-AA88-418D-9C80-6ECC992993F0",
+        "LicensePlate": 53,
+        "Name": "Çayeli"
+    },
+    {
+        "Id": "C9340AB4-52A7-4720-9FF0-75F62B227C44",
+        "CityId": "3F5A01E5-4AC7-4D3B-A8AA-CC03E4896A1B",
+        "LicensePlate": 71,
+        "Name": "Karakeçili"
+    },
+    {
+        "Id": "A52DFEA0-3DF6-4D1B-894E-76B8A6F846F2",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "İnebolu"
+    },
+    {
+        "Id": "B1AE2B50-2849-4660-ADCF-76BC6018896B",
+        "CityId": "37060E25-736A-44D5-8A6C-3E7BB05751EA",
+        "LicensePlate": 11,
+        "Name": "Bozüyük"
+    },
+    {
+        "Id": "B9B9635D-2410-4172-BC80-76E2579EC096",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Bala"
+    },
+    {
+        "Id": "80F955BF-202F-43E9-AA13-771D18479B5D",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Koçarlı"
+    },
+    {
+        "Id": "DBC3A6B7-CEB7-42E1-BDF5-7732B0CE6105",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Cide"
+    },
+    {
+        "Id": "76BF6476-B3CB-4CFF-85FE-77939572C8AC",
+        "CityId": "FD3A53DC-51B7-484A-B72B-F2431C926141",
+        "LicensePlate": 24,
+        "Name": "Kemah"
+    },
+    {
+        "Id": "F94BD80C-07F2-4C65-AA1B-77999D492BD7",
+        "CityId": "FF31E45F-3BE0-4C1B-AFB1-E4F160A090B7",
+        "LicensePlate": 47,
+        "Name": "Artuklu"
+    },
+    {
+        "Id": "55F4C7E2-8118-4EC2-BC17-77AC1E362AC6",
+        "CityId": "69CB5221-0AE0-4B36-8ED6-7EE05712F9EE",
+        "LicensePlate": 78,
+        "Name": "Safranbolu"
+    },
+    {
+        "Id": "FE86DABF-01DC-4623-AFE9-77BC482E6C82",
+        "CityId": "353A4342-9214-4AB5-912A-67A6BE3E9818",
+        "LicensePlate": 81,
+        "Name": "Cumayeri"
+    },
+    {
+        "Id": "6268F426-9785-47DD-81A6-77C0721676C8",
+        "CityId": "82F47539-38DF-4463-871E-8E90182F8671",
+        "LicensePlate": 44,
+        "Name": "Arapgir"
+    },
+    {
+        "Id": "84415749-8CB7-4038-A60B-7823A31F3BE6",
+        "CityId": "98774BEE-6DD5-4211-9BBA-2F64945BBAF5",
+        "LicensePlate": 46,
+        "Name": "Afşin"
+    },
+    {
+        "Id": "44A3EB61-5065-4FB7-98D6-7890DBBD441F",
+        "CityId": "37060E25-736A-44D5-8A6C-3E7BB05751EA",
+        "LicensePlate": 11,
+        "Name": "Yenipazar \/ Bilecik"
+    },
+    {
+        "Id": "877184BE-57C8-4373-9E84-78C134393A63",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Karapürçek"
+    },
+    {
+        "Id": "E0EBE9E0-C9E7-4BDB-AA29-78CCDC9D3058",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Mudanya"
+    },
+    {
+        "Id": "C13C233E-2A03-4BE6-800D-791EF88388EE",
+        "CityId": "3F5A01E5-4AC7-4D3B-A8AA-CC03E4896A1B",
+        "LicensePlate": 71,
+        "Name": "Çelebi"
+    },
+    {
+        "Id": "F94EC2D4-F7E6-4FB7-B853-794C2EA56586",
+        "CityId": "8F2B606C-B978-4DD5-955D-8CCEEA831483",
+        "LicensePlate": 60,
+        "Name": "Turhal"
+    },
+    {
+        "Id": "0F9F4914-1639-44E7-981D-7983A28C56D2",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Gülyalı"
+    },
+    {
+        "Id": "EE12A988-F620-4CBE-98B4-7A28F862FFBC",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Ortahisar"
+    },
+    {
+        "Id": "05BA30AD-B2C0-4598-9EF3-7A589BB26C44",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Doğanhisar"
+    },
+    {
+        "Id": "2794E7FE-BC5F-421F-82D5-7A75845AAEA3",
+        "CityId": "C8D556F2-C0B3-4852-87D3-4DAC05947E9E",
+        "LicensePlate": 2,
+        "Name": "Tut"
+    },
+    {
+        "Id": "5C1BA0E8-C9DF-4495-8C1E-7A9514BECE60",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Piraziz"
+    },
+    {
+        "Id": "4CAE0822-47CD-488D-B1A5-7B4CD0F6A848",
+        "CityId": "37060E25-736A-44D5-8A6C-3E7BB05751EA",
+        "LicensePlate": 11,
+        "Name": "Bilecik Merkez"
+    },
+    {
+        "Id": "D463D351-A02D-41CE-B844-7B503F6ECA87",
+        "CityId": "37060E25-736A-44D5-8A6C-3E7BB05751EA",
+        "LicensePlate": 11,
+        "Name": "Gölpazarı"
+    },
+    {
+        "Id": "41B45AF8-85A1-400E-A9EF-7B52C519A479",
+        "CityId": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "LicensePlate": 66,
+        "Name": "Çayıralan"
+    },
+    {
+        "Id": "0AD43E75-E25C-4F0D-B03C-7BD491E9A68C",
+        "CityId": "44C2DCCC-C65D-448E-939E-359EFB9867E9",
+        "LicensePlate": 32,
+        "Name": "Aksu \/ Isparta"
+    },
+    {
+        "Id": "3473EDC0-DFF8-4501-B713-7C0EBE4D3490",
+        "CityId": "85A7BA3E-E88D-4D46-BB16-AD331DB80513",
+        "LicensePlate": 4,
+        "Name": "Diyadin"
+    },
+    {
+        "Id": "9244CD72-3528-4260-95A9-7C1CA5D3DEA2",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Çiğli"
+    },
+    {
+        "Id": "6F98726C-5014-4F7B-B7A3-7C4D17AF7B77",
+        "CityId": "11936EB6-13D1-4F79-97BD-2404254F84C0",
+        "LicensePlate": 72,
+        "Name": "Kozluk"
+    },
+    {
+        "Id": "077B98CB-595C-43D9-89E8-7CECA49020F3",
+        "CityId": "5328F50E-AA88-418D-9C80-6ECC992993F0",
+        "LicensePlate": 53,
+        "Name": "Pazar \/ Rize"
+    },
+    {
+        "Id": "CEE6ADAE-356F-4A50-B937-7CF8C6225E9D",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Bayrampaşa"
+    },
+    {
+        "Id": "4D86329A-907D-4ACD-8068-7D1DDFA045A9",
+        "CityId": "45B5DD36-C310-4585-ADE8-74A307D55FAF",
+        "LicensePlate": 79,
+        "Name": "Elbeyli"
+    },
+    {
+        "Id": "100CED72-D40E-403E-A95E-7DBD2EC6D4EA",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "Çukurova"
+    },
+    {
+        "Id": "637F09AD-F5CC-4A0E-97DC-7DEDADB2953A",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "İlkadım"
+    },
+    {
+        "Id": "2384D3A1-76CD-40AF-967D-7E4AFE038BC3",
+        "CityId": "4EFD81C9-5E06-473F-A4D4-12920A9093BA",
+        "LicensePlate": 5,
+        "Name": "Amasya Merkez"
+    },
+    {
+        "Id": "D2716A49-B125-4BD3-A818-7EBE2981A59B",
+        "CityId": "7D977721-6EF8-40FF-AF7A-6EA286CC069D",
+        "LicensePlate": 75,
+        "Name": "Ardahan Merkez"
+    },
+    {
+        "Id": "97662F17-246F-4956-A545-7EC0C42CB634",
+        "CityId": "ED5A1F7D-1AF9-44D1-82EF-CB255D931DF1",
+        "LicensePlate": 36,
+        "Name": "Akyaka"
+    },
+    {
+        "Id": "1FC47A3C-DDCE-4E1E-957E-7F1566159FB6",
+        "CityId": "72361AF4-F8E1-4368-B813-D883F62971D0",
+        "LicensePlate": 67,
+        "Name": "Alaplı"
+    },
+    {
+        "Id": "B416B13D-851C-4C3C-BDD5-7F3F8254F7F5",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Zeytinburnu"
+    },
+    {
+        "Id": "BBFE3C99-24A6-48EC-A0A6-7F4F2120BF31",
+        "CityId": "2F8C2F72-92B5-4BCB-822B-14A652E7B404",
+        "LicensePlate": 23,
+        "Name": "Kovancılar"
+    },
+    {
+        "Id": "09BE8D8F-0DEB-478F-824C-7F5855F4F639",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Kastamonu Merkez"
+    },
+    {
+        "Id": "D2F6B80E-A12B-476D-B8B4-7FD0E0D8B1E9",
+        "CityId": "E1DDF912-E3C7-4F04-83FE-37489231E191",
+        "LicensePlate": 68,
+        "Name": "Eskil"
+    },
+    {
+        "Id": "CAB50676-4227-4352-9728-801E02FBCCFC",
+        "CityId": "5D05DC4F-F2A4-4C6A-9C93-4B1EF5BEBA10",
+        "LicensePlate": 41,
+        "Name": "Körfez"
+    },
+    {
+        "Id": "B1BF5A90-A32C-4E05-937E-806E3600D00C",
+        "CityId": "44C2DCCC-C65D-448E-939E-359EFB9867E9",
+        "LicensePlate": 32,
+        "Name": "Eğirdir"
+    },
+    {
+        "Id": "9106255B-ED99-4B8B-94BC-80720E85F489",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Elmadağ"
+    },
+    {
+        "Id": "36E4BA69-9173-4A34-928A-809FE94F4C68",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Karşıyaka"
+    },
+    {
+        "Id": "61A8DD50-B3AC-40D6-AFAC-80C3792897E4",
+        "CityId": "A7757225-5423-4A53-8DF5-B734E56B062B",
+        "LicensePlate": 56,
+        "Name": "Siirt Merkez"
+    },
+    {
+        "Id": "0E189DA1-D24A-497A-BB6E-818F7BCC8B13",
+        "CityId": "9DB3F05C-6499-4084-87E9-BE3954EC1594",
+        "LicensePlate": 39,
+        "Name": "Kırklareli Merkez"
+    },
+    {
+        "Id": "A5938779-76AF-4CEF-8207-81E04B350DC1",
+        "CityId": "E4554D68-391F-41BF-A6DA-70FA3B800B29",
+        "LicensePlate": 22,
+        "Name": "Meriç"
+    },
+    {
+        "Id": "234350F4-0F94-403A-BC1E-824CD685291E",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Fatsa"
+    },
+    {
+        "Id": "FDC4FE77-CD4F-467E-B5D8-82B8BC2F01D5",
+        "CityId": "9DB3F05C-6499-4084-87E9-BE3954EC1594",
+        "LicensePlate": 39,
+        "Name": "Kofçaz"
+    },
+    {
+        "Id": "99AFA996-BE15-45B9-91E2-831966E3A8AF",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Bahçelievler"
+    },
+    {
+        "Id": "271705B4-1C2D-4365-8C3A-831FA26698A2",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Buldan"
+    },
+    {
+        "Id": "5FD4D4E2-178A-4E1B-BDBE-833FC13863EE",
+        "CityId": "2F8C2F72-92B5-4BCB-822B-14A652E7B404",
+        "LicensePlate": 23,
+        "Name": "Arıcak"
+    },
+    {
+        "Id": "02FF890A-D00C-4973-BC38-837B6D68C19E",
+        "CityId": "83AE9E20-CCCE-419D-B6B2-F7B97BD5CDCD",
+        "LicensePlate": 51,
+        "Name": "Ulukışla"
+    },
+    {
+        "Id": "9A630715-7FCB-4B3C-A5B6-83AA814D9FBF",
+        "CityId": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "LicensePlate": 19,
+        "Name": "Ortaköy \/ Çorum"
+    },
+    {
+        "Id": "DBDC144B-BE6B-4502-8DF5-84655BA2C795",
+        "CityId": "763BE7DE-9D7C-4231-8868-C719433E5E7F",
+        "LicensePlate": 8,
+        "Name": "Arhavi"
+    },
+    {
+        "Id": "B8D81C80-4E4D-428C-B706-84A87C8F822D",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Altınekin"
+    },
+    {
+        "Id": "8BA0300D-63E1-4613-8103-8528FCCAC50F",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Polatlı"
+    },
+    {
+        "Id": "2F59349A-D1C5-4DFB-BBCF-8533761BD0A4",
+        "CityId": "202CA76D-2BBA-4BA7-A898-EE02FEAFCC42",
+        "LicensePlate": 59,
+        "Name": "Şarköy"
+    },
+    {
+        "Id": "CC6852F3-4562-4F30-9874-85692858465A",
+        "CityId": "E4554D68-391F-41BF-A6DA-70FA3B800B29",
+        "LicensePlate": 22,
+        "Name": "Uzunköprü"
+    },
+    {
+        "Id": "F5F9B859-8882-4514-B2E4-8569A1F14DD3",
+        "CityId": "5328F50E-AA88-418D-9C80-6ECC992993F0",
+        "LicensePlate": 53,
+        "Name": "Hemşin"
+    },
+    {
+        "Id": "6B259FDD-DD20-442F-86C0-859449E6FF0C",
+        "CityId": "98774BEE-6DD5-4211-9BBA-2F64945BBAF5",
+        "LicensePlate": 46,
+        "Name": "Elbistan"
+    },
+    {
+        "Id": "43FB2DC7-696E-47A2-BDB8-85CC9C2D18E3",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Beypazarı"
+    },
+    {
+        "Id": "9969214D-3CD1-424D-AC87-85DE5CEA56D9",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Başmakçı"
+    },
+    {
+        "Id": "9F9725EF-3749-4F61-88ED-8621F5D5DBDE",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Güce"
+    },
+    {
+        "Id": "E38D0FCB-0706-4F24-8A40-862AF8C6EA6B",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Bayındır"
+    },
+    {
+        "Id": "EE4E683D-C6DE-495F-A7F4-863C69F38330",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Üsküdar"
+    },
+    {
+        "Id": "095BB3D2-0E4D-4860-86DB-868AF07B3E18",
+        "CityId": "85A7BA3E-E88D-4D46-BB16-AD331DB80513",
+        "LicensePlate": 4,
+        "Name": "Tutak"
+    },
+    {
+        "Id": "9C2170ED-CAD8-42DA-930A-879D8C2DC6BE",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Olur"
+    },
+    {
+        "Id": "AA250E64-6518-47A7-A4D7-87E7E00105E8",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Ünye"
+    },
+    {
+        "Id": "AE46B835-60A2-40C1-BD7A-8843E66BE9BE",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Sındırgı"
+    },
+    {
+        "Id": "0B019BD3-6B4E-44AD-BC97-88BCE9DAAEB4",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Bandırma"
+    },
+    {
+        "Id": "C468CDFA-63E9-4DEF-8EC3-890D22479132",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Gölmarmara"
+    },
+    {
+        "Id": "7493660E-7F83-4B4D-9812-892BA7B8B217",
+        "CityId": "569A01D1-EBFD-4CCF-84DC-77543A70AC49",
+        "LicensePlate": 62,
+        "Name": "Hozat"
+    },
+    {
+        "Id": "54A11361-CAE2-43DF-99DD-8949DE254FEF",
+        "CityId": "E53EBA61-1039-415F-949C-E87EE3C857C2",
+        "LicensePlate": 48,
+        "Name": "Ula"
+    },
+    {
+        "Id": "9352AAF8-92C9-4B0B-81B5-895467721F64",
+        "CityId": "8F2B606C-B978-4DD5-955D-8CCEEA831483",
+        "LicensePlate": 60,
+        "Name": "Pazar \/ Tokat"
+    },
+    {
+        "Id": "1C822358-603F-4AD1-8E2C-89A668D30E77",
+        "CityId": "35EED674-FF38-4059-80A5-987363D16698",
+        "LicensePlate": 26,
+        "Name": "Odunpazarı"
+    },
+    {
+        "Id": "ACE93D7D-6AF1-4532-807A-89DDDD9D2F3B",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Kadınhanı"
+    },
+    {
+        "Id": "06D223EA-283D-4E56-9A11-8A23970DD056",
+        "CityId": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "LicensePlate": 66,
+        "Name": "Sarıkaya"
+    },
+    {
+        "Id": "F02F0498-9043-4837-8709-8A4CD9A7BFAC",
+        "CityId": "5D52FA8F-33DD-42BE-92B1-0E8D5B16D9DF",
+        "LicensePlate": 63,
+        "Name": "Birecik"
+    },
+    {
+        "Id": "A9EA1BA6-5E13-4F9B-8001-8A64806B411A",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "İskenderun"
+    },
+    {
+        "Id": "68137A98-CCD9-42D1-8B8C-8A891598093F",
+        "CityId": "37060E25-736A-44D5-8A6C-3E7BB05751EA",
+        "LicensePlate": 11,
+        "Name": "İnhisar"
+    },
+    {
+        "Id": "55383909-ACBC-4874-A264-8AB4D47D2C10",
+        "CityId": "6AC74E9F-0673-440D-8175-BF54FC72A4F4",
+        "LicensePlate": 18,
+        "Name": "Şabanözü"
+    },
+    {
+        "Id": "C1332651-A842-44C6-B650-8B75762D5958",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Sultangazi"
+    },
+    {
+        "Id": "F807D97F-A34C-4D5D-A59D-8BD0E01DC5C0",
+        "CityId": "82F47539-38DF-4463-871E-8E90182F8671",
+        "LicensePlate": 44,
+        "Name": "Yeşilyurt \/ Malatya"
+    },
+    {
+        "Id": "256F301A-01DF-4DC5-BC8A-8C01A8E4FB74",
+        "CityId": "763BE7DE-9D7C-4231-8868-C719433E5E7F",
+        "LicensePlate": 8,
+        "Name": "Hopa"
+    },
+    {
+        "Id": "6AB5D0F1-0294-4188-BC35-8C374EE468B0",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Konak"
+    },
+    {
+        "Id": "B10478F7-9A29-414E-9A0C-8C3D9B585393",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Pınarbaşı \/ Kastamonu"
+    },
+    {
+        "Id": "29D41FE7-A66B-418A-9BCD-8C4B0468E37A",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Daday"
+    },
+    {
+        "Id": "BD26FCCC-02BD-4724-A4D7-8D346F95A6CF",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Abana"
+    },
+    {
+        "Id": "C7CE6183-9B2D-457B-872C-8D47AAB5FCB2",
+        "CityId": "C8D556F2-C0B3-4852-87D3-4DAC05947E9E",
+        "LicensePlate": 2,
+        "Name": "Adıyaman Merkez"
+    },
+    {
+        "Id": "142FD0D1-6FC0-4165-8F25-8D4985CF10E9",
+        "CityId": "A2489047-E873-4748-B85B-2014F7BA68AA",
+        "LicensePlate": 33,
+        "Name": "Mezitli"
+    },
+    {
+        "Id": "03F51401-8FD6-4B17-A234-8D597940C5EC",
+        "CityId": "35EED674-FF38-4059-80A5-987363D16698",
+        "LicensePlate": 26,
+        "Name": "Mihalıççık"
+    },
+    {
+        "Id": "94AC7F84-74A1-4DCD-9C3D-8E231105E7E7",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Çaybaşı"
+    },
+    {
+        "Id": "20DE365A-5B6F-405B-B3AB-8E58FDC94940",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "İvrindi"
+    },
+    {
+        "Id": "BAE10BED-8345-4472-B685-8EE0B648284C",
+        "CityId": "6D888C8F-F4CD-4FDA-9B56-208CCE8F6D3D",
+        "LicensePlate": 12,
+        "Name": "Kiğı"
+    },
+    {
+        "Id": "29E439C0-F6D3-432D-AA29-8F43ADE2F8F9",
+        "CityId": "8AB7FBF9-D2F1-44CC-AAE3-8B3A18B865C7",
+        "LicensePlate": 15,
+        "Name": "Gölhisar"
+    },
+    {
+        "Id": "66BDBB57-29C1-4B0F-BE0A-8F857A14B478",
+        "CityId": "0CA4D901-C9E6-48A2-B7EE-43969756BF8E",
+        "LicensePlate": 17,
+        "Name": "Ezine"
+    },
+    {
+        "Id": "BDD65501-DB83-496B-B7FC-8F9FAB655482",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Havran"
+    },
+    {
+        "Id": "8B8A8077-AE14-4AAA-9310-8FD81B015C24",
+        "CityId": "11936EB6-13D1-4F79-97BD-2404254F84C0",
+        "LicensePlate": 72,
+        "Name": "Gercüş"
+    },
+    {
+        "Id": "EEEEE9D3-32F4-46E3-92E3-8FF0BE7EDFCF",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Yahyalı"
+    },
+    {
+        "Id": "D5CAF479-4089-42D9-863D-90249F46585F",
+        "CityId": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "LicensePlate": 19,
+        "Name": "Dodurga"
+    },
+    {
+        "Id": "EA71DEE4-1C12-49F9-93B4-9176CCA791BB",
+        "CityId": "0CA4D901-C9E6-48A2-B7EE-43969756BF8E",
+        "LicensePlate": 17,
+        "Name": "Ayvacık \/ Çanakkale"
+    },
+    {
+        "Id": "B8FB35FF-53BA-4F15-B03D-919A8DB848AC",
+        "CityId": "D04CCE1F-144D-4A19-9366-033EEAC12AB8",
+        "LicensePlate": 14,
+        "Name": "Bolu Merkez"
+    },
+    {
+        "Id": "009F1584-E8DD-4D6C-80CB-91ACF072F748",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Vakfıkebir"
+    },
+    {
+        "Id": "2CDE1319-DDC4-4D44-9644-91D0BD7F2411",
+        "CityId": "4FB8657E-62BC-40CC-88C9-D0C182F6E08E",
+        "LicensePlate": 43,
+        "Name": "Hisarcık"
+    },
+    {
+        "Id": "207309AE-FDC5-477E-AE6E-91E2291BA07C",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Ödemiş"
+    },
+    {
+        "Id": "F1E13B7D-8ADF-4DE7-8EC2-92D92CC62DA4",
+        "CityId": "35F118E5-2A32-4BCC-9B9A-1191088B96E9",
+        "LicensePlate": 57,
+        "Name": "Durağan"
+    },
+    {
+        "Id": "9E6D8582-FEED-421C-875D-92FE1DCF3A7B",
+        "CityId": "72361AF4-F8E1-4368-B813-D883F62971D0",
+        "LicensePlate": 67,
+        "Name": "Zonguldak Merkez"
+    },
+    {
+        "Id": "6118951D-9637-4F52-B2A8-934ECABAA5E0",
+        "CityId": "A7757225-5423-4A53-8DF5-B734E56B062B",
+        "LicensePlate": 56,
+        "Name": "Pervari"
+    },
+    {
+        "Id": "317BFC89-E101-4D15-8566-9367122BD383",
+        "CityId": "69CB5221-0AE0-4B36-8ED6-7EE05712F9EE",
+        "LicensePlate": 78,
+        "Name": "Ovacık \/ Karabük"
+    },
+    {
+        "Id": "9E08DC11-52A7-4A97-9B95-936C6E7A6A23",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Palandöken"
+    },
+    {
+        "Id": "68D4C2E1-CD6D-4985-8E55-93804860A842",
+        "CityId": "2F8C2F72-92B5-4BCB-822B-14A652E7B404",
+        "LicensePlate": 23,
+        "Name": "Karakoçan"
+    },
+    {
+        "Id": "2511B58C-4CBC-4280-9F23-9388EE9119F0",
+        "CityId": "B178B5B4-4674-47AA-879D-3037F5DB05F5",
+        "LicensePlate": 65,
+        "Name": "Edremit \/ Van"
+    },
+    {
+        "Id": "D769823E-0C95-412A-96B2-9450CFC725CC",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "İbradı"
+    },
+    {
+        "Id": "A31E9D16-C445-4A84-BFC4-9460F24A83E6",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Evren"
+    },
+    {
+        "Id": "872B9829-E7F1-4BD5-81C2-949573FAE016",
+        "CityId": "0CA4D901-C9E6-48A2-B7EE-43969756BF8E",
+        "LicensePlate": 17,
+        "Name": "Bayramiç"
+    },
+    {
+        "Id": "597780BB-CD6E-4C44-8112-94C36526D48A",
+        "CityId": "763BE7DE-9D7C-4231-8868-C719433E5E7F",
+        "LicensePlate": 8,
+        "Name": "Şavşat"
+    },
+    {
+        "Id": "43C63FA3-329D-41F2-BAB5-9521E0C42D88",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Sarıoğlan"
+    },
+    {
+        "Id": "90733CF9-637A-4873-A4FA-9523E640B975",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Çarşıbaşı"
+    },
+    {
+        "Id": "8F67F679-C963-4DC3-9E56-95264F900FCE",
+        "CityId": "C8D556F2-C0B3-4852-87D3-4DAC05947E9E",
+        "LicensePlate": 2,
+        "Name": "Sincik"
+    },
+    {
+        "Id": "B32F946B-1A5F-4546-A66B-957D2307985A",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Tosya"
+    },
+    {
+        "Id": "0376F5D9-32A6-49DA-89ED-95952D37D2AF",
+        "CityId": "2F8C2F72-92B5-4BCB-822B-14A652E7B404",
+        "LicensePlate": 23,
+        "Name": "Elazığ Merkez"
+    },
+    {
+        "Id": "F91B2A87-EE60-417A-A703-9605664BA939",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Bozdoğan"
+    },
+    {
+        "Id": "80D40FE0-8157-4719-937D-967426D64633",
+        "CityId": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "LicensePlate": 66,
+        "Name": "Yozgat Merkez"
+    },
+    {
+        "Id": "257805A8-BB4C-4D9E-8305-97A2EEBFA7C0",
+        "CityId": "35F118E5-2A32-4BCC-9B9A-1191088B96E9",
+        "LicensePlate": 57,
+        "Name": "Saraydüzü"
+    },
+    {
+        "Id": "6A900A44-1B01-42A4-8A64-980658BA864A",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Esenler"
+    },
+    {
+        "Id": "423DCA41-B532-451D-BF69-9847623C8622",
+        "CityId": "E4554D68-391F-41BF-A6DA-70FA3B800B29",
+        "LicensePlate": 22,
+        "Name": "Havsa"
+    },
+    {
+        "Id": "346B657E-6AE7-49DD-BA60-98531F93B76F",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Tekman"
+    },
+    {
+        "Id": "6E635B6D-0AF4-451F-84FF-986955CB4BFC",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Tonya"
+    },
+    {
+        "Id": "813BEA2A-4661-4CEE-879F-9900CAF7DA8C",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Sinanpaşa"
+    },
+    {
+        "Id": "4AF92664-55D4-447C-A34A-99030E232AA2",
+        "CityId": "353A4342-9214-4AB5-912A-67A6BE3E9818",
+        "LicensePlate": 81,
+        "Name": "Akçakoca"
+    },
+    {
+        "Id": "C8C2BF79-3E92-4157-841C-99ED5E73B304",
+        "CityId": "3200C908-861C-4196-806F-5D692A4BCA8F",
+        "LicensePlate": 74,
+        "Name": "Ulus"
+    },
+    {
+        "Id": "A173B8A2-9FEE-4FF9-A8E2-9A073D46617E",
+        "CityId": "6D888C8F-F4CD-4FDA-9B56-208CCE8F6D3D",
+        "LicensePlate": 12,
+        "Name": "Adaklı"
+    },
+    {
+        "Id": "A85D5B91-9EA6-4EE7-A0EE-9A379A43B0A0",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Elmalı"
+    },
+    {
+        "Id": "5B10DE0B-DE4E-4052-8A67-9A8230D6CD82",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Bozkır"
+    },
+    {
+        "Id": "E86190F8-CFD9-4990-8196-9AEFDCAD79A9",
+        "CityId": "B178B5B4-4674-47AA-879D-3037F5DB05F5",
+        "LicensePlate": 65,
+        "Name": "Erciş"
+    },
+    {
+        "Id": "64208E37-D926-4674-83F6-9B00C01FE5EE",
+        "CityId": "751E950A-9031-441D-A0A8-66BAF6E85982",
+        "LicensePlate": 73,
+        "Name": "Uludere"
+    },
+    {
+        "Id": "EF2EDEBA-D269-4B64-BDC3-9B3D7AD56C2C",
+        "CityId": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "LicensePlate": 66,
+        "Name": "Çekerek"
+    },
+    {
+        "Id": "0F4AF910-EC95-4430-9334-9C3F820ABA72",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Bağlar"
+    },
+    {
+        "Id": "F9682AA7-5A10-4BFA-AEA9-9C62E11F97E1",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Gönen \/ Balıkesir"
+    },
+    {
+        "Id": "71FC3422-7E74-4E99-8CC8-9C77BF2CEDD1",
+        "CityId": "A2489047-E873-4748-B85B-2014F7BA68AA",
+        "LicensePlate": 33,
+        "Name": "Tarsus"
+    },
+    {
+        "Id": "C907B833-4BA4-432A-B4D4-9C9FB23B9A59",
+        "CityId": "5CEB1519-BAA9-4782-8F0A-B53746C66519",
+        "LicensePlate": 40,
+        "Name": "Akpınar"
+    },
+    {
+        "Id": "76459017-4B11-464F-9282-9CC52A4FF4A7",
+        "CityId": "5D52FA8F-33DD-42BE-92B1-0E8D5B16D9DF",
+        "LicensePlate": 63,
+        "Name": "Viranşehir"
+    },
+    {
+        "Id": "DBACF927-9040-401D-A002-9D22D363F7ED",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Perşembe"
+    },
+    {
+        "Id": "AD817A98-AE34-488B-9FB6-9DB00CB00EF9",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Ahırlı"
+    },
+    {
+        "Id": "2C0620B8-FC9D-4A0E-B0B4-9DDFA4912996",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Silivri"
+    },
+    {
+        "Id": "D941E9C6-3BFF-4979-9FFA-9DE1C9325F28",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Erdek"
+    },
+    {
+        "Id": "C5C5CECB-BEB1-4AB2-8B8F-9E1ACE1D5F11",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Avcılar"
+    },
+    {
+        "Id": "1CD334C5-E581-496F-B00C-9E3F9191846F",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Atakum"
+    },
+    {
+        "Id": "8A0BEE2F-17E6-4E67-8570-9EB9A28806BC",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Yenipazar \/ Aydın"
+    },
+    {
+        "Id": "48A4AD5F-AD2C-47BC-91CC-9EDE03B8EF93",
+        "CityId": "35CA39E9-A43F-46AB-B2ED-46A08ABAE321",
+        "LicensePlate": 77,
+        "Name": "Çiftlikköy"
+    },
+    {
+        "Id": "5FFC5F81-2AF7-441C-989C-9F342C06F2C4",
+        "CityId": "82F47539-38DF-4463-871E-8E90182F8671",
+        "LicensePlate": 44,
+        "Name": "Darende"
+    },
+    {
+        "Id": "A76BEA35-6B65-4C2C-9FD7-9F6643F45210",
+        "CityId": "5D05DC4F-F2A4-4C6A-9C93-4B1EF5BEBA10",
+        "LicensePlate": 41,
+        "Name": "Çayırova"
+    },
+    {
+        "Id": "2F06FB43-6D9C-4C5B-92A4-9F6A29211DED",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Bolvadin"
+    },
+    {
+        "Id": "20C5ED8F-71B8-436A-B78F-A085145ED52B",
+        "CityId": "82F47539-38DF-4463-871E-8E90182F8671",
+        "LicensePlate": 44,
+        "Name": "Doğanyol"
+    },
+    {
+        "Id": "54640434-7F4A-4897-B398-A1037D869FAD",
+        "CityId": "82F47539-38DF-4463-871E-8E90182F8671",
+        "LicensePlate": 44,
+        "Name": "Pütürge"
+    },
+    {
+        "Id": "C3CCC66A-BCD8-4D0A-A0D2-A16081AD2BDF",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Maçka"
+    },
+    {
+        "Id": "156E6F00-AF74-44EC-BF93-A184E911AE8A",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Yakutiye"
+    },
+    {
+        "Id": "CB61A50A-BA21-44D6-A85F-A1D0CEB3E7C5",
+        "CityId": "A2489047-E873-4748-B85B-2014F7BA68AA",
+        "LicensePlate": 33,
+        "Name": "Silifke"
+    },
+    {
+        "Id": "C8367151-290D-4912-929E-A2208930D45A",
+        "CityId": "44C2DCCC-C65D-448E-939E-359EFB9867E9",
+        "LicensePlate": 32,
+        "Name": "Sütçüler"
+    },
+    {
+        "Id": "58908DFC-3117-489C-9AB4-A22FDBE064A0",
+        "CityId": "4EFD81C9-5E06-473F-A4D4-12920A9093BA",
+        "LicensePlate": 5,
+        "Name": "Suluova"
+    },
+    {
+        "Id": "B3581453-70CA-470E-9DF2-A27B93FB53D7",
+        "CityId": "D04CCE1F-144D-4A19-9366-033EEAC12AB8",
+        "LicensePlate": 14,
+        "Name": "Seben"
+    },
+    {
+        "Id": "DA82CDFD-825E-452A-938D-A2C05F9D02D3",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Ilgın"
+    },
+    {
+        "Id": "14D334F3-9053-469A-82E0-A2EC13753CD2",
+        "CityId": "4EFD81C9-5E06-473F-A4D4-12920A9093BA",
+        "LicensePlate": 5,
+        "Name": "Merzifon"
+    },
+    {
+        "Id": "4BC4D0D3-4722-498B-A8B8-A30592275BDD",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Güney"
+    },
+    {
+        "Id": "867AB05F-CA1D-456A-BCF4-A3445728949D",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Çivril"
+    },
+    {
+        "Id": "24BA6232-FC3D-47EB-B266-A3F150392BD0",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "Reyhanlı"
+    },
+    {
+        "Id": "DC5EF952-612D-44E8-92B5-A4996EE13174",
+        "CityId": "35F118E5-2A32-4BCC-9B9A-1191088B96E9",
+        "LicensePlate": 57,
+        "Name": "Sinop Merkez"
+    },
+    {
+        "Id": "BD0A8F87-CF0C-403E-88A8-A4B4809F2BCA",
+        "CityId": "8F2B606C-B978-4DD5-955D-8CCEEA831483",
+        "LicensePlate": 60,
+        "Name": "Yeşilyurt \/ Tokat"
+    },
+    {
+        "Id": "AA876D91-C571-48B6-AEB2-A573BC2951FE",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Selçuklu"
+    },
+    {
+        "Id": "9062B63A-934E-4207-8858-A573D1F17968",
+        "CityId": "FD3A53DC-51B7-484A-B72B-F2431C926141",
+        "LicensePlate": 24,
+        "Name": "Otlukbeli"
+    },
+    {
+        "Id": "E46EFAB0-D5D7-4FC3-B892-A58C930510D6",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Seydişehir"
+    },
+    {
+        "Id": "19C33B70-2707-4193-B0DE-A5C38B363155",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Çeşme"
+    },
+    {
+        "Id": "EC11D61A-859C-48A3-8BD7-A5CC486A2AAE",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Erenler"
+    },
+    {
+        "Id": "419145D4-7D7C-47C6-933A-A5CEC7CA130B",
+        "CityId": "5CEB1519-BAA9-4782-8F0A-B53746C66519",
+        "LicensePlate": 40,
+        "Name": "Boztepe"
+    },
+    {
+        "Id": "378D59A3-4849-40E2-90C4-A5D84A6D972B",
+        "CityId": "0CA4D901-C9E6-48A2-B7EE-43969756BF8E",
+        "LicensePlate": 17,
+        "Name": "Gökçeada"
+    },
+    {
+        "Id": "427A4827-EBEA-445B-8C74-A62C1028BEEC",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Selendi"
+    },
+    {
+        "Id": "040B80D0-9E87-49CB-88D6-A651D920DDD4",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Baklan"
+    },
+    {
+        "Id": "BA915506-6158-4773-AF51-A6C1DFDBDE6C",
+        "CityId": "B178B5B4-4674-47AA-879D-3037F5DB05F5",
+        "LicensePlate": 65,
+        "Name": "Gevaş"
+    },
+    {
+        "Id": "9AC3FCA2-6F7E-4425-8EF9-A6D1820C3129",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Pendik"
+    },
+    {
+        "Id": "1685FFCD-34A0-4B69-A098-A6F54F9C6CF1",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Kangal"
+    },
+    {
+        "Id": "73D806AE-592C-4BF0-BF12-A6F8A2D13435",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Orhangazi"
+    },
+    {
+        "Id": "03EAC532-859D-4D23-A4F5-A77BB21D6745",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Karabağlar"
+    },
+    {
+        "Id": "122A7DE8-F698-4369-857D-A780966E8F45",
+        "CityId": "82F47539-38DF-4463-871E-8E90182F8671",
+        "LicensePlate": 44,
+        "Name": "Kale \/ Malatya"
+    },
+    {
+        "Id": "84015722-B6A7-4B62-8A76-A784A6878726",
+        "CityId": "83AE9E20-CCCE-419D-B6B2-F7B97BD5CDCD",
+        "LicensePlate": 51,
+        "Name": "Çiftlik"
+    },
+    {
+        "Id": "8248A1C1-63C6-449C-A918-A7B0C32B582C",
+        "CityId": "E53EBA61-1039-415F-949C-E87EE3C857C2",
+        "LicensePlate": 48,
+        "Name": "Fethiye"
+    },
+    {
+        "Id": "EF43198D-613E-40C1-93AE-A7BEE5938AD1",
+        "CityId": "202CA76D-2BBA-4BA7-A898-EE02FEAFCC42",
+        "LicensePlate": 59,
+        "Name": "Malkara"
+    },
+    {
+        "Id": "9DE0F3DE-DE5C-439A-AAD6-A816C2990F5D",
+        "CityId": "0CA4D901-C9E6-48A2-B7EE-43969756BF8E",
+        "LicensePlate": 17,
+        "Name": "Çanakkale Merkez"
+    },
+    {
+        "Id": "E4EC967B-E91B-4C41-B41F-A870264076D0",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Hocalar"
+    },
+    {
+        "Id": "2BD80A98-BF66-46DE-9604-A88C50298053",
+        "CityId": "35EED674-FF38-4059-80A5-987363D16698",
+        "LicensePlate": 26,
+        "Name": "Tepebaşı"
+    },
+    {
+        "Id": "0AE633F6-FFB2-4F40-8015-A8DEB94C99FA",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Asarcık"
+    },
+    {
+        "Id": "D4EEC4F9-7007-4205-89B1-A8DEC7B2A993",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Kaynarca"
+    },
+    {
+        "Id": "5DFD1060-A6E3-4B7B-8EF1-A94E0405A530",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Akyazı"
+    },
+    {
+        "Id": "1BFF8ACC-D384-4B33-BD89-A9675315DC84",
+        "CityId": "35EED674-FF38-4059-80A5-987363D16698",
+        "LicensePlate": 26,
+        "Name": "Seyitgazi"
+    },
+    {
+        "Id": "55B182C1-FC63-4701-917B-A9BE4CDE5F43",
+        "CityId": "470E6AA0-EA84-4884-8D48-08711B5FFBFE",
+        "LicensePlate": 49,
+        "Name": "Bulanık"
+    },
+    {
+        "Id": "74DB8BCF-57FF-4DA1-B711-AA18142913A3",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Dereli"
+    },
+    {
+        "Id": "F2B805D1-3647-4793-9D7A-AA29E0ED469E",
+        "CityId": "11936EB6-13D1-4F79-97BD-2404254F84C0",
+        "LicensePlate": 72,
+        "Name": "Beşiri"
+    },
+    {
+        "Id": "5A3E5302-E6A1-49E6-B486-AAC939958B4D",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Adalar"
+    },
+    {
+        "Id": "E022EF12-4C0E-47DB-8043-AAF88A9D1DC7",
+        "CityId": "2670CC1B-65E6-4228-A5A8-3D0F67F374E5",
+        "LicensePlate": 13,
+        "Name": "Bitlis Merkez"
+    },
+    {
+        "Id": "D958F56F-479C-4D18-843E-AB9F85A7E774",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Söke"
+    },
+    {
+        "Id": "3E1C52B1-188D-4033-973D-ABABA23DC79C",
+        "CityId": "4FB8657E-62BC-40CC-88C9-D0C182F6E08E",
+        "LicensePlate": 43,
+        "Name": "Çavdarhisar"
+    },
+    {
+        "Id": "7ED9DE4C-E9E6-4D19-8B41-ABB423E9E6B3",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Balya"
+    },
+    {
+        "Id": "B7712997-77A1-4AEF-A215-ABBFA82A723C",
+        "CityId": "0CA4D901-C9E6-48A2-B7EE-43969756BF8E",
+        "LicensePlate": 17,
+        "Name": "Yenice \/ Çanakkale"
+    },
+    {
+        "Id": "AEB4BDDD-AC26-4C08-9FB6-ABE0C508CA1B",
+        "CityId": "A7757225-5423-4A53-8DF5-B734E56B062B",
+        "LicensePlate": 56,
+        "Name": "Baykan"
+    },
+    {
+        "Id": "C41F95A7-7002-442B-8B8F-AC18815065AE",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Nilüfer"
+    },
+    {
+        "Id": "C99DC937-F877-4838-91E3-AC65EF0727B8",
+        "CityId": "202CA76D-2BBA-4BA7-A898-EE02FEAFCC42",
+        "LicensePlate": 59,
+        "Name": "Çerkezköy"
+    },
+    {
+        "Id": "C2A688BE-3934-4A76-8C46-ACD49D0A95BF",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Fatih"
+    },
+    {
+        "Id": "45B3B082-9483-41DF-96FD-ACD54CE3DBA3",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Maltepe"
+    },
+    {
+        "Id": "17BB8CEC-9D44-40A0-9CBA-ACF9555816FE",
+        "CityId": "FF31E45F-3BE0-4C1B-AFB1-E4F160A090B7",
+        "LicensePlate": 47,
+        "Name": "Ömerli"
+    },
+    {
+        "Id": "E7BE22B5-1E02-41FB-9598-AD29C38FE4F1",
+        "CityId": "5D05DC4F-F2A4-4C6A-9C93-4B1EF5BEBA10",
+        "LicensePlate": 41,
+        "Name": "Karamürsel"
+    },
+    {
+        "Id": "46B6CE1C-39F4-4A3A-9A06-AD7010DF9A93",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Ayvacık \/ Samsun"
+    },
+    {
+        "Id": "E6FDF04C-F4DF-44C4-BCE1-AD73B95051CD",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Şenkaya"
+    },
+    {
+        "Id": "BA6F2491-A845-4632-8913-AD78AD5CE431",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Köprüköy"
+    },
+    {
+        "Id": "E69FEB8B-D7C5-4BD0-A48E-AE43E652A980",
+        "CityId": "EB01DEF7-7DBF-47A1-8E52-44332698F130",
+        "LicensePlate": 29,
+        "Name": "Köse"
+    },
+    {
+        "Id": "DECF1F90-3576-4AD5-9866-AE4F8EC4B25D",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Çine"
+    },
+    {
+        "Id": "175BD374-C0A3-4704-974C-AE57F4B1E235",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Germencik"
+    },
+    {
+        "Id": "2AC2885C-5D2D-45AC-B460-AEEB836C0310",
+        "CityId": "6AC74E9F-0673-440D-8175-BF54FC72A4F4",
+        "LicensePlate": 18,
+        "Name": "Yapraklı"
+    },
+    {
+        "Id": "916FEDCE-EA04-4F0D-AC56-AF136D382EE3",
+        "CityId": "4FB8657E-62BC-40CC-88C9-D0C182F6E08E",
+        "LicensePlate": 43,
+        "Name": "Altıntaş"
+    },
+    {
+        "Id": "B72DB1C0-2B1A-413A-A0FB-AF8BA2F590E7",
+        "CityId": "01F89680-DAD6-4B4E-B5E7-459575DFB229",
+        "LicensePlate": 27,
+        "Name": "Araban"
+    },
+    {
+        "Id": "E0008D6C-5826-41E6-A7F8-AFBF44188082",
+        "CityId": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "LicensePlate": 66,
+        "Name": "Aydıncık \/ Yozgat"
+    },
+    {
+        "Id": "84483114-5842-4DEB-8728-AFC2FC8898C4",
+        "CityId": "85A7BA3E-E88D-4D46-BB16-AD331DB80513",
+        "LicensePlate": 4,
+        "Name": "Doğubayazıt"
+    },
+    {
+        "Id": "64C65828-FA25-412E-A67C-B016BC3B1F9A",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Akıncılar"
+    },
+    {
+        "Id": "01DAC3A2-67A8-4044-ACCA-B0A972C875D5",
+        "CityId": "35EED674-FF38-4059-80A5-987363D16698",
+        "LicensePlate": 26,
+        "Name": "Alpu"
+    },
+    {
+        "Id": "CCABEE73-7B29-4E82-A006-B0ADD8A7E248",
+        "CityId": "8AB7FBF9-D2F1-44CC-AAE3-8B3A18B865C7",
+        "LicensePlate": 15,
+        "Name": "Tefenni"
+    },
+    {
+        "Id": "4A740E0D-BBF9-43D5-B2BA-B0C2DD5C3D73",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Yenişehir \/ Diyarbakır"
+    },
+    {
+        "Id": "C30C12FC-E0FF-4271-9E11-B0F23720C912",
+        "CityId": "751E950A-9031-441D-A0A8-66BAF6E85982",
+        "LicensePlate": 73,
+        "Name": "Beytüşşebap"
+    },
+    {
+        "Id": "66FEF7F9-A133-4BBB-A228-B10E9FFB94B2",
+        "CityId": "E1DDF912-E3C7-4F04-83FE-37489231E191",
+        "LicensePlate": 68,
+        "Name": "Aksaray Merkez"
+    },
+    {
+        "Id": "87C306B2-F87C-4801-98D4-B137B6FD348B",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Çarşamba"
+    },
+    {
+        "Id": "35BB906D-6A02-4504-9C9E-B26E03EF634E",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Şenpazar"
+    },
+    {
+        "Id": "6F00B395-B8F7-442B-AC29-B28B4AD6E604",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Dikili"
+    },
+    {
+        "Id": "996B0E9A-AE18-41D7-AC1D-B2A6CE71A2F2",
+        "CityId": "5328F50E-AA88-418D-9C80-6ECC992993F0",
+        "LicensePlate": 53,
+        "Name": "İkizdere"
+    },
+    {
+        "Id": "5D00F596-10C1-413C-90E2-B2B9B2FCFCBE",
+        "CityId": "751E950A-9031-441D-A0A8-66BAF6E85982",
+        "LicensePlate": 73,
+        "Name": "Silopi"
+    },
+    {
+        "Id": "69485304-CD40-4F8B-8163-B3AEE9D35B53",
+        "CityId": "557A99EA-8104-4813-BD16-2A3FBB15EFC1",
+        "LicensePlate": 70,
+        "Name": "Sarıveliler"
+    },
+    {
+        "Id": "DBA0D007-12D1-46F6-9F0D-B3DF6976A9A6",
+        "CityId": "4FB8657E-62BC-40CC-88C9-D0C182F6E08E",
+        "LicensePlate": 43,
+        "Name": "Şaphane"
+    },
+    {
+        "Id": "21446D93-DE37-40EE-A766-B42E6BF75A8E",
+        "CityId": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "LicensePlate": 66,
+        "Name": "Akdağmadeni"
+    },
+    {
+        "Id": "E3CE784E-979B-4379-BF56-B488CAC65A03",
+        "CityId": "98774BEE-6DD5-4211-9BBA-2F64945BBAF5",
+        "LicensePlate": 46,
+        "Name": "Dulkadiroğlu"
+    },
+    {
+        "Id": "3A1E50A1-97F1-4861-9FEC-B4BD93E38380",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Kırkağaç"
+    },
+    {
+        "Id": "2DE59384-07B0-43B8-8DBC-B4C675BCD274",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Gündoğmuş"
+    },
+    {
+        "Id": "C760F6D3-C2E1-4EC4-8CE9-B53881FEEE6B",
+        "CityId": "27998AF5-0B1F-4B68-B188-7A63975BABE4",
+        "LicensePlate": 50,
+        "Name": "Avanos"
+    },
+    {
+        "Id": "AA883B8C-DF2A-4A50-AC6E-B5BDE4869EEA",
+        "CityId": "35CA39E9-A43F-46AB-B2ED-46A08ABAE321",
+        "LicensePlate": 77,
+        "Name": "Termal"
+    },
+    {
+        "Id": "3EA2ED77-FE09-41BA-B3ED-B5E4A75A3C16",
+        "CityId": "35EED674-FF38-4059-80A5-987363D16698",
+        "LicensePlate": 26,
+        "Name": "İnönü"
+    },
+    {
+        "Id": "CCCFB23D-C430-45E9-835A-B5EE7006A5EC",
+        "CityId": "E4554D68-391F-41BF-A6DA-70FA3B800B29",
+        "LicensePlate": 22,
+        "Name": "Enez"
+    },
+    {
+        "Id": "115C88B6-BA6E-48F7-9649-B6EFBFF9D16D",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Kulu"
+    },
+    {
+        "Id": "16629B14-B509-4D87-82B2-B73E24EC240B",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Çamoluk"
+    },
+    {
+        "Id": "48B67A51-05D5-4FB6-A2B9-B74A2BAE31F2",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Tomarza"
+    },
+    {
+        "Id": "A38F48FB-4910-4817-94BE-B80AD821D82C",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Ayvalık"
+    },
+    {
+        "Id": "935441BA-0F15-4844-B684-B82F707DAAEB",
+        "CityId": "5D05DC4F-F2A4-4C6A-9C93-4B1EF5BEBA10",
+        "LicensePlate": 41,
+        "Name": "Darıca"
+    },
+    {
+        "Id": "F248B008-0D32-4DCF-9528-B84B6CC9BCE2",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Hüyük"
+    },
+    {
+        "Id": "B087EEFD-3C66-4FBA-B737-B874493C815E",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Bayraklı"
+    },
+    {
+        "Id": "BF48B3A4-6A14-4DF4-939A-B8FB4F5DED70",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Tortum"
+    },
+    {
+        "Id": "3B267048-B1C2-43AD-AA45-B9A9B558C2D4",
+        "CityId": "6AC74E9F-0673-440D-8175-BF54FC72A4F4",
+        "LicensePlate": 18,
+        "Name": "Çankırı Merkez"
+    },
+    {
+        "Id": "98F642D0-C143-4B49-93A3-B9E6D4E15FA8",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Kavak"
+    },
+    {
+        "Id": "BFC2E4CF-4644-45D3-9C83-BA8E50696A7F",
+        "CityId": "FD3A53DC-51B7-484A-B72B-F2431C926141",
+        "LicensePlate": 24,
+        "Name": "Üzümlü"
+    },
+    {
+        "Id": "BB4F2F26-7E8B-4289-B3E5-BAC1394B1945",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Güneysınır"
+    },
+    {
+        "Id": "012FED9E-4E9B-4879-873A-BAE61BF7252A",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Beşikdüzü"
+    },
+    {
+        "Id": "409CBCBB-FF0D-4B94-8CFC-BB09A0F5DD98",
+        "CityId": "4FB8657E-62BC-40CC-88C9-D0C182F6E08E",
+        "LicensePlate": 43,
+        "Name": "Tavşanlı"
+    },
+    {
+        "Id": "AB3229A8-AA51-41E6-9145-BB24E117455F",
+        "CityId": "557A99EA-8104-4813-BD16-2A3FBB15EFC1",
+        "LicensePlate": 70,
+        "Name": "Kazımkarabekir"
+    },
+    {
+        "Id": "F753084C-D5EE-4B06-86C1-BB46786BBB0B",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Ayaş"
+    },
+    {
+        "Id": "3A3D2D93-06B5-44F6-9CEB-BB69101C81E7",
+        "CityId": "69CB5221-0AE0-4B36-8ED6-7EE05712F9EE",
+        "LicensePlate": 78,
+        "Name": "Eskipazar"
+    },
+    {
+        "Id": "FEF07822-00C7-4C67-8348-BBC920815528",
+        "CityId": "FF31E45F-3BE0-4C1B-AFB1-E4F160A090B7",
+        "LicensePlate": 47,
+        "Name": "Kızıltepe"
+    },
+    {
+        "Id": "CEDCFFB7-A38A-4CE4-9F73-BC07B9D24F7D",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "İhsangazi"
+    },
+    {
+        "Id": "2D83AC17-3B23-46DC-90DE-BC7276BD146E",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Serdivan"
+    },
+    {
+        "Id": "3E3C6278-124C-4BC1-BC4C-BCD5E803E74D",
+        "CityId": "202CA76D-2BBA-4BA7-A898-EE02FEAFCC42",
+        "LicensePlate": 59,
+        "Name": "Süleymanpaşa"
+    },
+    {
+        "Id": "BCFEAB5D-BE98-4E3D-9A7B-BCD880CA76F0",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Çaykara"
+    },
+    {
+        "Id": "E4939608-5F32-49A0-80F3-BD5D5D871619",
+        "CityId": "E4554D68-391F-41BF-A6DA-70FA3B800B29",
+        "LicensePlate": 22,
+        "Name": "Lalapaşa"
+    },
+    {
+        "Id": "EE6B1FBF-B3EC-4A92-A277-BD631C9AAC06",
+        "CityId": "9DB3F05C-6499-4084-87E9-BE3954EC1594",
+        "LicensePlate": 39,
+        "Name": "Lüleburgaz"
+    },
+    {
+        "Id": "8DD6B726-AF33-4B9A-9CC4-BD6C4861F488",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Beyşehir"
+    },
+    {
+        "Id": "0B36A9E5-622B-4DD3-A357-BD8000220678",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "Altınözü"
+    },
+    {
+        "Id": "8CFC60C6-9FC1-45BF-BCE1-BE097E40595E",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Gürün"
+    },
+    {
+        "Id": "DD94E90B-1C91-4A28-A292-BE252FFC7437",
+        "CityId": "6AC74E9F-0673-440D-8175-BF54FC72A4F4",
+        "LicensePlate": 18,
+        "Name": "Eldivan"
+    },
+    {
+        "Id": "5AF73BB0-9341-4B14-B204-BE68BD16F4D0",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Foça"
+    },
+    {
+        "Id": "7A721A06-5E26-4D56-A02E-BE9F7CBCA93F",
+        "CityId": "7D977721-6EF8-40FF-AF7A-6EA286CC069D",
+        "LicensePlate": 75,
+        "Name": "Posof"
+    },
+    {
+        "Id": "DCB0C46B-F364-4440-AB43-BEAAA1D61FE5",
+        "CityId": "5D52FA8F-33DD-42BE-92B1-0E8D5B16D9DF",
+        "LicensePlate": 63,
+        "Name": "Karaköprü"
+    },
+    {
+        "Id": "BB2352A6-822D-49AD-8658-BEB97024DEAA",
+        "CityId": "8F2B606C-B978-4DD5-955D-8CCEEA831483",
+        "LicensePlate": 60,
+        "Name": "Almus"
+    },
+    {
+        "Id": "9EB4B7D5-B6EF-49EE-86C2-BF26297BFFC7",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Beşiktaş"
+    },
+    {
+        "Id": "7F1BD5A5-C1D5-4C8C-85BB-BF93957D2D35",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "Yumurtalık"
+    },
+    {
+        "Id": "536AAC64-824D-4B72-B4FD-BFC814CB36E6",
+        "CityId": "EB01DEF7-7DBF-47A1-8E52-44332698F130",
+        "LicensePlate": 29,
+        "Name": "Kürtün"
+    },
+    {
+        "Id": "7A226751-3DD8-494B-9D49-BFE1525D4423",
+        "CityId": "9DB3F05C-6499-4084-87E9-BE3954EC1594",
+        "LicensePlate": 39,
+        "Name": "Pehlivanköy"
+    },
+    {
+        "Id": "E8BC4F55-9850-4E55-A898-BFE9085C8E12",
+        "CityId": "5D05DC4F-F2A4-4C6A-9C93-4B1EF5BEBA10",
+        "LicensePlate": 41,
+        "Name": "Gebze"
+    },
+    {
+        "Id": "08014100-1B8B-4D16-8898-BFF8BC9E819C",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Şile"
+    },
+    {
+        "Id": "FDED1551-79E4-445C-B56F-C03093B84099",
+        "CityId": "35EED674-FF38-4059-80A5-987363D16698",
+        "LicensePlate": 26,
+        "Name": "Çifteler"
+    },
+    {
+        "Id": "7069EB10-5BEC-426F-BFDF-C03107B1E2EE",
+        "CityId": "A2489047-E873-4748-B85B-2014F7BA68AA",
+        "LicensePlate": 33,
+        "Name": "Aydıncık \/ Mersin"
+    },
+    {
+        "Id": "9F1932CF-4C39-463D-9A94-C03FD007A957",
+        "CityId": "11936EB6-13D1-4F79-97BD-2404254F84C0",
+        "LicensePlate": 72,
+        "Name": "Batman Merkez"
+    },
+    {
+        "Id": "20682FFB-B8CE-41C7-BCA5-C05D2FAC695C",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Arifiye"
+    },
+    {
+        "Id": "F74516E3-71B5-4AAF-9B74-C0AEA09DE07D",
+        "CityId": "35EED674-FF38-4059-80A5-987363D16698",
+        "LicensePlate": 26,
+        "Name": "Sarıcakaya"
+    },
+    {
+        "Id": "5DD55965-76DD-45D2-A9CB-C14443B88BDC",
+        "CityId": "4FB8657E-62BC-40CC-88C9-D0C182F6E08E",
+        "LicensePlate": 43,
+        "Name": "Dumlupınar"
+    },
+    {
+        "Id": "FA831412-1F56-4590-9DA0-C222953BFC11",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Çanakçı"
+    },
+    {
+        "Id": "C67293C7-F382-4AB5-BD27-C25B8591BB18",
+        "CityId": "27998AF5-0B1F-4B68-B188-7A63975BABE4",
+        "LicensePlate": 50,
+        "Name": "Nevşehir Merkez"
+    },
+    {
+        "Id": "0FF9BBA8-56DF-410C-8B71-C271CC64520B",
+        "CityId": "8AB7FBF9-D2F1-44CC-AAE3-8B3A18B865C7",
+        "LicensePlate": 15,
+        "Name": "Karamanlı"
+    },
+    {
+        "Id": "807FE6AA-5AE7-4926-BE35-C2C0ABE8C854",
+        "CityId": "E53EBA61-1039-415F-949C-E87EE3C857C2",
+        "LicensePlate": 48,
+        "Name": "Marmaris"
+    },
+    {
+        "Id": "2E2A7E95-F260-4EA0-851B-C2CF3CA014E7",
+        "CityId": "202CA76D-2BBA-4BA7-A898-EE02FEAFCC42",
+        "LicensePlate": 59,
+        "Name": "Çorlu"
+    },
+    {
+        "Id": "17757BD0-9939-4C3C-9759-C2F4E36239C5",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Aşkale"
+    },
+    {
+        "Id": "131AE095-C83F-432C-896C-C33AF377ADB3",
+        "CityId": "3F5A01E5-4AC7-4D3B-A8AA-CC03E4896A1B",
+        "LicensePlate": 71,
+        "Name": "Delice"
+    },
+    {
+        "Id": "20616190-09C9-45C2-8061-C3DA034B4E53",
+        "CityId": "5CEB1519-BAA9-4782-8F0A-B53746C66519",
+        "LicensePlate": 40,
+        "Name": "Kırşehir Merkez"
+    },
+    {
+        "Id": "C4113123-8B74-42F7-9902-C3F59D1CB9C6",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Savaştepe"
+    },
+    {
+        "Id": "14DC741B-86D6-4DB9-92CC-C4091EBBEF2D",
+        "CityId": "353A4342-9214-4AB5-912A-67A6BE3E9818",
+        "LicensePlate": 81,
+        "Name": "Yığılca"
+    },
+    {
+        "Id": "309AFB14-2EBF-485B-BC31-C413A2CE0A97",
+        "CityId": "4FB8657E-62BC-40CC-88C9-D0C182F6E08E",
+        "LicensePlate": 43,
+        "Name": "Gediz"
+    },
+    {
+        "Id": "A4B5E2EC-56E9-4038-94F9-C4278B26BE25",
+        "CityId": "5D52FA8F-33DD-42BE-92B1-0E8D5B16D9DF",
+        "LicensePlate": 63,
+        "Name": "Harran"
+    },
+    {
+        "Id": "E6E79891-7749-474F-A7EF-C45C45DAB61A",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Çankaya"
+    },
+    {
+        "Id": "DF91CDE2-EC10-4001-A30F-C5A2C38C0EBD",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Çatalpınar"
+    },
+    {
+        "Id": "5FC9D14C-E52A-44E5-BB4A-C5BB575BD78B",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Serik"
+    },
+    {
+        "Id": "BBE5BC2A-D9CC-4206-98A0-C5FBCFDCA8FF",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Görele"
+    },
+    {
+        "Id": "FC99965D-0568-4642-BD2B-C5FC5C91BC49",
+        "CityId": "83AE9E20-CCCE-419D-B6B2-F7B97BD5CDCD",
+        "LicensePlate": 51,
+        "Name": "Altunhisar"
+    },
+    {
+        "Id": "62E16F40-7DD2-489E-A7FD-C6B7133E2A81",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "Samandağ"
+    },
+    {
+        "Id": "64DB1069-AD6E-41DC-911A-C7D5ED36814B",
+        "CityId": "5328F50E-AA88-418D-9C80-6ECC992993F0",
+        "LicensePlate": 53,
+        "Name": "Güneysu"
+    },
+    {
+        "Id": "9E79A2F4-ACC9-4DF1-9DCE-C7E67A35D730",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Güngören"
+    },
+    {
+        "Id": "B1CE773D-BD4B-4B7C-A472-C7E81F416B9F",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Balçova"
+    },
+    {
+        "Id": "C739CA2A-9730-46A8-B0F0-C7F440064A5E",
+        "CityId": "82F47539-38DF-4463-871E-8E90182F8671",
+        "LicensePlate": 44,
+        "Name": "Doğanşehir"
+    },
+    {
+        "Id": "8E06C54E-27FD-404D-8CF4-C82143D1FC2A",
+        "CityId": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "LicensePlate": 37,
+        "Name": "Bozkurt \/ Kastamonu"
+    },
+    {
+        "Id": "89A47459-647A-446F-97E1-C834EE57D134",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Kayapınar"
+    },
+    {
+        "Id": "EBAC7F62-980E-42BF-A36A-C8AE3C9A736E",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Narman"
+    },
+    {
+        "Id": "FD99C05C-6A62-430D-BC94-C93E24242495",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Karaburun"
+    },
+    {
+        "Id": "D2AC13C3-8B8C-4707-A224-C97EF6016A01",
+        "CityId": "E53EBA61-1039-415F-949C-E87EE3C857C2",
+        "LicensePlate": 48,
+        "Name": "Menteşe"
+    },
+    {
+        "Id": "0032D2D2-E458-4649-A0CD-C998639C54E1",
+        "CityId": "8F2B606C-B978-4DD5-955D-8CCEEA831483",
+        "LicensePlate": 60,
+        "Name": "Tokat Merkez"
+    },
+    {
+        "Id": "AF87E5D3-1971-4B2C-9A08-CAC22CB3C0F5",
+        "CityId": "98774BEE-6DD5-4211-9BBA-2F64945BBAF5",
+        "LicensePlate": 46,
+        "Name": "Pazarcık"
+    },
+    {
+        "Id": "EE37270A-1573-47F1-9CC3-CB3BC144AA9E",
+        "CityId": "2670CC1B-65E6-4228-A5A8-3D0F67F374E5",
+        "LicensePlate": 13,
+        "Name": "Ahlat"
+    },
+    {
+        "Id": "604CA395-5917-4D08-9AAD-CB44B33F2EFA",
+        "CityId": "E53EBA61-1039-415F-949C-E87EE3C857C2",
+        "LicensePlate": 48,
+        "Name": "Kavaklıdere"
+    },
+    {
+        "Id": "5BF32A15-D2DD-4213-A87F-CBAFEAD84940",
+        "CityId": "3F5A01E5-4AC7-4D3B-A8AA-CC03E4896A1B",
+        "LicensePlate": 71,
+        "Name": "Sulakyurt"
+    },
+    {
+        "Id": "85651FB8-7126-4573-ADD3-CBB7573BCD4A",
+        "CityId": "4FB8657E-62BC-40CC-88C9-D0C182F6E08E",
+        "LicensePlate": 43,
+        "Name": "Simav"
+    },
+    {
+        "Id": "30025F49-1EDD-49F3-ADBA-CBE7A3CD7288",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "Seyhan"
+    },
+    {
+        "Id": "B90A706C-FE0E-4AB5-9BB6-CC02FED8F147",
+        "CityId": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "LicensePlate": 19,
+        "Name": "Uğurludağ"
+    },
+    {
+        "Id": "C833978A-2EE5-43BC-AFAF-CC15AD11160A",
+        "CityId": "2670CC1B-65E6-4228-A5A8-3D0F67F374E5",
+        "LicensePlate": 13,
+        "Name": "Tatvan"
+    },
+    {
+        "Id": "6BCB97EB-3275-4B4B-961A-CC38713F0349",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Gölova"
+    },
+    {
+        "Id": "139C3F38-E1D8-4DBD-9770-CC8A72DBD3F4",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "İspir"
+    },
+    {
+        "Id": "F073112F-6734-4BF9-BF30-CCB755E4ED1C",
+        "CityId": "8AB7FBF9-D2F1-44CC-AAE3-8B3A18B865C7",
+        "LicensePlate": 15,
+        "Name": "Burdur Merkez"
+    },
+    {
+        "Id": "7E54FA31-F281-4278-AA6C-CCBD8C603914",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Yunusemre"
+    },
+    {
+        "Id": "DEF563D3-8172-444C-96FC-CCE22E186793",
+        "CityId": "ED5A1F7D-1AF9-44D1-82EF-CB255D931DF1",
+        "LicensePlate": 36,
+        "Name": "Sarıkamış"
+    },
+    {
+        "Id": "8C6D9A6A-E63B-48D7-97C9-CDD776AE36E5",
+        "CityId": "5CEB1519-BAA9-4782-8F0A-B53746C66519",
+        "LicensePlate": 40,
+        "Name": "Çiçekdağı"
+    },
+    {
+        "Id": "6525EC04-9DE2-4848-A85E-CDE01880A747",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Gemlik"
+    },
+    {
+        "Id": "0DE6762B-8AC2-4FA1-A49A-CDE1098F9B8A",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Tavas"
+    },
+    {
+        "Id": "A952639C-74A1-4D6D-AD77-CDE1390919C1",
+        "CityId": "6AC74E9F-0673-440D-8175-BF54FC72A4F4",
+        "LicensePlate": 18,
+        "Name": "Çerkeş"
+    },
+    {
+        "Id": "DDDEE0B8-2711-4AE1-8741-CDEB5F48293E",
+        "CityId": "6AC74E9F-0673-440D-8175-BF54FC72A4F4",
+        "LicensePlate": 18,
+        "Name": "Atkaracalar"
+    },
+    {
+        "Id": "A759A193-4B87-4EFB-90E3-CE8140B2B555",
+        "CityId": "3F5A01E5-4AC7-4D3B-A8AA-CC03E4896A1B",
+        "LicensePlate": 71,
+        "Name": "Kırıkkale Merkez"
+    },
+    {
+        "Id": "17B5DA4D-1BE1-47B8-BBE4-CE8E9FB6F645",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Nallıhan"
+    },
+    {
+        "Id": "6C2B50D5-0298-46D5-A687-CEB56D5A966F",
+        "CityId": "353A4342-9214-4AB5-912A-67A6BE3E9818",
+        "LicensePlate": 81,
+        "Name": "Kaynaşlı"
+    },
+    {
+        "Id": "C47EEA97-6EDF-4B77-A5A2-CEC88A0BE69C",
+        "CityId": "11936EB6-13D1-4F79-97BD-2404254F84C0",
+        "LicensePlate": 72,
+        "Name": "Hasankeyf"
+    },
+    {
+        "Id": "01560820-7CE1-410E-9BFA-CF277FB55AD6",
+        "CityId": "72361AF4-F8E1-4368-B813-D883F62971D0",
+        "LicensePlate": 67,
+        "Name": "Kilimli"
+    },
+    {
+        "Id": "B7BBA82B-2A4D-43AB-ADD3-CF4745C11C67",
+        "CityId": "A7757225-5423-4A53-8DF5-B734E56B062B",
+        "LicensePlate": 56,
+        "Name": "Şirvan"
+    },
+    {
+        "Id": "19FD1A2E-3D71-41E4-8076-CF81B46EB123",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Beyağaç"
+    },
+    {
+        "Id": "9A780516-8F4E-49CF-9304-CFAF7A203DFE",
+        "CityId": "4EFD81C9-5E06-473F-A4D4-12920A9093BA",
+        "LicensePlate": 5,
+        "Name": "Gümüşhacıköy"
+    },
+    {
+        "Id": "633E8398-2958-4714-A4F5-D072EC423CFC",
+        "CityId": "B178B5B4-4674-47AA-879D-3037F5DB05F5",
+        "LicensePlate": 65,
+        "Name": "Bahçesaray"
+    },
+    {
+        "Id": "06D4C836-9481-4C49-8F18-D0AB84303677",
+        "CityId": "5D52FA8F-33DD-42BE-92B1-0E8D5B16D9DF",
+        "LicensePlate": 63,
+        "Name": "Suruç"
+    },
+    {
+        "Id": "C1D6CD56-9A2F-43B4-869E-D0B638D86180",
+        "CityId": "8AB7FBF9-D2F1-44CC-AAE3-8B3A18B865C7",
+        "LicensePlate": 15,
+        "Name": "Bucak"
+    },
+    {
+        "Id": "391962D2-DBE5-45B4-BFCE-D0BB30291055",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Kulp"
+    },
+    {
+        "Id": "1DB33835-8D2E-4863-A001-D0EB95794A66",
+        "CityId": "C8D556F2-C0B3-4852-87D3-4DAC05947E9E",
+        "LicensePlate": 2,
+        "Name": "Gerger"
+    },
+    {
+        "Id": "C2342403-EBFE-4363-BF69-D14EC13F3AFD",
+        "CityId": "44C2DCCC-C65D-448E-939E-359EFB9867E9",
+        "LicensePlate": 32,
+        "Name": "Yenişarbademli"
+    },
+    {
+        "Id": "57DC0E52-C770-4BEF-B13B-D2978FF9CEF6",
+        "CityId": "763BE7DE-9D7C-4231-8868-C719433E5E7F",
+        "LicensePlate": 8,
+        "Name": "Murgul"
+    },
+    {
+        "Id": "93FA9853-4C8A-4B3E-A04D-D2C154F41198",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Çüngüş"
+    },
+    {
+        "Id": "73248463-4DD4-4DE5-95A9-D38F2FF55FA4",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Çekmeköy"
+    },
+    {
+        "Id": "1F7C9C84-C8E2-4315-9A1F-D3A85EE32197",
+        "CityId": "E1DDF912-E3C7-4F04-83FE-37489231E191",
+        "LicensePlate": 68,
+        "Name": "Gülağaç"
+    },
+    {
+        "Id": "7D6DE22C-1E71-4885-AB58-D3FC3CB34649",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Kula"
+    },
+    {
+        "Id": "B6740CD9-5B1C-4A23-B198-D47B540E392A",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Emirgazi"
+    },
+    {
+        "Id": "F6FF0D32-32AF-4A97-A17D-D47C31E8B65B",
+        "CityId": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "LicensePlate": 66,
+        "Name": "Şefaatli"
+    },
+    {
+        "Id": "77DB20CA-A31A-4E05-B9D5-D4EF893D1D0A",
+        "CityId": "BDF8ACFE-B92C-4875-946D-F3D35A4FA25F",
+        "LicensePlate": 64,
+        "Name": "Ulubey \/ Uşak"
+    },
+    {
+        "Id": "0054C84A-9334-4061-9803-D4FDDFFA1BD6",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Kabataş"
+    },
+    {
+        "Id": "9AE10230-93C3-4F0F-B6E1-D5012F4A3AE2",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Alucra"
+    },
+    {
+        "Id": "C349CE7F-C1C9-496C-85EF-D57E5A87D976",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Çubuk"
+    },
+    {
+        "Id": "0A897EFA-5EE7-4DA5-B590-D590887422EA",
+        "CityId": "E53EBA61-1039-415F-949C-E87EE3C857C2",
+        "LicensePlate": 48,
+        "Name": "Bodrum"
+    },
+    {
+        "Id": "C750C1E2-6EA7-4F87-978F-D5B9D036DD42",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Yunak"
+    },
+    {
+        "Id": "F2723269-6737-434D-9249-D6242FE9D11C",
+        "CityId": "6AC74E9F-0673-440D-8175-BF54FC72A4F4",
+        "LicensePlate": 18,
+        "Name": "Orta"
+    },
+    {
+        "Id": "883737B9-B301-4B24-925A-D62669A44D36",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Korkuteli"
+    },
+    {
+        "Id": "0D5A60FD-6049-4303-8BB8-D802B1A63F2B",
+        "CityId": "2F8C2F72-92B5-4BCB-822B-14A652E7B404",
+        "LicensePlate": 23,
+        "Name": "Alacakaya"
+    },
+    {
+        "Id": "50FA20DB-9AA3-488E-9353-D822C96B0823",
+        "CityId": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "LicensePlate": 19,
+        "Name": "Oğuzlar"
+    },
+    {
+        "Id": "75C4A7B2-95CF-4F00-970A-D88BAFE1A16B",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Şarkışla"
+    },
+    {
+        "Id": "8374E972-F954-4100-B6D7-D8BC0A3A5C37",
+        "CityId": "85A7BA3E-E88D-4D46-BB16-AD331DB80513",
+        "LicensePlate": 4,
+        "Name": "Eleşkirt"
+    },
+    {
+        "Id": "DB931D01-EC61-4DA6-99D5-D8D6EC40FB0B",
+        "CityId": "4EFD81C9-5E06-473F-A4D4-12920A9093BA",
+        "LicensePlate": 5,
+        "Name": "Hamamözü"
+    },
+    {
+        "Id": "8A424A54-0E42-4E7F-885B-D8E9130E0865",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Buca"
+    },
+    {
+        "Id": "D0A5F46D-58B5-4013-A210-D8F8A444F45D",
+        "CityId": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "LicensePlate": 19,
+        "Name": "Çorum Merkez"
+    },
+    {
+        "Id": "F1B7DC57-53A2-411D-B16A-DA905F79BF62",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Canik"
+    },
+    {
+        "Id": "2C827E38-7C1B-4C58-AC4D-DAF7CE0F4AF0",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Ulubey \/ Ordu"
+    },
+    {
+        "Id": "87CD7B2D-0289-481E-8D8F-DB10ADA63DFE",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Dinar"
+    },
+    {
+        "Id": "ECC48007-A47C-4A0B-AAE4-DB2A5BD04350",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Konyaaltı"
+    },
+    {
+        "Id": "339CE87C-23A8-4493-9903-DB446133B76E",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Hafik"
+    },
+    {
+        "Id": "4AF5DBB6-9B0F-4EDB-B5F7-DBD71C2C04EC",
+        "CityId": "E1DDF912-E3C7-4F04-83FE-37489231E191",
+        "LicensePlate": 68,
+        "Name": "Ağaçören"
+    },
+    {
+        "Id": "2B7981C9-4992-4BBF-899C-DC3C525B98BA",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Pursaklar"
+    },
+    {
+        "Id": "FBF624AF-DC33-48EC-950B-DC43BC089A28",
+        "CityId": "E1DDF912-E3C7-4F04-83FE-37489231E191",
+        "LicensePlate": 68,
+        "Name": "Ortaköy \/ Aksaray"
+    },
+    {
+        "Id": "891865C2-7994-4029-94C4-DC70E03A1362",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Akören"
+    },
+    {
+        "Id": "88E0A483-C7DE-4536-BF44-DC7E7DD2715C",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Gazipaşa"
+    },
+    {
+        "Id": "41E05448-EC72-4232-84CD-DCC0F2814DEC",
+        "CityId": "44C2DCCC-C65D-448E-939E-359EFB9867E9",
+        "LicensePlate": 32,
+        "Name": "Keçiborlu"
+    },
+    {
+        "Id": "22235822-DDCC-4192-9C2F-DD9826445EAA",
+        "CityId": "557A99EA-8104-4813-BD16-2A3FBB15EFC1",
+        "LicensePlate": 70,
+        "Name": "Başyayla"
+    },
+    {
+        "Id": "DA50774C-9784-476E-A8B6-DDC00FDD32EC",
+        "CityId": "8F2B606C-B978-4DD5-955D-8CCEEA831483",
+        "LicensePlate": 60,
+        "Name": "Başçiftlik"
+    },
+    {
+        "Id": "C9BF0A45-39F2-4F72-8FEB-DDFCA8D964F7",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Küçükçekmece"
+    },
+    {
+        "Id": "888746AA-15D8-4472-ADD2-DE465CE02791",
+        "CityId": "5D52FA8F-33DD-42BE-92B1-0E8D5B16D9DF",
+        "LicensePlate": 63,
+        "Name": "Bozova"
+    },
+    {
+        "Id": "FA47A695-7CCB-41D8-AE2B-DE8EC3567E06",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Güzelbahçe"
+    },
+    {
+        "Id": "C205821C-4AD6-45F1-8002-DEEE81833C5E",
+        "CityId": "27998AF5-0B1F-4B68-B188-7A63975BABE4",
+        "LicensePlate": 50,
+        "Name": "Ürgüp"
+    },
+    {
+        "Id": "33352ED5-E40B-49E3-A76C-DEF69E6C2717",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "Tufanbeyli"
+    },
+    {
+        "Id": "4C0AC0B8-CCEC-4A46-8D1C-DF2E0A786C30",
+        "CityId": "8F2B606C-B978-4DD5-955D-8CCEEA831483",
+        "LicensePlate": 60,
+        "Name": "Niksar"
+    },
+    {
+        "Id": "AFE90A36-4A93-43C1-BE72-DF659BBE8E9D",
+        "CityId": "A2489047-E873-4748-B85B-2014F7BA68AA",
+        "LicensePlate": 33,
+        "Name": "Anamur"
+    },
+    {
+        "Id": "501F936F-1A0F-42DA-AD18-DFCCB1B88EF2",
+        "CityId": "5D52FA8F-33DD-42BE-92B1-0E8D5B16D9DF",
+        "LicensePlate": 63,
+        "Name": "Halfeti"
+    },
+    {
+        "Id": "22976B51-9087-4675-9B87-E00652F1C95D",
+        "CityId": "6AC74E9F-0673-440D-8175-BF54FC72A4F4",
+        "LicensePlate": 18,
+        "Name": "Kızılırmak"
+    },
+    {
+        "Id": "5AC3393F-B28E-4502-A6F3-E029FFBF1158",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Kuyucak"
+    },
+    {
+        "Id": "5A9407FB-E0C5-461D-82B6-E0A5A71A97D1",
+        "CityId": "37060E25-736A-44D5-8A6C-3E7BB05751EA",
+        "LicensePlate": 11,
+        "Name": "Pazaryeri"
+    },
+    {
+        "Id": "8B86A320-70D2-49B5-B3AE-E0B36826A2A8",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "Çay"
+    },
+    {
+        "Id": "6C06188F-2295-4FA1-96D6-E0C2FEE3CFE0",
+        "CityId": "A7757225-5423-4A53-8DF5-B734E56B062B",
+        "LicensePlate": 56,
+        "Name": "Kurtalan"
+    },
+    {
+        "Id": "78EB7C3A-EF75-48E7-9624-E0C613EF645E",
+        "CityId": "5328F50E-AA88-418D-9C80-6ECC992993F0",
+        "LicensePlate": 53,
+        "Name": "Fındıklı"
+    },
+    {
+        "Id": "ECDBF4EE-3CB2-4D6B-9123-E0E93FF00E4A",
+        "CityId": "9DB3F05C-6499-4084-87E9-BE3954EC1594",
+        "LicensePlate": 39,
+        "Name": "Babaeski"
+    },
+    {
+        "Id": "03B4C683-951C-46A7-A532-E24596286D62",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Taraklı"
+    },
+    {
+        "Id": "CB1ED9BD-83D6-4707-926A-E36624FFFDD9",
+        "CityId": "5D05DC4F-F2A4-4C6A-9C93-4B1EF5BEBA10",
+        "LicensePlate": 41,
+        "Name": "Kandıra"
+    },
+    {
+        "Id": "4E525175-1467-4034-BCCD-E387C76A3168",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Efeler"
+    },
+    {
+        "Id": "7C52CF04-B648-4DD2-92C5-E4280C1E1ACE",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Tire"
+    },
+    {
+        "Id": "5C20277A-7422-4815-B14C-E44D9C501CD1",
+        "CityId": "71D06293-F087-42F3-8244-56D6D6C7128B",
+        "LicensePlate": 30,
+        "Name": "Hakkari Merkez"
+    },
+    {
+        "Id": "33CFB12B-6EC6-40FD-8225-E4764E05611E",
+        "CityId": "E4554D68-391F-41BF-A6DA-70FA3B800B29",
+        "LicensePlate": 22,
+        "Name": "Edirne Merkez"
+    },
+    {
+        "Id": "0EB84C9F-5111-4034-912E-E47BA643F6A2",
+        "CityId": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "LicensePlate": 58,
+        "Name": "Suşehri"
+    },
+    {
+        "Id": "20004C1E-1A4D-4308-9013-E4D6BB40B477",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Yalıhüyük"
+    },
+    {
+        "Id": "F471CE25-F042-4FF8-B12E-E4EAABC68642",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Çal"
+    },
+    {
+        "Id": "E4C7A785-4A6F-45C0-88F4-E54190AB3178",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Kızılcahamam"
+    },
+    {
+        "Id": "3D8F1A35-7D4E-43FB-BE09-E610E1F23B6B",
+        "CityId": "ED5A1F7D-1AF9-44D1-82EF-CB255D931DF1",
+        "LicensePlate": 36,
+        "Name": "Arpaçay"
+    },
+    {
+        "Id": "560583F6-9770-48A9-8FE2-E64D28A7E477",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Harmancık"
+    },
+    {
+        "Id": "B20A04AD-CEA2-41E1-A495-E65D153BD932",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "İncesu"
+    },
+    {
+        "Id": "40DF85FF-20AF-4136-9475-E65EB83A0395",
+        "CityId": "B178B5B4-4674-47AA-879D-3037F5DB05F5",
+        "LicensePlate": 65,
+        "Name": "İpekyolu"
+    },
+    {
+        "Id": "921C05B4-82F2-4539-8F6C-E75AAA7A5DFD",
+        "CityId": "B178B5B4-4674-47AA-879D-3037F5DB05F5",
+        "LicensePlate": 65,
+        "Name": "Gürpınar"
+    },
+    {
+        "Id": "EE66CE12-9E91-4EEB-ABF8-E763FCAE8418",
+        "CityId": "6D888C8F-F4CD-4FDA-9B56-208CCE8F6D3D",
+        "LicensePlate": 12,
+        "Name": "Yedisu"
+    },
+    {
+        "Id": "A6FC8621-A18F-464B-BDDD-E77DCAE91209",
+        "CityId": "01F89680-DAD6-4B4E-B5E7-459575DFB229",
+        "LicensePlate": 27,
+        "Name": "Nizip"
+    },
+    {
+        "Id": "4DC8DD62-476C-4741-99B2-E790CC8CCC1B",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Turgutlu"
+    },
+    {
+        "Id": "35398C93-001B-4D52-A55F-E7E7E2916CFF",
+        "CityId": "8AB7FBF9-D2F1-44CC-AAE3-8B3A18B865C7",
+        "LicensePlate": 15,
+        "Name": "Çavdır"
+    },
+    {
+        "Id": "311900CF-DBF3-425F-AB69-E816A9ACBE5D",
+        "CityId": "569A01D1-EBFD-4CCF-84DC-77543A70AC49",
+        "LicensePlate": 62,
+        "Name": "Mazgirt"
+    },
+    {
+        "Id": "D4A2EEB0-D985-4D4F-8925-E8378B975894",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Beydağ"
+    },
+    {
+        "Id": "0382E514-9660-455E-8C1D-E8E402FAB17D",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Sürmene"
+    },
+    {
+        "Id": "7AF48677-5A86-4C4A-B9EE-E9C8015D6B3A",
+        "CityId": "35F118E5-2A32-4BCC-9B9A-1191088B96E9",
+        "LicensePlate": 57,
+        "Name": "Gerze"
+    },
+    {
+        "Id": "076BE5B6-2800-4231-B355-EA0EAAE17B19",
+        "CityId": "763BE7DE-9D7C-4231-8868-C719433E5E7F",
+        "LicensePlate": 8,
+        "Name": "Borçka"
+    },
+    {
+        "Id": "121E4762-F489-417C-A920-EA669A8CF533",
+        "CityId": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "LicensePlate": 66,
+        "Name": "Saraykent"
+    },
+    {
+        "Id": "FC378734-D6EF-4FA5-84CE-EA8E11C2F893",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Geyve"
+    },
+    {
+        "Id": "D968BD18-878E-434C-A720-EAC0FA618736",
+        "CityId": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "LicensePlate": 25,
+        "Name": "Hınıs"
+    },
+    {
+        "Id": "8E33E512-45C3-45DB-AAEA-EAD3B9345EF2",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Hayrat"
+    },
+    {
+        "Id": "FA22C2D8-BAA1-4EFE-901A-EAD868CD6D0F",
+        "CityId": "4EFD81C9-5E06-473F-A4D4-12920A9093BA",
+        "LicensePlate": 5,
+        "Name": "Göynücek"
+    },
+    {
+        "Id": "880E4663-7E67-4AAF-BA69-EAEF5DBDEF24",
+        "CityId": "9DB3F05C-6499-4084-87E9-BE3954EC1594",
+        "LicensePlate": 39,
+        "Name": "Demirköy"
+    },
+    {
+        "Id": "329B785D-92B8-42FB-94E0-EB5AD5705958",
+        "CityId": "82F47539-38DF-4463-871E-8E90182F8671",
+        "LicensePlate": 44,
+        "Name": "Kuluncak"
+    },
+    {
+        "Id": "3190C12B-00F3-441E-82ED-EB7A1CDEB365",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Ladik"
+    },
+    {
+        "Id": "5BC7DEDE-EC7A-44E8-A65D-ECD6A3EEAD97",
+        "CityId": "77C6C44E-5B3B-4244-8F71-A3FFFE96FB8C",
+        "LicensePlate": 80,
+        "Name": "Kadirli"
+    },
+    {
+        "Id": "41B0AD53-6C25-4C0A-B3CA-ED273B6EB61A",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Alaşehir"
+    },
+    {
+        "Id": "3CC12940-1E75-4515-932E-ED4CC1DC713F",
+        "CityId": "6D888C8F-F4CD-4FDA-9B56-208CCE8F6D3D",
+        "LicensePlate": 12,
+        "Name": "Karlıova"
+    },
+    {
+        "Id": "361F9BC6-B3E9-4C5D-B17A-ED6EA29F953C",
+        "CityId": "3F5A01E5-4AC7-4D3B-A8AA-CC03E4896A1B",
+        "LicensePlate": 71,
+        "Name": "Bahşili"
+    },
+    {
+        "Id": "FA83A183-0362-4D99-9AF3-ED81E9E95A31",
+        "CityId": "E4554D68-391F-41BF-A6DA-70FA3B800B29",
+        "LicensePlate": 22,
+        "Name": "İpsala"
+    },
+    {
+        "Id": "1CF073A8-0C1B-4AE4-A6C2-ED8BFE089138",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Eğil"
+    },
+    {
+        "Id": "BDAA82F9-CC6D-473D-BEC0-EDDB174C1C17",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Korgan"
+    },
+    {
+        "Id": "E0DC0ADF-43D6-4A47-A6AB-EE8D652242EC",
+        "CityId": "AF8CD910-CA31-4846-AD0F-0527D134CDF5",
+        "LicensePlate": 69,
+        "Name": "Aydıntepe"
+    },
+    {
+        "Id": "1BF897EE-795E-4A42-A320-EEC5E74EA8B3",
+        "CityId": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "LicensePlate": 19,
+        "Name": "Kargı"
+    },
+    {
+        "Id": "9F753593-48A3-4270-ABFD-EF03AA58B11B",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Kağıthane"
+    },
+    {
+        "Id": "0BB857C2-433B-4972-B92F-EF13598874B1",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "İznik"
+    },
+    {
+        "Id": "1B2A5EFA-6B13-4B25-BFAF-EF5FC5A0B61C",
+        "CityId": "77C6C44E-5B3B-4244-8F71-A3FFFE96FB8C",
+        "LicensePlate": 80,
+        "Name": "Osmaniye Merkez"
+    },
+    {
+        "Id": "A0C9295B-2E03-4C67-803A-EF61C9DE3698",
+        "CityId": "4FB8657E-62BC-40CC-88C9-D0C182F6E08E",
+        "LicensePlate": 43,
+        "Name": "Kütahya Merkez"
+    },
+    {
+        "Id": "8B612299-C848-47ED-B88E-EF6524845992",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Gaziemir"
+    },
+    {
+        "Id": "5781D3DE-0BC1-460A-9B0B-EF994448EB87",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Karatay"
+    },
+    {
+        "Id": "EDAE3C2A-0933-48A1-96FF-EFC325DA1DB3",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Sarıyer"
+    },
+    {
+        "Id": "9B119E02-FA04-4EBD-B6EC-EFD9EEE78AC1",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Manyas"
+    },
+    {
+        "Id": "A44EA420-825B-496F-9526-F04665AC367A",
+        "CityId": "470E6AA0-EA84-4884-8D48-08711B5FFBFE",
+        "LicensePlate": 49,
+        "Name": "Varto"
+    },
+    {
+        "Id": "B6A210AE-29DA-40B1-BD83-F0655471B81E",
+        "CityId": "35F118E5-2A32-4BCC-9B9A-1191088B96E9",
+        "LicensePlate": 57,
+        "Name": "Boyabat"
+    },
+    {
+        "Id": "1046338E-DEB9-4FB6-AF0F-F09FDB1CC884",
+        "CityId": "8F2B606C-B978-4DD5-955D-8CCEEA831483",
+        "LicensePlate": 60,
+        "Name": "Zile"
+    },
+    {
+        "Id": "8F5777C3-809E-4CE6-92DE-F11B1051CAB0",
+        "CityId": "83AE9E20-CCCE-419D-B6B2-F7B97BD5CDCD",
+        "LicensePlate": 51,
+        "Name": "Bor"
+    },
+    {
+        "Id": "60556762-BD88-4CEC-902B-F120338638E3",
+        "CityId": "82F47539-38DF-4463-871E-8E90182F8671",
+        "LicensePlate": 44,
+        "Name": "Hekimhan"
+    },
+    {
+        "Id": "A788E088-73D4-42CA-B244-F15A7936D445",
+        "CityId": "71D06293-F087-42F3-8244-56D6D6C7128B",
+        "LicensePlate": 30,
+        "Name": "Çukurca"
+    },
+    {
+        "Id": "444527D0-CB81-4230-9D50-F17AD8C28DAE",
+        "CityId": "6D888C8F-F4CD-4FDA-9B56-208CCE8F6D3D",
+        "LicensePlate": 12,
+        "Name": "Genç"
+    },
+    {
+        "Id": "1662ADF7-BDB6-4D96-8B30-F1C3759829FD",
+        "CityId": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "LicensePlate": 28,
+        "Name": "Eynesil"
+    },
+    {
+        "Id": "5D35C1AA-6928-47FD-9E6B-F1CD10EDC536",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "Altınordu"
+    },
+    {
+        "Id": "4FBE800B-96F1-4F19-A5A7-F1CDFB745F93",
+        "CityId": "BDF8ACFE-B92C-4875-946D-F3D35A4FA25F",
+        "LicensePlate": 64,
+        "Name": "Banaz"
+    },
+    {
+        "Id": "EDB08D8F-499F-4EF6-8917-F2023E935C2D",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Didim"
+    },
+    {
+        "Id": "07361677-C8B6-406F-B5CE-F21452735F63",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Havza"
+    },
+    {
+        "Id": "A0A1CC46-D1E0-4A56-BAA7-F21621C7926D",
+        "CityId": "470E6AA0-EA84-4884-8D48-08711B5FFBFE",
+        "LicensePlate": 49,
+        "Name": "Korkut"
+    },
+    {
+        "Id": "E30D9B82-CA1E-4B49-8EC9-F22AF0A8BAD6",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Dursunbey"
+    },
+    {
+        "Id": "8AABB30C-5D56-4528-97E2-F2432FEDEDA8",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Çardak"
+    },
+    {
+        "Id": "0BCBBF70-2955-4F02-B457-F28AEC713BC9",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Adapazarı"
+    },
+    {
+        "Id": "E9C8C176-1420-4F35-B222-F2DB1E3B8580",
+        "CityId": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "LicensePlate": 61,
+        "Name": "Şalpazarı"
+    },
+    {
+        "Id": "278C7B4F-B087-4263-A7B3-F2E7D8C787B8",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Çermik"
+    },
+    {
+        "Id": "212A8BAB-67D9-4E38-A331-F3C1DDA48020",
+        "CityId": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "LicensePlate": 7,
+        "Name": "Kepez"
+    },
+    {
+        "Id": "BB034FE5-8FBA-4EF6-A832-F3CF1D7B48DD",
+        "CityId": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "LicensePlate": 16,
+        "Name": "Mustafakemalpaşa"
+    },
+    {
+        "Id": "EBA5354E-5C1E-4687-8E0D-F40C51C0B539",
+        "CityId": "A2489047-E873-4748-B85B-2014F7BA68AA",
+        "LicensePlate": 33,
+        "Name": "Yenişehir \/ Mersin"
+    },
+    {
+        "Id": "E625C8A6-D7AE-4CCC-B9B8-F41D052B88A6",
+        "CityId": "35EED674-FF38-4059-80A5-987363D16698",
+        "LicensePlate": 26,
+        "Name": "Han"
+    },
+    {
+        "Id": "77BE9897-ADDF-49B4-958F-F42DCB7C1286",
+        "CityId": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "LicensePlate": 38,
+        "Name": "Hacılar"
+    },
+    {
+        "Id": "0EC5066E-5072-489A-A334-F4516E8CD18F",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Çınar"
+    },
+    {
+        "Id": "9A1E9FED-8C30-4079-A729-F4B9C4531C11",
+        "CityId": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "LicensePlate": 42,
+        "Name": "Çumra"
+    },
+    {
+        "Id": "6D53529A-522B-4A80-9370-F4F28290AEB7",
+        "CityId": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "LicensePlate": 9,
+        "Name": "Kuşadası"
+    },
+    {
+        "Id": "8751670B-155A-4DF8-AC9B-F508068A5794",
+        "CityId": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "LicensePlate": 6,
+        "Name": "Kalecik"
+    },
+    {
+        "Id": "30180E93-2EA3-4636-87D8-F51C3082A8EF",
+        "CityId": "72361AF4-F8E1-4368-B813-D883F62971D0",
+        "LicensePlate": 67,
+        "Name": "Gökçebey"
+    },
+    {
+        "Id": "B0F2D552-38C0-4919-B3FB-F542851EA416",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Bağcılar"
+    },
+    {
+        "Id": "95C4EC7B-FA24-4337-91F8-F5484827DCEF",
+        "CityId": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "LicensePlate": 10,
+        "Name": "Altıeylül"
+    },
+    {
+        "Id": "87A74B10-7268-43E5-9A82-F55E3AA00369",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Sarıgöl"
+    },
+    {
+        "Id": "E7F7509A-26A3-43B0-9791-F58690BBEDAC",
+        "CityId": "72361AF4-F8E1-4368-B813-D883F62971D0",
+        "LicensePlate": 67,
+        "Name": "Ereğli \/ Zonguldak"
+    },
+    {
+        "Id": "4B4C7D6C-98BC-4B73-A421-F5B625091546",
+        "CityId": "D04CCE1F-144D-4A19-9366-033EEAC12AB8",
+        "LicensePlate": 14,
+        "Name": "Mengen"
+    },
+    {
+        "Id": "6410E182-ED5F-4D16-A5CC-F5D19EDF7FC3",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Lice"
+    },
+    {
+        "Id": "D1F49CDC-E6C9-4A90-9049-F5D7ECADC8A7",
+        "CityId": "ED5A1F7D-1AF9-44D1-82EF-CB255D931DF1",
+        "LicensePlate": 36,
+        "Name": "Kağızman"
+    },
+    {
+        "Id": "B7D5250F-F556-4D7A-91AC-F6BB24BE3036",
+        "CityId": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "LicensePlate": 34,
+        "Name": "Eyüp"
+    },
+    {
+        "Id": "E291998D-1496-494E-985B-F7108C9E70C1",
+        "CityId": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "LicensePlate": 52,
+        "Name": "İkizce"
+    },
+    {
+        "Id": "EEDB2CB0-43BC-4E4A-B528-F7320F9B3023",
+        "CityId": "6AC74E9F-0673-440D-8175-BF54FC72A4F4",
+        "LicensePlate": 18,
+        "Name": "Bayramören"
+    },
+    {
+        "Id": "FEF2E499-789E-46F0-9821-F7491E627A81",
+        "CityId": "ED5A1F7D-1AF9-44D1-82EF-CB255D931DF1",
+        "LicensePlate": 36,
+        "Name": "Susuz"
+    },
+    {
+        "Id": "D8234E4C-F1DF-40A1-9926-F79C36ED8FC3",
+        "CityId": "E1DDF912-E3C7-4F04-83FE-37489231E191",
+        "LicensePlate": 68,
+        "Name": "Sarıyahşi"
+    },
+    {
+        "Id": "F9745A89-0BD1-459B-8369-F7A13787F6D7",
+        "CityId": "5328F50E-AA88-418D-9C80-6ECC992993F0",
+        "LicensePlate": 53,
+        "Name": "Çamlıhemşin"
+    },
+    {
+        "Id": "B25981FF-8D1F-40B5-A948-F7D2F66FF548",
+        "CityId": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "LicensePlate": 55,
+        "Name": "Bafra"
+    },
+    {
+        "Id": "038A2F2D-780B-43B6-B4D6-F84619D6C1A1",
+        "CityId": "2670CC1B-65E6-4228-A5A8-3D0F67F374E5",
+        "LicensePlate": 13,
+        "Name": "Hizan"
+    },
+    {
+        "Id": "41AC3AA1-65F9-41B8-AA59-F88CE1775E4C",
+        "CityId": "A2489047-E873-4748-B85B-2014F7BA68AA",
+        "LicensePlate": 33,
+        "Name": "Çamlıyayla"
+    },
+    {
+        "Id": "9B01F4D5-DF0A-4F3C-80E0-F8920409D93A",
+        "CityId": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "LicensePlate": 45,
+        "Name": "Ahmetli"
+    },
+    {
+        "Id": "4ED93702-A5ED-4583-9F12-F967923CCA22",
+        "CityId": "35F118E5-2A32-4BCC-9B9A-1191088B96E9",
+        "LicensePlate": 57,
+        "Name": "Dikmen"
+    },
+    {
+        "Id": "C8E250D0-3DDD-48E4-AC8C-F9DB953D10EC",
+        "CityId": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "LicensePlate": 21,
+        "Name": "Hani"
+    },
+    {
+        "Id": "93AA17AD-2546-48BF-B9D2-FA3BD2C6B786",
+        "CityId": "E4554D68-391F-41BF-A6DA-70FA3B800B29",
+        "LicensePlate": 22,
+        "Name": "Keşan"
+    },
+    {
+        "Id": "D44B4DBC-83EB-46F6-ACAC-FA50A9F4A6BD",
+        "CityId": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "LicensePlate": 1,
+        "Name": "Kozan"
+    },
+    {
+        "Id": "3125DE28-67C0-454F-BB35-FA539DA7BD3B",
+        "CityId": "FD3A53DC-51B7-484A-B72B-F2431C926141",
+        "LicensePlate": 24,
+        "Name": "Refahiye"
+    },
+    {
+        "Id": "ACB17BA8-0A2C-472C-A220-FB19E1C42BB7",
+        "CityId": "77C6C44E-5B3B-4244-8F71-A3FFFE96FB8C",
+        "LicensePlate": 80,
+        "Name": "Toprakkale"
+    },
+    {
+        "Id": "0BC2C6D7-C03C-4AD3-911B-FB57F63FFAF0",
+        "CityId": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "LicensePlate": 19,
+        "Name": "Mecitözü"
+    },
+    {
+        "Id": "0508EC94-1260-42C1-BC95-FB81AEC3F98B",
+        "CityId": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "LicensePlate": 31,
+        "Name": "Kumlu"
+    },
+    {
+        "Id": "0FB8EDE1-73E6-45A9-9929-FBC06E8DA07B",
+        "CityId": "0CA4D901-C9E6-48A2-B7EE-43969756BF8E",
+        "LicensePlate": 17,
+        "Name": "Gelibolu"
+    },
+    {
+        "Id": "ED1299CC-8537-4CDC-89A4-FBEBC1E3A3EC",
+        "CityId": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "LicensePlate": 19,
+        "Name": "Osmancık"
+    },
+    {
+        "Id": "AB6B675D-25B2-4D3D-9DCB-FC6EE9360025",
+        "CityId": "8AB7FBF9-D2F1-44CC-AAE3-8B3A18B865C7",
+        "LicensePlate": 15,
+        "Name": "Kemer \/ Burdur"
+    },
+    {
+        "Id": "3A992E4E-0B68-4452-9E6E-FC809A4604E8",
+        "CityId": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "LicensePlate": 35,
+        "Name": "Bornova"
+    },
+    {
+        "Id": "516B751B-DA3B-410C-B13F-FCA59901E360",
+        "CityId": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "LicensePlate": 54,
+        "Name": "Karasu"
+    },
+    {
+        "Id": "3C3D8FC2-2999-460A-A009-FD49AEE59663",
+        "CityId": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "LicensePlate": 3,
+        "Name": "İhsaniye"
+    },
+    {
+        "Id": "CF46003B-0EDD-4276-9D4F-FD581D9CD77C",
+        "CityId": "5D05DC4F-F2A4-4C6A-9C93-4B1EF5BEBA10",
+        "LicensePlate": 41,
+        "Name": "Dilovası"
+    },
+    {
+        "Id": "7D489085-34D9-4770-8DD9-FD6611CEA7AE",
+        "CityId": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "LicensePlate": 20,
+        "Name": "Babadağ"
+    },
+    {
+        "Id": "67DDC62D-AB7B-4912-9ED4-FD88E1655B51",
+        "CityId": "01F89680-DAD6-4B4E-B5E7-459575DFB229",
+        "LicensePlate": 27,
+        "Name": "Yavuzeli"
+    },
+    {
+        "Id": "DF12E2D5-399E-4DBC-998E-FEE95DA8A071",
+        "CityId": "5D52FA8F-33DD-42BE-92B1-0E8D5B16D9DF",
+        "LicensePlate": 63,
+        "Name": "Ceylanpınar"
+    },
+    {
+        "Id": "8A9E06F4-42F4-468B-9091-FF6BC9EF4A85",
+        "CityId": "85A7BA3E-E88D-4D46-BB16-AD331DB80513",
+        "LicensePlate": 4,
+        "Name": "Ağrı Merkez"
+    },
+    {
+        "Id": "34D83A43-F8FB-4483-8F7F-FFAED6D8993C",
+        "CityId": "44C2DCCC-C65D-448E-939E-359EFB9867E9",
+        "LicensePlate": 32,
+        "Name": "Gönen \/ Isparta"
+    }
+]

@@ -1,0 +1,407 @@
+[
+    {
+        "Id": "44D40288-3C11-4601-8DEF-019E8E940F3C",
+        "Name": "Balıkesir",
+        "LicensePlate": 10
+    },
+    {
+        "Id": "98F40E22-4DB5-484E-89C0-02E4F5BAFCEA",
+        "Name": "Sivas",
+        "LicensePlate": 58
+    },
+    {
+        "Id": "D04CCE1F-144D-4A19-9366-033EEAC12AB8",
+        "Name": "Bolu",
+        "LicensePlate": 14
+    },
+    {
+        "Id": "AF8CD910-CA31-4846-AD0F-0527D134CDF5",
+        "Name": "Bayburt",
+        "LicensePlate": 69
+    },
+    {
+        "Id": "E3BAB17E-1935-42E1-A7FE-06CB29F3B93C",
+        "Name": "Yozgat",
+        "LicensePlate": 66
+    },
+    {
+        "Id": "470E6AA0-EA84-4884-8D48-08711B5FFBFE",
+        "Name": "Muş",
+        "LicensePlate": 49
+    },
+    {
+        "Id": "5D52FA8F-33DD-42BE-92B1-0E8D5B16D9DF",
+        "Name": "Şanlıurfa",
+        "LicensePlate": 63
+    },
+    {
+        "Id": "35F118E5-2A32-4BCC-9B9A-1191088B96E9",
+        "Name": "Sinop",
+        "LicensePlate": 57
+    },
+    {
+        "Id": "4EFD81C9-5E06-473F-A4D4-12920A9093BA",
+        "Name": "Amasya",
+        "LicensePlate": 5
+    },
+    {
+        "Id": "2F8C2F72-92B5-4BCB-822B-14A652E7B404",
+        "Name": "Elazığ",
+        "LicensePlate": 23
+    },
+    {
+        "Id": "3139ACF9-BDD8-4FB2-AB76-14B87825BCC2",
+        "Name": "Sakarya",
+        "LicensePlate": 54
+    },
+    {
+        "Id": "A2489047-E873-4748-B85B-2014F7BA68AA",
+        "Name": "Mersin",
+        "LicensePlate": 33
+    },
+    {
+        "Id": "6D888C8F-F4CD-4FDA-9B56-208CCE8F6D3D",
+        "Name": "Bingöl",
+        "LicensePlate": 12
+    },
+    {
+        "Id": "DF805C45-828F-48DC-9C65-22C9F62A563A",
+        "Name": "İstanbul",
+        "LicensePlate": 34
+    },
+    {
+        "Id": "11936EB6-13D1-4F79-97BD-2404254F84C0",
+        "Name": "Batman",
+        "LicensePlate": 72
+    },
+    {
+        "Id": "557A99EA-8104-4813-BD16-2A3FBB15EFC1",
+        "Name": "Karaman",
+        "LicensePlate": 70
+    },
+    {
+        "Id": "98774BEE-6DD5-4211-9BBA-2F64945BBAF5",
+        "Name": "Kahramanmaraş",
+        "LicensePlate": 46
+    },
+    {
+        "Id": "B178B5B4-4674-47AA-879D-3037F5DB05F5",
+        "Name": "Van",
+        "LicensePlate": 65
+    },
+    {
+        "Id": "44C2DCCC-C65D-448E-939E-359EFB9867E9",
+        "Name": "Isparta",
+        "LicensePlate": 32
+    },
+    {
+        "Id": "E1DDF912-E3C7-4F04-83FE-37489231E191",
+        "Name": "Aksaray",
+        "LicensePlate": 68
+    },
+    {
+        "Id": "2670CC1B-65E6-4228-A5A8-3D0F67F374E5",
+        "Name": "Bitlis",
+        "LicensePlate": 13
+    },
+    {
+        "Id": "A5211C6B-19C3-4D6B-A626-3E2D29D47306",
+        "Name": "İzmir",
+        "LicensePlate": 35
+    },
+    {
+        "Id": "37060E25-736A-44D5-8A6C-3E7BB05751EA",
+        "Name": "Bilecik",
+        "LicensePlate": 11
+    },
+    {
+        "Id": "0CA4D901-C9E6-48A2-B7EE-43969756BF8E",
+        "Name": "Çanakkale",
+        "LicensePlate": 17
+    },
+    {
+        "Id": "EB01DEF7-7DBF-47A1-8E52-44332698F130",
+        "Name": "Gümüşhane",
+        "LicensePlate": 29
+    },
+    {
+        "Id": "01F89680-DAD6-4B4E-B5E7-459575DFB229",
+        "Name": "Gaziantep",
+        "LicensePlate": 27
+    },
+    {
+        "Id": "35CA39E9-A43F-46AB-B2ED-46A08ABAE321",
+        "Name": "Yalova",
+        "LicensePlate": 77
+    },
+    {
+        "Id": "5D05DC4F-F2A4-4C6A-9C93-4B1EF5BEBA10",
+        "Name": "Kocaeli",
+        "LicensePlate": 41
+    },
+    {
+        "Id": "154C2802-1D6D-4F1E-A3F3-4CD5B1EEBAA1",
+        "Name": "Kayseri",
+        "LicensePlate": 38
+    },
+    {
+        "Id": "C8D556F2-C0B3-4852-87D3-4DAC05947E9E",
+        "Name": "Adıyaman",
+        "LicensePlate": 2
+    },
+    {
+        "Id": "FCF2DECF-DAEA-4D44-B5FB-53B597B2BB31",
+        "Name": "Kastamonu",
+        "LicensePlate": 37
+    },
+    {
+        "Id": "71D06293-F087-42F3-8244-56D6D6C7128B",
+        "Name": "Hakkari",
+        "LicensePlate": 30
+    },
+    {
+        "Id": "3200C908-861C-4196-806F-5D692A4BCA8F",
+        "Name": "Bartın",
+        "LicensePlate": 74
+    },
+    {
+        "Id": "C06919D5-CB4F-4A4B-8C58-5FA5BAD7B260",
+        "Name": "Trabzon",
+        "LicensePlate": 61
+    },
+    {
+        "Id": "A6F3D4F3-BF03-40D9-A4FD-657ACA469285",
+        "Name": "Hatay",
+        "LicensePlate": 31
+    },
+    {
+        "Id": "751E950A-9031-441D-A0A8-66BAF6E85982",
+        "Name": "Şırnak",
+        "LicensePlate": 73
+    },
+    {
+        "Id": "353A4342-9214-4AB5-912A-67A6BE3E9818",
+        "Name": "Düzce",
+        "LicensePlate": 81
+    },
+    {
+        "Id": "7D977721-6EF8-40FF-AF7A-6EA286CC069D",
+        "Name": "Ardahan",
+        "LicensePlate": 75
+    },
+    {
+        "Id": "5328F50E-AA88-418D-9C80-6ECC992993F0",
+        "Name": "Rize",
+        "LicensePlate": 53
+    },
+    {
+        "Id": "E4554D68-391F-41BF-A6DA-70FA3B800B29",
+        "Name": "Edirne",
+        "LicensePlate": 22
+    },
+    {
+        "Id": "E27D0030-574F-4CFB-B2D1-71B1C433D80B",
+        "Name": "Iğdır",
+        "LicensePlate": 76
+    },
+    {
+        "Id": "45B5DD36-C310-4585-ADE8-74A307D55FAF",
+        "Name": "Kilis",
+        "LicensePlate": 79
+    },
+    {
+        "Id": "569A01D1-EBFD-4CCF-84DC-77543A70AC49",
+        "Name": "Tunceli",
+        "LicensePlate": 62
+    },
+    {
+        "Id": "27998AF5-0B1F-4B68-B188-7A63975BABE4",
+        "Name": "Nevşehir",
+        "LicensePlate": 50
+    },
+    {
+        "Id": "69CB5221-0AE0-4B36-8ED6-7EE05712F9EE",
+        "Name": "Karabük",
+        "LicensePlate": 78
+    },
+    {
+        "Id": "F927CD7C-9472-464F-BD4C-7F10F7462E1E",
+        "Name": "Aydın",
+        "LicensePlate": 9
+    },
+    {
+        "Id": "03D6CCA0-2B97-4D8F-BA83-877DEFC7EA9F",
+        "Name": "Samsun",
+        "LicensePlate": 55
+    },
+    {
+        "Id": "8AB7FBF9-D2F1-44CC-AAE3-8B3A18B865C7",
+        "Name": "Burdur",
+        "LicensePlate": 15
+    },
+    {
+        "Id": "8F2B606C-B978-4DD5-955D-8CCEEA831483",
+        "Name": "Tokat",
+        "LicensePlate": 60
+    },
+    {
+        "Id": "82F47539-38DF-4463-871E-8E90182F8671",
+        "Name": "Malatya",
+        "LicensePlate": 44
+    },
+    {
+        "Id": "5F16ADFD-F859-4BA2-8B45-8F371F4F0E2B",
+        "Name": "Erzurum",
+        "LicensePlate": 25
+    },
+    {
+        "Id": "35EED674-FF38-4059-80A5-987363D16698",
+        "Name": "Eskişehir",
+        "LicensePlate": 26
+    },
+    {
+        "Id": "66399F55-211D-404F-8509-9B36D2E1EC32",
+        "Name": "Çorum",
+        "LicensePlate": 19
+    },
+    {
+        "Id": "77C6C44E-5B3B-4244-8F71-A3FFFE96FB8C",
+        "Name": "Osmaniye",
+        "LicensePlate": 80
+    },
+    {
+        "Id": "85A7BA3E-E88D-4D46-BB16-AD331DB80513",
+        "Name": "Ağrı",
+        "LicensePlate": 4
+    },
+    {
+        "Id": "5CEB1519-BAA9-4782-8F0A-B53746C66519",
+        "Name": "Kırşehir",
+        "LicensePlate": 40
+    },
+    {
+        "Id": "A7757225-5423-4A53-8DF5-B734E56B062B",
+        "Name": "Siirt",
+        "LicensePlate": 56
+    },
+    {
+        "Id": "9DB3F05C-6499-4084-87E9-BE3954EC1594",
+        "Name": "Kırklareli",
+        "LicensePlate": 39
+    },
+    {
+        "Id": "6AC74E9F-0673-440D-8175-BF54FC72A4F4",
+        "Name": "Çankırı",
+        "LicensePlate": 18
+    },
+    {
+        "Id": "4A29869C-3F76-497B-B755-C12F45974B5F",
+        "Name": "Antalya",
+        "LicensePlate": 7
+    },
+    {
+        "Id": "DBEE34F7-3AF4-464D-9EA0-C56FA078FBCF",
+        "Name": "Ordu",
+        "LicensePlate": 52
+    },
+    {
+        "Id": "763BE7DE-9D7C-4231-8868-C719433E5E7F",
+        "Name": "Artvin",
+        "LicensePlate": 8
+    },
+    {
+        "Id": "84D37788-1CA9-44F7-8B06-C9A8BE806AD7",
+        "Name": "Konya",
+        "LicensePlate": 42
+    },
+    {
+        "Id": "ED5A1F7D-1AF9-44D1-82EF-CB255D931DF1",
+        "Name": "Kars",
+        "LicensePlate": 36
+    },
+    {
+        "Id": "3F5A01E5-4AC7-4D3B-A8AA-CC03E4896A1B",
+        "Name": "Kırıkkale",
+        "LicensePlate": 71
+    },
+    {
+        "Id": "4FB8657E-62BC-40CC-88C9-D0C182F6E08E",
+        "Name": "Kütahya",
+        "LicensePlate": 43
+    },
+    {
+        "Id": "1292CE15-2536-47BD-80FF-D607759B3A88",
+        "Name": "Afyonkarahisar",
+        "LicensePlate": 3
+    },
+    {
+        "Id": "72361AF4-F8E1-4368-B813-D883F62971D0",
+        "Name": "Zonguldak",
+        "LicensePlate": 67
+    },
+    {
+        "Id": "E4CCCF74-D79F-4784-8838-D9F9D3FFE927",
+        "Name": "Adana",
+        "LicensePlate": 1
+    },
+    {
+        "Id": "34289F79-228D-4950-AD13-DE87E32063CE",
+        "Name": "Denizli",
+        "LicensePlate": 20
+    },
+    {
+        "Id": "4840FD98-9EA4-40DA-9309-DE9C86D83CEE",
+        "Name": "Bursa",
+        "LicensePlate": 16
+    },
+    {
+        "Id": "D914A501-00B9-4805-934C-DF6F3F46D03F",
+        "Name": "Diyarbakır",
+        "LicensePlate": 21
+    },
+    {
+        "Id": "FF31E45F-3BE0-4C1B-AFB1-E4F160A090B7",
+        "Name": "Mardin",
+        "LicensePlate": 47
+    },
+    {
+        "Id": "272A3E26-B3E4-4336-A6A9-E652D4CD9414",
+        "Name": "Manisa",
+        "LicensePlate": 45
+    },
+    {
+        "Id": "E53EBA61-1039-415F-949C-E87EE3C857C2",
+        "Name": "Muğla",
+        "LicensePlate": 48
+    },
+    {
+        "Id": "D89CAAFA-230D-41A7-89EF-E93D4DDC335F",
+        "Name": "Ankara",
+        "LicensePlate": 6
+    },
+    {
+        "Id": "202CA76D-2BBA-4BA7-A898-EE02FEAFCC42",
+        "Name": "Tekirdağ",
+        "LicensePlate": 59
+    },
+    {
+        "Id": "FD3A53DC-51B7-484A-B72B-F2431C926141",
+        "Name": "Erzincan",
+        "LicensePlate": 24
+    },
+    {
+        "Id": "B2BB160B-EEFF-412B-9A93-F3B976C16113",
+        "Name": "Giresun",
+        "LicensePlate": 28
+    },
+    {
+        "Id": "BDF8ACFE-B92C-4875-946D-F3D35A4FA25F",
+        "Name": "Uşak",
+        "LicensePlate": 64
+    },
+    {
+        "Id": "83AE9E20-CCCE-419D-B6B2-F7B97BD5CDCD",
+        "Name": "Niğde",
+        "LicensePlate": 51
+    }
+]
